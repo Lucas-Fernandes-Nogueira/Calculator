@@ -9,7 +9,7 @@ def insistForValidInput(request, alert, validation):
 
 
 def operatorValidation(operator):
-    operators = ["x", "+", "-", "/", "%"]
+    operators = ["x", "+", "-", "/", "%", "^"]
     if operator not in operators:
         raise Exception
     else:
@@ -29,7 +29,9 @@ def operate(operator, leftOperand, rightOperand):
         else:
             result = leftOperand / rightOperand
     elif operator == "%":
-        return leftOperand % rightOperand
+        result = leftOperand % rightOperand
+    elif operator == "^":
+        result = leftOperand ** rightOperand
     else:
         print("How did you even get here?")
     print(result)
