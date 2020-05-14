@@ -1,0 +1,10000 @@
+goto 7870
+goto calc x 574 17
+replace 6364 8181
+goto 121
+goto calc + 2576 82
+goto calc x 738 8
+goto calc - 1734 21
+replace 3423 1700
+replace 3423 5691
+goto 2294
+goto 2994
+remove 8385
+goto 5994
+remove 5324
+goto calc / 7257 78
+remove 9956
+remove 1355
+remove 6063
+replace 3764 1642
+remove 2280
+goto calc / 126 87
+replace 2960 6320
+goto calc / 5288 53
+remove 5208
+goto calc - 596 28
+goto 7373
+replace 385 7628
+goto calc + 7743 32
+remove 6564
+goto calc + 5726 32
+goto 7705
+goto 5045
+goto 3474
+replace 5333 5998
+replace 3708 6148
+replace 6238 6016
+replace 9338 3771
+goto calc + 6448 75
+remove 8498
+goto 4932
+replace 6085 6307
+replace 648 7134
+replace 9412 7518
+goto calc / 4182 79
+goto calc / 8576 80
+goto calc - 2457 25
+replace 5006 2819
+goto calc x 8956 1
+replace 9037 5167
+goto 681
+replace 8793 8315
+replace 5468 7798
+remove 4232
+goto calc - 9406 51
+goto calc / 8137 46
+goto calc + 7174 95
+goto calc - 6374 37
+replace 7571 3897
+remove 7190
+goto 5789
+replace 3284 2488
+goto 9545
+goto calc / 9898 37
+goto 6850
+remove 9236
+replace 9130 5372
+goto calc / 885 36
+goto calc + 6277 79
+replace 6474 6937
+remove 1014
+remove 3628
+replace 3741 5668
+goto calc / 7895 85
+remove 7680
+replace 7488 3712
+goto calc - 2958 50
+goto calc - 8125 100
+goto calc - 9700 32
+remove 662
+goto calc - 5469 33
+goto 2243
+goto calc + 9835 68
+replace 4210 4248
+remove 3948
+goto 5444
+replace 6024 7327
+goto 8626
+replace 670 5763
+goto 2820
+goto calc - 7129 41
+goto calc / 2186 44
+replace 5210 3334
+goto calc - 1233 68
+remove 2019
+goto 5370
+goto calc + 8211 97
+goto 7472
+remove 7209
+goto calc - 8626 90
+replace 3509 3517
+goto 3901
+replace 7183 9641
+goto 5110
+goto calc - 3781 63
+goto calc - 2918 85
+replace 3622 1362
+replace 1139 9422
+replace 4662 9133
+goto 7626
+goto calc / 687 48
+goto calc + 8838 48
+replace 4780 5179
+goto 1069
+goto calc - 9184 2
+goto 2856
+replace 8417 4323
+remove 8903
+replace 8028 5720
+remove 5258
+remove 7046
+remove 4506
+replace 3901 8977
+goto calc + 6395 5
+replace 8939 816
+replace 8559 418
+goto calc + 6054 16
+replace 4549 4812
+goto 5614
+replace 2413 660
+goto 47
+goto 1006
+goto 7512
+goto calc / 1449 94
+goto 1157
+remove 2905
+remove 3914
+goto 5188
+goto 5683
+goto calc - 4474 3
+replace 7450 9025
+replace 5726 7832
+remove 2659
+goto calc / 8461 17
+replace 1440 3781
+goto 3007
+remove 8061
+remove 5220
+remove 125
+goto calc / 8301 30
+remove 5976
+replace 9758 7432
+remove 2055
+goto 3443
+remove 3901
+remove 436
+goto calc - 7055 30
+goto 1040
+goto calc - 6051 59
+remove 6219
+replace 7420 4390
+goto calc - 2252 98
+replace 5534 5803
+goto 7713
+replace 470 2388
+goto calc + 5139 86
+goto 18
+goto calc + 2432 65
+replace 1459 1522
+goto 359
+goto calc - 1502 30
+goto 5480
+goto calc / 2453 8
+goto calc - 6456 61
+replace 9548 8033
+replace 418 2722
+replace 9194 7631
+remove 5373
+replace 6105 7790
+remove 6634
+replace 647 7289
+replace 5460 4644
+remove 7754
+goto 7306
+replace 6362 484
+replace 6013 4951
+goto 3022
+goto calc - 78 81
+replace 401 444
+replace 3033 934
+replace 5270 9618
+replace 8543 1532
+goto 4383
+remove 5417
+goto calc - 3036 51
+replace 9112 3359
+replace 996 8167
+remove 5432
+goto calc - 1865 96
+remove 9324
+goto calc / 97 63
+goto 8344
+replace 6502 6434
+replace 6538 2914
+goto calc + 8653 43
+replace 5833 5125
+replace 680 1761
+replace 8248 9645
+remove 3921
+goto calc / 10000 75
+goto 655
+replace 9280 1480
+remove 7175
+remove 7167
+goto 9927
+goto calc - 5720 20
+goto 8369
+goto calc / 3929 28
+remove 6396
+goto calc / 4535 72
+remove 1726
+goto 5439
+remove 6831
+replace 2065 9652
+goto calc + 3860 48
+goto 6173
+replace 3014 3405
+goto calc + 131 44
+goto 4935
+goto calc / 6834 62
+replace 8001 7825
+remove 3535
+goto 5809
+goto 5381
+remove 2068
+goto calc - 7118 82
+remove 5065
+goto calc / 8654 51
+replace 1927 48
+remove 294
+goto calc + 2529 17
+replace 3186 7786
+goto calc / 4687 4
+goto 9564
+goto calc + 9597 86
+goto calc / 15 37
+goto 8933
+replace 3413 2298
+goto calc / 30 53
+remove 4871
+replace 5412 3197
+remove 3435
+goto calc / 5799 91
+remove 565
+replace 1596 2345
+goto 1723
+replace 6451 1612
+remove 7672
+replace 9086 8116
+goto 9398
+goto 670
+replace 830 4758
+replace 9635 4751
+remove 1736
+remove 2866
+goto 364
+remove 948
+goto calc - 9400 79
+replace 6515 7951
+replace 4953 3713
+remove 4040
+replace 994 766
+remove 8392
+goto 1902
+remove 2061
+goto calc + 7695 43
+goto 7233
+remove 3368
+goto 1800
+goto 430
+goto calc - 1676 73
+goto calc + 5170 86
+remove 81
+remove 8152
+goto 1822
+goto 5588
+goto 1215
+goto 8874
+goto calc - 2573 66
+goto 7211
+remove 2133
+goto calc + 4003 19
+goto 8960
+goto calc - 6827 20
+replace 9890 3181
+replace 5570 7438
+goto calc / 5747 69
+goto calc + 1471 76
+goto 2928
+goto 6785
+remove 4871
+goto 103
+remove 7107
+goto calc + 6430 11
+remove 1374
+replace 7646 4053
+goto 2138
+replace 1694 900
+goto calc + 7199 15
+goto 7269
+replace 9605 5934
+goto calc - 2275 48
+goto 6689
+goto calc + 2035 6
+remove 3778
+remove 8521
+replace 9163 9625
+remove 149
+goto calc / 8789 23
+remove 5850
+goto calc / 3894 33
+replace 6319 9291
+remove 5722
+replace 1098 750
+remove 2391
+replace 6227 3102
+goto 4331
+remove 2712
+goto 4491
+remove 4839
+replace 8327 4022
+goto calc + 2345 43
+goto calc - 8525 11
+replace 4038 4153
+replace 4930 2587
+replace 3756 4221
+replace 3537 4619
+remove 6062
+remove 7637
+goto calc / 6116 30
+remove 3198
+replace 8012 8227
+replace 7102 1761
+remove 1124
+goto calc / 3096 39
+remove 6193
+remove 9088
+goto 7006
+replace 2659 9023
+goto calc / 5934 65
+goto calc / 2276 88
+goto calc - 9997 30
+goto calc - 1900 19
+remove 9342
+remove 9477
+goto 1668
+replace 4130 8740
+replace 5847 3627
+replace 1452 7372
+remove 8756
+goto 5914
+goto 9266
+remove 4235
+replace 8254 3192
+remove 6115
+goto 1621
+replace 5612 9681
+remove 3518
+goto calc + 9575 6
+replace 5026 9912
+replace 286 4055
+replace 8709 6796
+goto calc + 7999 10
+remove 5372
+remove 6847
+remove 2503
+replace 5920 1624
+goto 8878
+goto 6157
+remove 5920
+goto calc - 3297 63
+goto 6506
+goto calc - 1426 12
+replace 1909 4903
+remove 6837
+replace 6676 3401
+goto 2660
+goto 95
+replace 7623 3342
+goto 3412
+remove 3626
+remove 6793
+goto calc + 8200 79
+goto 7550
+replace 6685 9896
+replace 8189 132
+goto 2666
+goto 1120
+remove 1120
+goto 5648
+replace 4709 2303
+goto calc + 994 25
+goto 5202
+goto 7751
+replace 8250 6466
+goto 7681
+goto calc + 6357 94
+replace 2590 6279
+goto 6568
+goto calc - 9922 89
+goto calc - 7994 96
+goto 3964
+goto calc + 6036 64
+goto calc / 9200 49
+goto 1397
+replace 1118 7699
+goto calc - 7731 81
+goto calc - 1850 63
+goto calc - 1653 55
+goto calc / 9181 69
+goto 7185
+replace 4025 1057
+replace 5259 5359
+goto 9857
+replace 9824 5124
+goto calc / 385 86
+replace 4186 8150
+goto calc + 6286 10
+goto 1615
+replace 8559 1987
+goto calc - 1411 11
+goto 6808
+remove 4581
+goto calc / 4263 17
+goto 9663
+goto 2780
+remove 1060
+goto 2932
+goto calc / 495 22
+goto calc / 6299 87
+goto calc + 2412 35
+goto calc / 2138 85
+goto 1444
+goto 3925
+replace 2713 6112
+goto 1912
+goto calc - 9686 60
+goto calc + 4547 30
+goto calc - 221 30
+remove 947
+goto calc / 7016 97
+goto calc + 9345 65
+goto 2182
+goto 2002
+goto 2291
+remove 3813
+replace 2206 9422
+goto calc - 784 4
+remove 5231
+replace 7618 6567
+remove 660
+replace 8597 4775
+goto calc / 9136 3
+goto 263
+goto 9208
+goto 4698
+goto calc / 7055 3
+remove 6235
+goto 7486
+replace 3820 2289
+goto calc - 7571 45
+goto 9726
+remove 5128
+replace 4467 1964
+replace 1215 4843
+goto 3563
+goto calc / 2114 70
+replace 2704 8955
+goto 1790
+remove 2476
+remove 732
+goto calc + 2319 84
+remove 7772
+goto 3164
+replace 2101 1797
+remove 6989
+goto calc - 9766 55
+replace 9292 2504
+goto 6277
+goto 7495
+goto 1379
+replace 1801 492
+goto 4480
+goto calc - 2471 17
+goto 5565
+replace 450 7122
+goto 801
+remove 1877
+goto 9173
+remove 901
+remove 5069
+goto 5226
+replace 8456 798
+remove 9192
+goto calc - 7026 40
+replace 1879 3979
+remove 9569
+replace 9793 118
+replace 7032 4747
+remove 1553
+remove 2445
+remove 3550
+goto calc + 4818 54
+goto 6357
+replace 7651 5727
+remove 9777
+goto calc + 289 43
+goto calc / 6025 32
+replace 8922 13
+goto calc / 3310 89
+goto 5722
+goto 9044
+remove 3861
+goto calc - 8577 42
+goto calc / 8686 66
+goto 3073
+goto calc - 4999 44
+goto calc + 7935 25
+replace 3321 721
+goto 3965
+replace 3389 231
+replace 3158 8853
+goto calc - 6785 74
+goto 7339
+replace 216 8054
+replace 2598 1978
+goto calc + 5660 51
+replace 3947 3492
+goto 6013
+replace 4704 8701
+remove 1814
+remove 4677
+replace 3286 1007
+goto calc / 39 71
+goto 9774
+goto calc - 9014 43
+goto calc - 9799 65
+goto calc / 6016 42
+remove 7763
+goto 4655
+goto 6916
+goto 6514
+goto 4337
+remove 3833
+replace 2389 3139
+goto 3702
+remove 3701
+goto calc - 9909 52
+goto 7613
+goto calc + 2559 77
+goto calc + 5052 6
+goto 9659
+replace 8148 5956
+goto calc - 5253 9
+remove 817
+goto 4004
+goto 4954
+remove 5458
+goto 8669
+replace 30 5309
+goto calc / 4438 19
+replace 7122 6955
+remove 223
+remove 3749
+replace 4192 8750
+goto calc / 8778 42
+remove 1693
+replace 7358 282
+replace 1519 6576
+goto calc - 5651 55
+replace 4092 6316
+replace 6902 2521
+goto 3326
+goto 4618
+remove 2175
+remove 5441
+replace 3007 5612
+goto calc + 9174 97
+replace 7328 7259
+replace 5572 3539
+goto calc - 2542 36
+remove 8007
+goto 9646
+goto calc - 7624 32
+replace 854 135
+replace 6279 2294
+remove 9506
+remove 1413
+replace 3758 9229
+remove 3886
+goto 9556
+goto 5217
+replace 8735 720
+replace 4029 209
+goto 2224
+goto 2671
+goto calc - 3934 58
+goto calc + 5728 17
+goto calc - 1711 22
+remove 3495
+goto calc / 6957 15
+goto 1395
+goto calc - 8864 92
+remove 5180
+goto calc + 4039 73
+goto 4212
+goto calc + 1900 49
+goto calc / 9727 67
+goto calc - 5636 86
+remove 4779
+goto calc - 3605 56
+goto 9702
+goto calc / 9078 85
+replace 8748 5925
+goto calc - 9829 21
+goto 9167
+remove 1673
+remove 3486
+replace 3775 2382
+goto calc + 7915 20
+replace 4782 1543
+goto calc - 3174 40
+replace 5715 6889
+goto calc / 4861 81
+replace 5321 4599
+replace 1432 6007
+remove 7003
+replace 106 1629
+goto calc / 9215 45
+replace 4243 3737
+remove 5915
+remove 6160
+goto calc / 774 39
+goto 1099
+remove 1646
+goto calc / 6935 5
+remove 4011
+remove 9937
+goto calc / 9764 78
+remove 9990
+goto calc / 1685 66
+replace 9238 5234
+goto calc - 9140 35
+replace 804 6952
+goto 2768
+goto 7163
+replace 9925 4907
+remove 2234
+replace 9674 8678
+remove 1222
+goto calc / 1247 40
+replace 6067 6575
+replace 4829 8007
+replace 5491 6159
+replace 1827 2838
+replace 5083 465
+goto 6457
+goto 9730
+remove 4378
+goto calc / 9822 12
+goto 7626
+goto 8061
+replace 7786 6000
+goto calc + 374 14
+goto calc - 133 22
+goto calc / 7314 28
+remove 7163
+goto 2850
+goto calc - 8582 26
+goto 3086
+goto calc + 7201 50
+goto 2870
+goto calc + 1348 29
+remove 9744
+goto calc + 9895 100
+goto calc + 6712 4
+goto 7318
+replace 718 4893
+goto 823
+goto 5536
+remove 9007
+replace 4662 962
+remove 5120
+goto 6511
+goto calc - 5004 90
+goto 6920
+remove 2097
+goto 8527
+remove 6553
+goto calc - 6296 76
+goto 8180
+replace 7257 2567
+remove 5854
+remove 9854
+replace 5261 4028
+goto calc - 1646 13
+remove 4097
+goto calc - 1711 13
+remove 1715
+goto calc / 9965 36
+goto 7471
+goto 7066
+goto calc + 8459 49
+replace 4086 6268
+remove 3438
+goto calc - 8612 48
+remove 7847
+replace 8759 5564
+remove 7875
+goto calc - 1825 40
+goto calc - 9582 96
+remove 8815
+replace 2457 9794
+goto 361
+replace 2842 3829
+goto 4022
+goto 4028
+replace 1182 1091
+goto 702
+replace 8430 693
+goto calc - 6891 25
+remove 904
+replace 6573 2949
+replace 1253 9201
+goto calc / 5195 96
+remove 9051
+remove 4531
+goto 673
+goto 3591
+remove 9699
+goto 8976
+replace 7778 252
+replace 3285 2598
+replace 6869 6003
+replace 9161 302
+replace 1363 5898
+goto 428
+goto 4176
+replace 2454 1271
+goto calc / 4517 29
+remove 4064
+remove 1200
+remove 9210
+goto calc + 5719 71
+goto calc - 2617 84
+goto calc - 7710 8
+replace 5844 8227
+goto 7787
+remove 7129
+goto calc / 6654 93
+remove 9663
+goto calc - 9757 26
+replace 6065 8359
+goto calc / 1500 29
+remove 4960
+goto 71
+goto 6166
+replace 7007 6657
+goto calc + 6864 2
+remove 9595
+remove 9403
+goto calc / 2204 47
+goto calc / 7234 86
+goto 7754
+goto 4307
+remove 9516
+goto calc - 3981 73
+remove 4157
+remove 7044
+goto 7411
+goto 5281
+replace 1565 2181
+replace 5063 5622
+replace 1981 234
+remove 1980
+goto calc - 851 48
+goto 6683
+goto 5569
+remove 3520
+goto 4119
+goto 4472
+goto calc + 58 64
+remove 2540
+goto calc - 3060 28
+remove 8045
+goto calc / 2086 92
+goto calc - 4443 87
+goto 5875
+goto 2381
+goto calc - 6513 83
+goto calc / 6923 46
+remove 5352
+replace 8503 6469
+replace 2457 6677
+replace 7048 1590
+goto 137
+goto 5857
+goto calc / 2801 9
+replace 9074 8203
+goto calc - 9766 78
+goto 4917
+remove 277
+goto 4727
+goto 8635
+goto 448
+replace 4236 4707
+goto 9061
+goto calc / 6079 52
+goto 1777
+goto 5677
+replace 4695 7485
+remove 1846
+remove 4275
+goto calc + 2780 28
+remove 6711
+remove 8766
+replace 2225 1204
+goto 310
+remove 2469
+remove 9817
+replace 4456 294
+remove 6959
+remove 7372
+goto 1534
+remove 2200
+goto calc + 4609 79
+remove 7255
+goto calc / 941 81
+remove 8923
+replace 2109 4258
+goto 6030
+goto 7824
+remove 8245
+goto calc - 186 35
+remove 205
+replace 2764 1286
+goto 9040
+goto calc + 3062 24
+replace 7555 3179
+goto calc / 7077 87
+replace 3295 3118
+remove 8676
+goto 2844
+replace 8318 1650
+goto calc / 3236 61
+replace 7161 2274
+goto calc / 8620 46
+goto 3528
+goto calc / 1580 52
+goto calc + 2236 87
+goto calc + 573 86
+goto calc - 7504 95
+replace 7869 4955
+remove 3187
+remove 8112
+replace 8092 4871
+replace 1769 8612
+remove 4965
+goto calc / 3764 88
+goto 1869
+remove 4543
+goto 130
+goto calc / 3218 3
+goto calc + 7153 79
+remove 2067
+remove 550
+replace 6058 5911
+goto 1868
+remove 8730
+replace 3612 7142
+goto 1507
+goto calc + 7563 16
+goto 2803
+goto 5620
+replace 3586 9206
+goto calc / 8214 28
+goto 7984
+replace 8436 832
+replace 6348 5508
+goto 6756
+replace 7224 1753
+replace 7820 9257
+remove 7744
+remove 7457
+goto calc / 6628 76
+remove 4992
+goto 604
+goto calc + 912 77
+replace 3806 567
+goto calc - 5268 81
+goto 1173
+goto calc + 2375 76
+replace 1679 3372
+replace 1856 2863
+goto calc + 4399 85
+goto 4541
+goto calc - 9662 48
+goto 6959
+goto 3527
+goto calc + 5423 49
+goto 2666
+goto calc + 8628 4
+replace 6586 9390
+goto calc + 2164 86
+replace 3783 2533
+goto 7539
+goto 8775
+goto calc / 2731 88
+goto calc - 6475 5
+remove 2989
+goto 6280
+replace 1623 7274
+goto 6131
+goto 5776
+replace 5091 5642
+goto calc + 1246 99
+goto calc - 8751 77
+remove 3347
+remove 3985
+remove 5570
+remove 6067
+replace 5985 5030
+replace 8638 8311
+goto calc - 6527 44
+goto calc + 6474 75
+goto 8849
+remove 5118
+replace 1347 8101
+replace 1088 2089
+goto 1984
+goto calc - 9460 81
+replace 6732 7559
+goto calc - 3181 68
+goto 2962
+goto calc / 7386 3
+replace 7627 6749
+goto calc + 185 58
+goto 947
+goto calc - 4962 65
+goto 6169
+replace 3941 8696
+goto 6464
+goto calc / 8536 21
+replace 7875 7831
+replace 426 5388
+remove 3768
+replace 8059 2731
+goto 1165
+goto calc / 1239 75
+goto calc + 5980 81
+goto calc + 5501 13
+replace 4139 942
+replace 6646 7616
+goto 8014
+goto calc / 255 77
+remove 5184
+goto calc / 5936 19
+remove 3825
+goto 7420
+goto 1154
+remove 7395
+goto 9683
+remove 9610
+goto 9925
+goto 4888
+remove 2650
+replace 53 3489
+remove 1415
+replace 6776 2416
+replace 124 4480
+goto calc / 482 21
+replace 4393 5041
+replace 6450 3163
+goto 4671
+goto 2599
+goto calc + 470 38
+goto 5779
+goto calc - 7185 58
+goto 5423
+goto 2774
+replace 1881 2324
+replace 4384 4511
+replace 9179 4933
+goto calc + 5200 61
+remove 3345
+replace 4473 2076
+replace 7384 6181
+goto calc + 4977 80
+replace 9160 4064
+goto calc + 5851 63
+replace 1943 7205
+goto calc + 5409 76
+replace 1976 8148
+goto calc / 3171 69
+goto calc / 5182 8
+remove 8813
+remove 5313
+goto calc - 8906 21
+goto 4408
+remove 2776
+remove 2100
+remove 7473
+remove 874
+replace 8501 1206
+remove 1701
+replace 6552 4720
+goto calc / 6445 63
+remove 7141
+remove 6011
+goto 9568
+replace 3902 6925
+replace 3656 1546
+goto calc + 8040 53
+remove 1060
+replace 7339 6596
+goto calc + 1066 80
+goto 8735
+replace 3046 6156
+remove 6338
+replace 3869 5837
+replace 4124 4490
+goto calc + 8448 24
+goto calc - 4637 2
+replace 3018 5885
+replace 5277 9751
+goto calc / 8641 96
+replace 1251 4201
+remove 1727
+goto 7047
+goto calc - 2196 55
+goto 9316
+replace 8564 7882
+goto 2474
+replace 4250 4359
+replace 8607 3307
+goto 2706
+goto 5271
+replace 1715 7288
+replace 6878 4089
+goto 1638
+replace 680 1992
+remove 2776
+goto calc + 8656 48
+replace 5388 2404
+goto 5880
+replace 924 8164
+goto calc - 5574 10
+remove 9305
+remove 9084
+replace 8101 5958
+goto calc + 9250 42
+remove 2540
+goto 3030
+goto 1504
+goto calc - 145 24
+goto 8239
+replace 400 1698
+goto 2066
+remove 3710
+replace 2611 4007
+goto calc - 7540 55
+goto calc + 475 76
+goto calc / 489 71
+goto calc + 6184 42
+remove 7122
+goto 2672
+goto calc + 4850 27
+goto calc + 7337 53
+goto calc + 2031 47
+goto calc + 2916 95
+goto calc / 6239 86
+goto 457
+goto 8300
+goto 5599
+goto calc + 192 19
+replace 5189 6895
+replace 6122 2421
+remove 7155
+remove 3806
+goto calc - 1321 10
+goto 9104
+replace 3678 6951
+goto 9922
+remove 5962
+goto 2569
+replace 7702 3657
+replace 1830 859
+replace 9739 709
+goto 5661
+replace 8176 7979
+goto calc - 5922 14
+goto calc / 5528 29
+replace 119 967
+remove 6961
+replace 9733 5531
+goto 7024
+goto 5222
+goto 4953
+goto calc - 2965 45
+replace 9103 1591
+replace 8841 2038
+remove 193
+replace 2191 3719
+goto 7217
+goto calc - 527 5
+goto calc + 3379 64
+replace 2812 1136
+goto 6430
+goto 3243
+replace 9663 1240
+replace 2117 380
+goto 8486
+goto calc / 4900 65
+remove 194
+replace 5766 9909
+goto calc / 904 50
+replace 7834 4523
+goto calc / 3053 27
+remove 1212
+goto calc + 2802 3
+goto 1094
+goto 4493
+goto calc / 2852 25
+goto 8714
+remove 4287
+replace 6972 5982
+replace 1132 3389
+remove 7333
+goto 5391
+goto 8757
+remove 3052
+goto 1042
+goto calc / 1359 42
+replace 3888 7065
+goto 6565
+goto calc - 5309 92
+goto calc / 2132 29
+goto 9954
+goto 1214
+remove 1275
+goto 8638
+goto 9110
+goto 9874
+replace 475 3593
+remove 4502
+replace 1857 3508
+remove 5196
+goto 4311
+remove 1609
+goto calc + 6831 40
+goto 684
+goto calc + 3545 54
+remove 6657
+remove 6767
+goto 9109
+goto 2708
+goto 4112
+replace 3909 2288
+goto calc - 5344 23
+remove 5058
+goto 3237
+remove 4504
+remove 8664
+replace 2288 1872
+replace 9438 3349
+goto calc - 2 49
+remove 8963
+remove 5719
+remove 2069
+goto calc + 8650 70
+replace 4596 8479
+goto calc / 4539 10
+remove 6237
+goto 4595
+remove 314
+goto calc / 4716 27
+replace 3573 5344
+remove 437
+goto 4868
+remove 1406
+remove 4935
+replace 1887 5590
+replace 3736 6973
+goto calc - 2219 53
+remove 6510
+replace 8624 8956
+goto 1320
+goto calc - 222 45
+goto 8208
+replace 6358 7163
+remove 3762
+replace 1729 8134
+goto calc / 7723 44
+goto calc - 2135 12
+replace 5807 3083
+goto calc / 8378 34
+goto 3020
+goto calc - 3311 38
+goto 7680
+remove 1011
+goto calc - 9402 87
+goto 5930
+goto 6631
+goto 9435
+remove 755
+remove 9264
+goto calc + 822 58
+remove 6011
+remove 4531
+replace 818 1878
+goto calc / 9369 42
+remove 7994
+goto 8326
+goto calc - 6387 14
+replace 2882 6272
+goto 3852
+goto 1646
+goto calc - 2277 6
+remove 7813
+replace 4277 1979
+goto 7687
+goto 6447
+replace 1405 7249
+remove 9313
+remove 602
+goto 7812
+replace 2004 7065
+replace 1648 6296
+goto 2112
+goto calc + 6413 63
+replace 5980 7233
+remove 6463
+goto calc / 105 58
+goto calc - 8641 14
+goto calc + 1684 65
+replace 3871 9916
+goto calc + 6630 18
+goto 4654
+goto 7702
+goto calc - 1382 48
+replace 9844 5501
+goto calc / 261 66
+remove 3452
+replace 2855 7206
+goto calc + 6436 11
+remove 4388
+remove 5416
+replace 2696 4470
+goto 1383
+remove 4737
+replace 7030 3417
+goto calc / 3510 3
+remove 6363
+replace 3963 8067
+replace 9647 8127
+replace 8363 8635
+goto calc - 1687 56
+replace 7969 8534
+goto calc + 8157 57
+goto 3371
+goto 4434
+replace 3290 9589
+remove 7678
+remove 6908
+remove 7686
+goto 6475
+goto 8535
+goto 7256
+goto calc / 7647 99
+replace 9643 8999
+remove 5408
+remove 4057
+goto calc + 4635 26
+goto 205
+remove 5723
+replace 429 4440
+goto 1714
+remove 2884
+goto 8847
+goto calc / 3011 61
+goto calc + 3635 71
+replace 3368 7846
+goto calc + 580 23
+goto calc - 5427 29
+goto calc - 7489 56
+goto 6377
+goto 3975
+remove 7215
+replace 6112 3923
+remove 9414
+goto calc / 2396 32
+remove 6087
+remove 8103
+replace 4123 6339
+replace 9213 5627
+goto calc / 7367 16
+goto 8739
+goto calc x 6797 1
+goto calc / 4061 60
+replace 6006 998
+goto calc / 6397 75
+remove 7106
+goto calc / 9324 95
+goto calc + 8331 92
+goto 9544
+replace 86 2362
+remove 2218
+goto calc / 4869 27
+goto calc / 5016 89
+replace 9256 9724
+goto calc / 9773 80
+goto calc + 2634 93
+replace 5550 8442
+remove 6009
+remove 245
+remove 878
+replace 4069 367
+goto calc / 925 36
+replace 2442 7369
+replace 6813 6386
+replace 4308 1008
+goto calc / 3805 42
+remove 8868
+goto calc + 9276 14
+replace 6554 93
+replace 1579 2807
+replace 38 31
+goto 6356
+goto calc / 7932 51
+replace 4862 9704
+goto 5181
+goto 8137
+goto 9414
+replace 3380 3406
+goto 714
+remove 1530
+goto calc + 8979 14
+goto calc + 8148 38
+goto 5528
+goto 7935
+replace 3353 2094
+goto calc / 6461 26
+replace 8013 2842
+remove 5660
+goto 3177
+remove 1093
+goto 7678
+goto 9418
+replace 7692 2761
+goto 9457
+replace 9605 7211
+goto 5779
+remove 3625
+replace 6456 7371
+remove 1230
+replace 2469 4504
+goto calc - 4268 100
+replace 4438 7939
+remove 3204
+replace 4678 8479
+replace 9415 7992
+replace 462 6020
+remove 7061
+replace 8680 8796
+goto 9506
+goto 8701
+replace 8070 7399
+remove 3838
+remove 829
+goto calc - 1441 79
+remove 9678
+replace 6827 1527
+remove 477
+replace 347 2335
+goto calc + 4418 4
+replace 5320 8121
+goto 5143
+goto 2459
+goto 2831
+remove 9271
+replace 2762 9921
+goto calc - 3079 38
+goto 6524
+remove 7997
+goto 3880
+goto calc + 2744 83
+goto calc + 9241 4
+goto calc - 333 62
+replace 9004 7036
+remove 6408
+remove 8049
+goto calc - 4977 99
+goto 6897
+goto 9786
+goto 6711
+replace 8140 8513
+remove 2717
+remove 7057
+goto calc / 8541 21
+goto 7088
+remove 5144
+goto 9771
+goto 4344
+replace 7256 3095
+remove 7727
+goto 6434
+remove 6334
+goto 244
+remove 9654
+goto calc + 9565 92
+replace 5397 7940
+replace 2709 7666
+goto 3740
+replace 2437 7286
+replace 8342 1239
+replace 1855 7908
+replace 84 8781
+remove 2199
+goto calc / 6487 62
+remove 1678
+replace 4002 9222
+goto calc - 2956 23
+remove 4822
+remove 7721
+goto calc - 7492 64
+goto calc + 3760 27
+replace 3750 4345
+goto calc x 106 38
+replace 4976 3910
+replace 2997 2068
+remove 7118
+goto 5522
+goto calc - 3075 7
+goto calc - 2930 57
+goto calc - 2731 81
+goto calc / 8585 10
+replace 1229 8535
+replace 227 3145
+goto calc / 7872 65
+goto calc / 4761 14
+goto calc / 3348 20
+remove 2020
+remove 1016
+goto calc - 9188 77
+goto calc + 4059 73
+remove 6339
+goto 1459
+goto 5457
+remove 9215
+remove 7068
+replace 8318 9599
+goto calc + 8721 77
+replace 4328 3884
+goto 7266
+remove 8962
+goto 8298
+remove 1210
+goto calc / 3572 88
+remove 2607
+remove 3995
+remove 9617
+goto calc - 5089 39
+replace 7295 250
+remove 3028
+goto 1361
+goto 9774
+remove 4113
+remove 1024
+goto calc - 8520 34
+goto 4867
+goto 3641
+goto calc - 3333 30
+goto 4332
+replace 5398 6297
+goto calc + 1373 45
+goto calc - 5303 95
+goto calc + 8180 98
+goto calc - 8553 41
+goto calc / 6814 37
+goto 4103
+goto 6802
+goto calc + 4058 71
+remove 6883
+replace 7719 2772
+goto 2460
+goto 2259
+replace 5077 5273
+remove 2539
+goto calc + 203 26
+replace 7639 8302
+goto 1620
+remove 7247
+replace 4274 9129
+goto calc + 2387 48
+goto 5576
+goto calc + 5352 86
+goto calc - 9652 84
+remove 3915
+goto calc - 7119 3
+remove 4468
+remove 3061
+goto calc + 3383 1
+goto 4171
+goto 2705
+replace 1304 6440
+replace 7521 1087
+remove 8091
+replace 9338 856
+remove 613
+goto 6124
+goto 5319
+replace 2372 8909
+replace 9740 1517
+remove 9371
+replace 4930 790
+goto calc + 5354 37
+goto calc - 1742 4
+remove 3408
+remove 6086
+goto 6103
+goto calc / 6471 28
+goto calc + 3822 64
+remove 7316
+goto calc - 6403 9
+remove 147
+goto calc + 3588 17
+replace 5051 5588
+replace 9180 9003
+remove 9382
+goto 4935
+replace 6348 387
+remove 7810
+remove 5138
+remove 472
+replace 1925 5066
+goto calc + 806 69
+remove 3535
+goto calc + 3259 33
+remove 1320
+goto calc x 3098 2
+goto calc / 9616 78
+goto calc + 297 68
+goto calc - 3861 69
+remove 7622
+goto 605
+goto calc / 3998 60
+goto 7480
+goto 8190
+goto 9997
+remove 8340
+remove 1287
+replace 3936 1003
+remove 6352
+goto calc + 9572 5
+goto calc + 7660 26
+goto calc - 9307 19
+replace 6028 2605
+goto calc - 3953 89
+goto calc / 7693 31
+remove 9269
+goto 2605
+goto 6620
+replace 8538 6376
+replace 7215 8895
+replace 5377 2663
+replace 768 732
+goto calc + 3414 42
+goto calc - 4347 50
+goto calc / 7537 58
+remove 9560
+goto 6753
+replace 6750 8005
+goto calc + 2602 74
+goto calc + 2258 46
+replace 974 4834
+replace 6915 3924
+replace 629 9501
+remove 5947
+goto 8973
+remove 2157
+replace 9389 6038
+replace 639 2904
+replace 4120 636
+goto 3562
+goto calc + 593 30
+remove 4263
+replace 4182 8711
+remove 1511
+replace 535 8096
+goto 9143
+remove 4111
+replace 9194 3165
+remove 1331
+goto calc + 2165 82
+goto calc + 1426 45
+goto 8893
+replace 2657 563
+remove 1415
+goto 800
+replace 7667 7500
+replace 2335 1450
+goto calc + 963 44
+goto calc / 8408 85
+remove 144
+remove 9701
+goto calc / 174 53
+replace 4018 1521
+goto 8024
+remove 1484
+goto 8011
+replace 7852 3926
+goto 238
+remove 364
+remove 8304
+replace 5138 4356
+replace 6390 296
+remove 9145
+remove 875
+goto 3411
+goto 5459
+goto 1657
+replace 2065 8296
+goto 9558
+goto 3547
+replace 1288 8064
+replace 5165 7473
+replace 8760 5955
+remove 593
+replace 9275 1236
+remove 9537
+replace 9509 4817
+replace 8930 5279
+goto 437
+remove 4846
+goto 4612
+goto 328
+goto 4232
+replace 2898 4030
+goto calc + 628 59
+remove 3422
+replace 6345 609
+goto 957
+replace 3709 333
+replace 2526 141
+remove 4974
+remove 9146
+goto 1511
+goto 4923
+goto 2279
+remove 8085
+remove 153
+replace 247 2391
+goto calc / 5762 23
+goto 6769
+goto 4596
+goto 200
+remove 6729
+replace 9537 6062
+remove 5594
+goto calc + 8238 97
+replace 5760 773
+remove 7116
+replace 9946 6113
+goto 4419
+goto calc / 3092 69
+goto calc + 8744 14
+replace 3288 6950
+goto calc / 3210 14
+remove 5976
+remove 10000
+remove 7650
+goto calc - 1186 59
+goto calc / 671 51
+goto 361
+goto calc - 4805 99
+remove 4231
+remove 2081
+goto calc / 8113 55
+goto calc / 4850 35
+goto 5330
+goto 2731
+goto calc + 2442 33
+goto 8603
+replace 6118 8151
+remove 6540
+remove 4366
+remove 5341
+goto 4685
+replace 3396 9845
+goto calc - 6330 83
+remove 12
+goto 2800
+replace 6745 721
+goto calc + 2650 99
+replace 4953 1092
+replace 9985 58
+goto 9395
+remove 5852
+goto calc / 7069 17
+goto 6312
+replace 3666 8171
+remove 3803
+remove 8916
+remove 2851
+replace 2192 2770
+replace 8181 3322
+goto 1621
+replace 9087 6588
+remove 7105
+goto 8490
+goto calc / 4108 7
+goto 8004
+replace 2727 2833
+replace 1086 5246
+remove 49
+replace 3213 1895
+replace 2094 4108
+goto 2268
+replace 704 4053
+goto 5934
+goto 1878
+replace 7909 486
+replace 9395 3594
+goto 3144
+goto 3935
+goto calc / 6985 13
+remove 5290
+replace 8316 5043
+goto 2165
+remove 7952
+remove 8847
+replace 2045 5042
+replace 9084 5386
+replace 8109 9118
+replace 9325 108
+remove 1909
+goto 9523
+goto calc - 9483 46
+replace 9089 1104
+replace 2326 3985
+goto 4561
+replace 4677 7787
+remove 5587
+goto calc x 127 42
+goto 3813
+goto calc - 6109 13
+remove 496
+replace 7601 4655
+goto 1428
+replace 8293 222
+remove 5028
+goto calc - 4023 68
+goto calc - 7211 88
+goto calc - 7104 94
+remove 4272
+remove 6542
+goto 6145
+goto calc / 4185 6
+replace 4293 2593
+remove 3135
+replace 6581 5705
+replace 6910 7405
+goto calc - 2188 3
+replace 7129 3738
+remove 6314
+goto calc + 7550 41
+replace 9104 8633
+remove 1573
+goto 316
+remove 6490
+goto 6381
+remove 1585
+replace 6582 8549
+goto calc - 1042 16
+replace 3287 3394
+remove 6163
+remove 3361
+goto calc - 2685 40
+goto 8378
+goto calc + 6583 40
+goto calc - 5664 83
+remove 1620
+goto 1504
+remove 2676
+replace 4783 1119
+goto calc - 9346 41
+goto calc - 2265 49
+remove 6209
+replace 9338 8045
+goto calc / 3640 18
+remove 7259
+replace 5999 6229
+remove 1534
+goto calc / 7450 34
+replace 423 7730
+remove 7576
+remove 2942
+replace 6891 5056
+remove 6635
+replace 5783 8754
+goto 2182
+goto 952
+replace 1465 5357
+remove 5127
+goto 3383
+goto calc / 9353 98
+remove 4195
+goto calc / 1666 56
+remove 2157
+goto 3288
+goto calc / 5150 97
+goto 467
+goto 4846
+replace 5856 7652
+remove 8406
+goto 6816
+goto 3478
+goto 2114
+goto 4747
+remove 6246
+goto calc / 8524 17
+replace 9746 3637
+goto calc + 8055 66
+remove 7602
+goto 6636
+goto calc / 4213 11
+goto 6237
+goto 5903
+goto 6995
+replace 4513 621
+goto 5274
+remove 1119
+remove 2017
+goto 1368
+remove 8011
+remove 9297
+remove 1368
+goto 2951
+goto 5334
+remove 1911
+goto 2224
+replace 7577 9602
+replace 3047 2732
+replace 250 6509
+goto calc - 8073 76
+replace 9793 8865
+goto 584
+goto 2240
+goto calc - 2866 38
+replace 7097 4290
+goto calc + 2108 10
+goto calc / 4613 81
+goto calc - 4904 67
+goto calc / 4067 46
+goto 7315
+goto calc / 6313 38
+goto 967
+remove 1632
+goto calc + 5365 94
+replace 2461 4444
+replace 3081 1683
+goto calc - 7212 98
+goto 7685
+goto 3882
+goto calc / 4385 84
+replace 6854 9551
+replace 7362 9633
+replace 5195 5001
+replace 6880 4763
+goto 4415
+replace 2425 7311
+remove 8796
+replace 1949 4103
+goto calc / 9323 59
+remove 8076
+remove 7179
+remove 3736
+replace 3765 7232
+goto calc - 8266 82
+goto calc / 8986 43
+replace 747 2571
+goto calc / 1302 46
+remove 8966
+goto 2552
+replace 9823 2587
+goto 166
+replace 8471 2943
+goto 6773
+replace 9492 7213
+replace 7847 2018
+goto calc x 76 26
+goto 8875
+goto 3465
+goto calc / 8160 98
+goto 1883
+remove 9599
+remove 4042
+replace 8044 3463
+replace 3763 2432
+remove 4924
+remove 6458
+remove 6168
+goto 7782
+goto calc + 5156 85
+goto calc + 8479 86
+remove 8511
+goto calc / 7731 35
+replace 8102 3881
+remove 5658
+goto 7286
+goto calc / 2914 94
+goto 386
+replace 2042 2964
+goto 7506
+goto calc / 2888 40
+goto 2885
+goto 4780
+replace 1402 1632
+goto 7180
+goto 7155
+goto 6915
+remove 6352
+remove 9427
+replace 1817 4921
+goto 3894
+goto calc / 858 40
+goto 2445
+replace 2673 2236
+remove 5368
+replace 9922 1440
+goto calc x 1573 6
+remove 9713
+goto 4196
+goto 5320
+goto calc - 1383 33
+remove 5136
+remove 1566
+replace 9436 2152
+goto 594
+remove 2858
+goto 7067
+replace 4348 9413
+replace 8772 5121
+remove 8890
+replace 7858 2810
+goto 8030
+goto calc + 7242 39
+goto calc + 5226 26
+remove 4079
+remove 4601
+goto calc + 2748 12
+replace 2754 18
+goto 5680
+goto 5141
+goto calc + 3454 41
+goto 7519
+goto 6480
+remove 7317
+goto calc - 9228 23
+remove 8019
+remove 508
+goto calc + 4422 81
+remove 626
+replace 4705 1453
+remove 918
+remove 1740
+goto 8445
+goto 5141
+goto 7645
+goto calc + 2101 44
+goto calc - 3412 85
+goto 6975
+remove 8373
+remove 528
+replace 2518 4887
+goto calc + 6852 12
+remove 8380
+goto calc - 1404 91
+remove 4513
+goto calc + 415 96
+goto 9791
+goto calc / 2976 36
+goto calc / 1925 89
+goto 4330
+replace 6141 680
+remove 5769
+remove 2221
+goto calc - 892 21
+replace 2463 3151
+goto calc / 3703 71
+remove 521
+goto calc / 9996 77
+goto calc - 1744 90
+goto calc + 8063 51
+goto calc - 9414 47
+goto 7553
+goto calc / 4779 3
+replace 6545 5372
+goto 4712
+replace 9853 6907
+remove 7977
+goto 8573
+goto 4626
+goto calc / 1337 83
+replace 7255 7124
+replace 890 1734
+remove 221
+goto 8016
+goto 3626
+goto 2848
+goto calc / 8951 19
+goto calc / 5406 10
+goto 1059
+replace 4155 6109
+goto 4332
+goto 4076
+remove 5628
+goto 8467
+goto calc / 9415 43
+goto calc - 5001 77
+remove 396
+remove 2986
+replace 6622 4462
+replace 7446 2111
+goto 68
+replace 5489 2750
+remove 6169
+goto 8254
+goto 7452
+replace 1865 5290
+remove 6276
+goto calc / 9931 22
+goto 8598
+replace 9394 2496
+remove 4580
+goto calc - 8988 74
+replace 9924 4475
+goto calc / 744 11
+remove 1703
+replace 4412 7357
+remove 6719
+replace 7295 2138
+replace 1899 9721
+goto 7414
+goto calc / 2286 12
+replace 5128 9578
+goto calc - 5032 14
+remove 1865
+goto 4253
+goto calc + 1088 33
+replace 6237 8350
+goto 5870
+replace 7735 2651
+goto calc + 3069 96
+replace 2255 9329
+goto calc + 4430 21
+goto calc / 9819 42
+goto calc - 9288 87
+goto 6315
+replace 6961 4886
+goto calc / 9155 36
+remove 9287
+remove 8497
+goto 4446
+goto calc + 8338 83
+remove 6396
+goto calc / 7020 82
+replace 2597 932
+remove 1322
+goto calc + 3972 25
+goto 9551
+goto calc - 5860 69
+goto 7177
+goto 8302
+replace 1015 8246
+remove 8069
+goto 7635
+goto 2403
+replace 5345 1358
+goto calc + 124 3
+goto calc + 4176 14
+goto calc + 6520 57
+remove 649
+goto calc - 378 77
+goto calc / 4489 58
+goto calc + 1939 7
+replace 4980 201
+goto 6035
+goto 4035
+goto calc + 2344 8
+remove 6725
+goto 251
+goto 8471
+goto calc - 1344 95
+replace 2955 4240
+goto calc / 3999 10
+replace 6075 3588
+goto calc / 3901 99
+goto 4495
+goto 4057
+remove 7545
+remove 991
+goto 4196
+remove 1876
+replace 7854 1512
+goto 7004
+replace 9685 8518
+replace 6794 6916
+goto calc - 5696 30
+goto 3014
+remove 6019
+remove 9130
+goto 7375
+goto calc + 8693 29
+replace 1543 7132
+remove 8167
+goto calc + 6182 97
+goto 6161
+replace 4702 9738
+remove 5265
+goto calc - 9622 37
+replace 4643 2140
+goto 3369
+goto calc / 7957 24
+goto calc - 3635 6
+goto calc - 2182 69
+goto calc - 5824 62
+replace 7310 1013
+goto 4323
+goto 2232
+replace 891 8501
+replace 6181 1768
+remove 1447
+remove 5799
+replace 5697 7230
+remove 2636
+goto 8454
+goto calc / 49 84
+replace 5744 945
+remove 4348
+goto 9513
+goto calc / 4220 69
+replace 4167 6801
+goto 2135
+replace 73 9136
+goto 216
+replace 4931 668
+remove 9722
+goto 8125
+remove 2898
+replace 6611 2647
+goto calc - 5468 57
+replace 4116 3431
+goto 749
+goto 4086
+replace 6827 460
+replace 7297 5623
+goto calc - 4360 56
+goto 8524
+goto calc - 5404 56
+goto 4442
+goto 9263
+goto 3887
+goto calc - 7950 11
+remove 3386
+remove 5784
+remove 8136
+replace 521 4972
+remove 2686
+remove 3232
+goto 7255
+goto calc / 7569 37
+goto calc / 4119 43
+goto calc + 9138 77
+remove 3253
+goto 9264
+goto calc - 644 47
+goto calc x 1101 8
+goto calc - 44 14
+remove 2030
+remove 5454
+goto 8443
+goto 7338
+goto 8603
+remove 8482
+goto 341
+remove 9990
+replace 7122 3997
+goto 6133
+goto calc + 3847 91
+remove 2136
+remove 8430
+remove 4720
+replace 9870 2441
+goto 9104
+remove 9649
+goto 4035
+goto calc / 2002 7
+replace 6695 4403
+remove 8584
+goto calc - 548 85
+goto calc - 5980 18
+goto 5
+replace 9288 3472
+goto 5943
+remove 8240
+replace 1561 3710
+goto 2416
+replace 2671 2197
+goto 6046
+goto calc / 2998 86
+goto 8501
+replace 4542 4037
+goto calc + 3434 46
+goto calc + 9356 100
+goto 1818
+goto calc / 4709 4
+remove 3316
+goto 4619
+replace 9741 3171
+goto calc - 6543 61
+goto calc - 4928 69
+goto calc - 9830 13
+replace 3879 9744
+goto 7636
+goto 5693
+remove 5762
+replace 5313 6750
+goto 4894
+replace 6593 7074
+goto 1162
+goto calc / 1162 52
+goto 2763
+goto calc + 7812 78
+remove 3959
+goto 4676
+remove 5547
+replace 6144 5478
+goto calc / 531 91
+goto calc + 2600 13
+remove 6889
+replace 70 7964
+remove 9324
+remove 3798
+remove 362
+remove 5002
+remove 4802
+goto 2349
+goto 854
+remove 9655
+replace 8855 5231
+goto 3879
+replace 3766 7335
+remove 8011
+remove 479
+remove 251
+replace 9064 9093
+goto 9943
+remove 6694
+remove 7590
+goto calc / 9933 46
+goto calc / 7472 43
+remove 2356
+goto 7310
+goto 7650
+remove 7526
+goto calc - 4433 15
+goto 1496
+replace 159 3035
+remove 1652
+goto 5288
+replace 592 5652
+goto 2446
+replace 6428 7427
+goto calc + 6203 49
+remove 9692
+goto 6573
+goto 3893
+remove 9862
+goto 9254
+remove 3465
+goto calc - 5982 42
+replace 4121 7752
+replace 7615 2336
+goto calc + 8221 56
+goto 8029
+remove 6590
+remove 8624
+goto 9754
+goto calc / 8244 7
+goto 5495
+replace 5759 6026
+remove 2034
+goto 9317
+remove 2843
+goto 2387
+remove 1017
+remove 9902
+remove 5805
+goto 3932
+goto 3097
+replace 7883 1395
+remove 1995
+goto calc / 8662 21
+replace 2046 2282
+goto 3747
+remove 508
+goto calc / 9892 23
+replace 4555 2025
+remove 3546
+goto calc / 9320 36
+goto calc / 5336 25
+goto calc / 7420 98
+goto 6212
+replace 1791 1697
+goto calc / 7100 16
+remove 9318
+goto 167
+remove 6749
+goto 7448
+goto 1655
+remove 4873
+goto calc / 8269 79
+replace 7300 7943
+goto 2030
+remove 2524
+replace 2079 7381
+goto calc + 7721 22
+replace 3382 5539
+goto 3653
+remove 8978
+goto 559
+remove 7293
+goto calc / 7983 67
+goto 7771
+remove 860
+goto calc - 9535 10
+goto calc / 4106 92
+remove 5457
+goto 3803
+replace 3578 9912
+goto 1703
+goto 8262
+goto calc / 3559 27
+remove 2369
+goto calc + 8870 46
+replace 8774 2547
+goto calc + 466 11
+remove 3992
+remove 930
+goto calc - 2744 82
+replace 3011 6092
+replace 2718 5995
+remove 1171
+goto 9482
+replace 1974 8751
+goto 6166
+remove 7636
+remove 2741
+goto calc / 5453 92
+replace 5313 4665
+goto 900
+replace 5895 4763
+remove 4885
+goto 23
+replace 6522 7542
+goto 4878
+replace 8310 7697
+goto calc + 4269 22
+goto 7385
+goto 2533
+goto calc / 8664 31
+replace 9447 4490
+goto 9899
+replace 147 656
+replace 8006 7260
+goto 2902
+remove 1698
+goto 3751
+remove 3295
+goto calc / 8191 57
+replace 3792 3265
+replace 955 5627
+remove 3825
+goto calc + 1163 27
+replace 2182 4157
+goto calc + 656 89
+replace 3087 5613
+goto calc - 2588 74
+remove 8892
+goto 488
+remove 2888
+goto 504
+remove 5475
+replace 2764 4553
+replace 969 8521
+replace 1308 7420
+goto 6097
+goto 2054
+remove 4980
+replace 8840 6281
+replace 8121 6031
+goto calc + 6323 11
+goto calc - 7155 66
+goto 432
+goto 3905
+goto 990
+remove 7442
+goto calc + 5926 27
+goto 4038
+replace 9336 7150
+remove 2856
+goto calc + 7831 79
+replace 4035 5502
+goto calc / 1034 65
+goto calc / 5056 87
+goto calc - 2742 83
+replace 9749 9319
+goto 9681
+goto 9339
+goto calc + 4114 35
+goto 5175
+goto calc - 7407 51
+goto 6395
+goto 8913
+remove 3979
+replace 7996 4095
+replace 497 472
+goto 8517
+goto calc + 3119 7
+replace 5994 9481
+goto calc + 3348 57
+goto calc / 5878 68
+goto 5295
+goto calc + 6702 40
+goto calc / 118 2
+goto 7502
+remove 9336
+replace 8023 3675
+remove 9010
+goto 566
+replace 9612 8118
+replace 1791 4441
+replace 2071 2155
+remove 8653
+goto calc / 9892 97
+replace 1981 8120
+replace 7578 988
+replace 9843 2172
+goto 7495
+replace 1102 135
+goto 2888
+replace 9551 220
+goto 3318
+replace 2780 8530
+remove 9337
+remove 5046
+replace 976 8644
+replace 7318 8450
+goto 7918
+remove 2206
+goto 4313
+replace 8894 5301
+replace 907 4378
+replace 3126 248
+goto calc - 8155 14
+remove 9351
+goto calc / 9240 55
+replace 4806 6525
+replace 8921 4276
+goto calc + 3112 5
+remove 3965
+goto 6001
+goto 5770
+goto calc / 6482 56
+remove 592
+replace 8301 7762
+goto calc + 9879 23
+remove 1506
+goto calc / 9041 66
+goto calc + 1900 56
+replace 1663 6960
+goto calc - 9613 92
+goto 2770
+goto calc - 4393 28
+replace 4571 5569
+goto 6017
+goto calc / 3036 100
+remove 31
+goto 1146
+remove 7202
+goto calc / 3150 28
+goto calc - 2520 10
+goto calc - 8341 50
+goto calc / 1605 43
+remove 7639
+remove 4168
+goto calc - 5051 71
+replace 9970 6249
+remove 6983
+goto 4677
+goto 712
+goto calc - 168 4
+replace 9076 326
+replace 3354 4789
+remove 6528
+goto 20
+goto 274
+replace 1226 4570
+remove 3903
+remove 9772
+goto 5684
+goto calc + 875 94
+remove 2950
+goto 222
+goto 3325
+replace 1585 9679
+replace 1447 4193
+remove 2173
+goto calc / 8581 62
+goto calc / 6468 33
+goto calc + 8963 5
+goto calc + 5522 15
+remove 1349
+replace 1304 7950
+goto calc - 6571 87
+goto 9383
+goto 6514
+remove 9849
+replace 4596 1049
+remove 3092
+goto calc + 2392 81
+replace 3575 2723
+goto 211
+replace 878 3801
+goto 9336
+goto 4700
+remove 5514
+remove 5596
+replace 2428 3838
+replace 6023 289
+replace 7417 336
+remove 6576
+goto calc / 9568 68
+replace 2339 3650
+remove 2810
+remove 3551
+goto calc - 7197 26
+remove 6257
+goto 3691
+goto 9936
+replace 7490 6145
+remove 7902
+goto 3560
+goto calc + 9421 17
+goto 9018
+goto calc - 5773 57
+remove 420
+goto calc / 5061 80
+goto calc + 7403 93
+goto 8604
+replace 6910 5650
+goto 9146
+goto 8606
+replace 7016 2989
+goto 5977
+remove 3427
+replace 3139 1929
+goto calc / 4789 63
+remove 8880
+goto 2064
+goto calc + 4640 65
+remove 7628
+goto 2260
+replace 4220 5788
+goto calc / 5143 1
+goto calc - 3389 22
+goto 6373
+goto 9818
+goto 5802
+goto calc / 2094 33
+goto 1893
+replace 480 5137
+replace 7016 7151
+goto 1623
+goto 689
+goto calc + 3413 29
+replace 1859 2423
+remove 5472
+replace 1214 5735
+goto calc / 5922 57
+goto calc + 4439 61
+remove 6940
+replace 4562 974
+goto 8747
+remove 285
+remove 2469
+goto calc - 4267 6
+goto 8352
+replace 1803 4851
+remove 7993
+goto calc + 9017 1
+remove 9228
+goto calc / 3347 83
+replace 2442 5013
+goto calc x 2754 2
+remove 8136
+goto 5009
+remove 4258
+goto 6122
+goto 8772
+goto calc - 5313 62
+remove 7632
+goto calc + 7891 21
+replace 5989 563
+replace 7205 9076
+replace 945 9170
+remove 5349
+remove 7707
+goto 3344
+goto 2985
+remove 2486
+goto 3451
+goto 8362
+replace 4777 6507
+remove 4265
+goto 2812
+goto 8670
+goto calc + 1992 92
+goto calc - 957 6
+remove 2493
+replace 835 3932
+goto calc - 3091 48
+goto calc / 6774 16
+goto calc + 228 22
+goto 4615
+replace 4750 6210
+goto calc / 7023 95
+goto 3668
+goto 8009
+remove 7637
+replace 8921 553
+goto calc - 8388 8
+goto calc - 428 79
+goto 3406
+goto 7607
+replace 7216 5306
+remove 5233
+goto 7395
+goto 5091
+replace 4345 7026
+goto 9021
+goto calc + 7715 9
+goto calc + 4328 84
+remove 9218
+goto 6967
+goto 2643
+goto calc + 4807 7
+replace 6483 8027
+goto 2733
+replace 43 9345
+remove 515
+replace 8879 7683
+goto 7190
+goto calc / 8988 100
+goto 6620
+goto 2832
+goto 8682
+replace 2825 6812
+remove 5293
+remove 9100
+goto calc / 2912 64
+remove 942
+remove 5137
+replace 4362 3631
+goto calc - 6177 2
+goto 869
+goto 8205
+remove 4452
+remove 2004
+goto 2457
+goto 6894
+goto 292
+goto calc - 3188 61
+goto calc / 7557 88
+goto calc + 7299 5
+goto 2824
+remove 2523
+remove 585
+goto 1180
+replace 1490 9633
+goto calc / 8971 12
+remove 2985
+replace 5027 8310
+remove 8437
+remove 8533
+goto calc + 373 15
+remove 8279
+goto 7514
+goto calc - 3858 35
+replace 692 7464
+goto 5333
+goto calc / 8052 69
+goto 6961
+goto calc + 1802 92
+goto calc + 3169 65
+remove 2784
+replace 7632 2220
+goto calc - 1755 76
+remove 4258
+replace 4558 1246
+remove 8336
+goto calc + 7257 15
+goto calc - 6069 87
+goto 3771
+goto 5758
+replace 6106 6204
+remove 1988
+goto calc / 7967 36
+goto 7647
+remove 9465
+goto calc / 6992 38
+goto calc - 5982 69
+replace 4718 1617
+remove 4772
+goto calc / 4682 71
+remove 4524
+replace 7490 7445
+replace 6970 8143
+goto 4891
+replace 5164 5006
+replace 6193 9542
+goto calc / 9663 88
+goto 2519
+remove 9397
+goto 5184
+replace 2205 9294
+goto calc - 3826 69
+goto calc - 1090 86
+remove 6454
+remove 7198
+remove 2745
+goto 9638
+goto calc / 6148 98
+replace 3130 8414
+goto 6444
+goto 4577
+remove 9797
+replace 4237 4983
+remove 8371
+remove 8369
+remove 3261
+remove 4890
+goto calc / 4979 18
+goto calc + 7177 55
+replace 7268 9552
+remove 241
+goto calc / 4019 57
+remove 6637
+remove 4435
+remove 3055
+goto 9500
+remove 454
+replace 9634 167
+replace 5379 2065
+goto calc + 8675 91
+goto 3968
+replace 4639 2894
+replace 5176 2692
+replace 7962 6552
+replace 8254 8946
+goto calc / 5319 48
+goto 4934
+goto 9964
+goto calc + 9583 56
+remove 2225
+goto 7897
+replace 7740 3996
+remove 6797
+goto 9969
+goto calc - 5689 89
+goto 2424
+replace 6936 3464
+replace 5013 4915
+replace 2448 8638
+goto calc - 5511 7
+goto 1197
+goto calc / 4517 49
+remove 1946
+replace 3928 5550
+goto 9400
+replace 2466 2590
+goto 9345
+goto 1872
+remove 8972
+remove 8187
+goto calc + 9784 53
+remove 2407
+remove 1843
+remove 5286
+replace 217 9785
+goto 7407
+replace 8108 1713
+goto 7614
+goto calc / 4460 76
+replace 8410 7736
+replace 3664 3870
+replace 4661 3927
+goto calc / 8820 85
+remove 9363
+replace 9199 6866
+remove 8887
+goto calc + 6680 9
+replace 8844 2893
+goto calc / 4839 38
+goto 943
+goto calc + 3667 69
+goto 9988
+goto 9115
+remove 9938
+goto 8144
+goto 4573
+goto calc / 8306 54
+goto 4765
+goto calc - 4343 92
+remove 4260
+goto 6515
+goto calc + 4218 51
+replace 5110 8062
+goto calc + 4762 40
+remove 894
+replace 9097 7301
+goto calc + 538 7
+remove 8605
+goto 3675
+replace 6729 7350
+replace 3325 2652
+replace 6999 8538
+goto 2687
+goto calc + 2677 15
+remove 9368
+replace 8309 1334
+replace 2364 5522
+goto calc / 8589 3
+goto calc - 3313 48
+replace 7420 4468
+replace 99 2265
+replace 7304 5469
+replace 9302 3368
+goto 333
+goto calc - 5860 20
+remove 2478
+goto calc / 354 98
+remove 4623
+remove 6748
+goto calc - 1654 29
+goto 3492
+goto 1559
+goto calc / 3951 18
+replace 4139 2741
+goto 9407
+replace 7120 269
+remove 8384
+goto calc + 1352 26
+goto 7198
+goto calc + 6861 96
+goto calc - 1781 51
+goto 8123
+remove 195
+goto calc + 85 90
+goto calc / 431 13
+replace 9913 5511
+goto calc / 9049 98
+remove 7008
+replace 8989 6009
+remove 6527
+remove 2674
+goto calc - 200 43
+goto 8776
+goto calc - 4477 35
+replace 7790 2894
+goto calc / 6709 80
+replace 4904 5750
+remove 1156
+replace 2504 8364
+replace 7160 9664
+replace 876 7323
+remove 2233
+goto 8430
+replace 785 1895
+goto 7924
+goto 1293
+remove 6112
+replace 7574 795
+remove 2626
+replace 46 5823
+goto 8498
+replace 5966 794
+goto 8578
+replace 7848 8295
+goto 6029
+goto 627
+replace 2010 3710
+goto 258
+remove 69
+goto calc / 4516 15
+goto 9280
+goto calc + 9760 72
+remove 2471
+goto calc - 6955 83
+replace 2789 6824
+goto calc + 6924 9
+replace 2432 2912
+goto calc + 5651 52
+goto 3542
+replace 5673 5940
+remove 8487
+goto calc + 3549 76
+replace 5502 2256
+goto calc + 8385 52
+remove 9614
+replace 5445 2060
+replace 274 4628
+goto 9802
+remove 4723
+goto 7704
+goto 7530
+remove 4773
+goto 7934
+replace 7634 6407
+replace 9814 1831
+goto calc + 63 16
+goto calc / 8679 68
+remove 2196
+replace 5335 2504
+remove 9920
+goto calc + 5107 92
+goto calc / 2798 88
+replace 559 8772
+replace 3949 9526
+remove 2032
+remove 934
+replace 3048 3415
+goto 7238
+remove 2546
+replace 4996 9605
+goto calc - 890 88
+goto calc / 4310 37
+replace 8415 9720
+replace 9299 4271
+replace 2194 2623
+remove 5363
+remove 8344
+goto 2949
+goto 3123
+replace 9606 4166
+goto calc + 4428 38
+goto calc / 8878 8
+goto 5057
+goto calc + 9781 22
+goto calc - 1838 87
+replace 4226 528
+replace 1894 9544
+goto 1965
+replace 46 1165
+remove 2400
+replace 9395 3987
+goto calc x 139 26
+replace 4454 5582
+goto 8781
+goto 5516
+remove 3750
+replace 4353 5833
+goto calc + 6176 54
+goto 9822
+goto 1292
+replace 9610 5020
+replace 5266 5248
+replace 5836 2760
+goto 750
+replace 3347 5645
+goto 8340
+replace 4635 1748
+remove 172
+replace 7089 6867
+goto calc - 1618 23
+replace 7008 7591
+goto 4754
+goto calc - 996 84
+goto calc - 6390 1
+goto calc / 7053 86
+replace 46 6094
+goto 5710
+goto 2955
+replace 4446 4530
+goto 29
+goto calc / 4263 57
+replace 4829 3285
+replace 2972 110
+goto 7577
+replace 4040 651
+replace 2486 582
+replace 6115 7901
+goto calc / 3145 16
+replace 3674 1856
+goto calc - 5223 61
+goto calc / 6674 81
+remove 8570
+remove 4296
+remove 9195
+replace 9479 394
+replace 7505 9078
+goto calc + 2962 49
+goto 816
+goto calc / 4658 17
+replace 9642 9242
+goto calc + 58 7
+goto 5222
+goto calc + 5086 25
+remove 7991
+remove 7950
+replace 3670 2609
+goto 9269
+remove 6833
+remove 5447
+replace 6917 2060
+goto 7270
+replace 6085 6074
+remove 1010
+remove 162
+remove 6713
+remove 3322
+goto calc + 9911 50
+replace 3975 2182
+goto 1822
+goto calc / 7808 92
+remove 4917
+replace 7915 1672
+replace 9720 8897
+goto calc / 9809 80
+goto 2920
+goto calc + 8182 55
+goto 7108
+remove 4754
+goto calc + 1489 30
+goto calc + 9721 81
+goto 109
+replace 7771 7809
+goto calc - 7199 30
+goto 3079
+goto calc - 4876 3
+goto 1037
+replace 6978 3093
+goto calc / 7138 58
+goto 9800
+remove 9144
+goto calc - 2714 19
+remove 2385
+goto 3630
+replace 9970 9381
+goto 7231
+replace 4067 948
+goto calc / 2949 59
+remove 4868
+goto 2692
+replace 166 4635
+remove 9536
+remove 4008
+goto calc - 9728 82
+goto calc / 9712 77
+goto calc / 5156 8
+replace 5351 7359
+replace 8861 8082
+replace 9513 1066
+replace 7030 4969
+goto 1352
+replace 1199 7849
+goto 8949
+goto 3560
+goto 8374
+goto 956
+remove 8079
+goto calc + 2574 8
+goto calc + 8191 33
+replace 4515 7267
+goto calc + 5684 7
+goto 6922
+replace 2647 4429
+remove 6270
+remove 9113
+goto calc - 3704 96
+goto calc / 7648 31
+replace 6283 3154
+replace 209 5775
+remove 5257
+remove 2493
+replace 5407 8836
+goto calc - 4729 76
+goto calc / 9651 52
+remove 4277
+remove 3816
+goto calc + 2205 92
+goto calc / 7214 88
+goto calc + 4009 5
+goto calc - 4188 96
+remove 4089
+remove 7392
+goto 5887
+replace 9744 2336
+replace 4066 3118
+goto 9425
+remove 3804
+goto calc + 991 28
+remove 2094
+goto 7743
+replace 6950 2071
+goto 3513
+remove 8980
+replace 3282 8235
+goto 7565
+goto calc + 8644 73
+remove 5032
+remove 3100
+goto 4357
+goto calc / 2493 83
+remove 6305
+remove 4195
+replace 8211 3695
+goto calc - 3546 34
+remove 4358
+goto 3634
+goto calc - 2925 38
+replace 6414 5468
+goto calc + 785 84
+goto 5123
+remove 5787
+remove 3717
+goto 5578
+goto calc / 2396 28
+goto 5042
+goto 3944
+goto calc - 8860 10
+goto 8040
+goto 3135
+remove 6988
+goto 1238
+replace 3919 9747
+goto calc / 6380 72
+remove 7102
+remove 7998
+remove 6514
+replace 5717 4391
+goto calc / 7236 90
+goto 1677
+goto 3591
+remove 8111
+goto calc / 8887 46
+replace 7377 688
+remove 496
+replace 924 8133
+replace 7334 4839
+remove 4883
+goto 8611
+goto 52
+goto 8980
+remove 532
+goto 4498
+replace 8397 622
+goto calc + 3268 54
+goto calc - 6689 54
+goto 2657
+goto calc + 4386 31
+replace 8349 2940
+remove 1982
+remove 4816
+goto 189
+goto calc / 5690 75
+goto calc + 9254 89
+remove 8074
+goto calc - 9137 86
+goto 9697
+goto 1357
+remove 6604
+goto calc + 843 42
+goto calc / 5263 13
+remove 7863
+remove 3938
+replace 7547 4890
+remove 4551
+goto 1832
+replace 9757 9185
+goto calc / 9554 45
+goto 6782
+goto calc + 4823 36
+remove 6543
+goto 6133
+replace 9370 2033
+remove 9173
+replace 622 8760
+goto calc - 1445 94
+goto 1911
+replace 6031 5463
+replace 9027 9851
+remove 1925
+replace 4726 9184
+remove 3473
+goto 8152
+goto 5624
+goto 4586
+replace 7628 9685
+goto calc / 5695 86
+remove 4431
+goto calc - 5172 29
+remove 5367
+remove 3828
+replace 8007 2445
+replace 1446 8458
+replace 9478 5415
+replace 8717 6221
+remove 5670
+goto calc + 6131 14
+replace 5333 868
+goto 5019
+goto calc + 6142 41
+remove 5712
+remove 858
+goto calc / 4815 35
+goto 6204
+goto 4469
+goto 7872
+remove 3179
+remove 9524
+goto 6830
+remove 9370
+goto calc - 2905 37
+goto 4417
+goto calc / 4296 89
+remove 218
+replace 4479 8407
+remove 5428
+remove 730
+remove 6145
+remove 2039
+remove 8331
+goto 2345
+goto 2247
+replace 7924 7872
+goto calc / 1110 25
+goto calc / 3398 13
+remove 2216
+remove 420
+replace 4851 731
+goto 2200
+replace 7410 4468
+goto calc - 4551 96
+replace 1043 1603
+replace 9905 4043
+goto 9613
+goto calc / 6342 8
+goto 48
+replace 5487 6428
+goto calc / 3247 54
+goto 2024
+goto calc / 893 84
+replace 3904 1990
+remove 2937
+remove 3091
+goto 8204
+remove 6563
+remove 5383
+goto calc + 3112 9
+remove 3440
+goto 2057
+replace 2005 6489
+replace 2767 4485
+goto calc / 9240 86
+remove 6863
+goto calc / 8636 99
+replace 7627 2606
+remove 8756
+replace 5542 2296
+replace 1598 7459
+replace 1798 147
+remove 4333
+replace 116 6992
+goto calc - 9049 17
+goto 5414
+goto 3861
+goto 1787
+goto 6416
+replace 4169 9207
+goto calc / 1788 51
+remove 8226
+replace 1241 3877
+goto 4731
+goto 1347
+goto 1385
+remove 1122
+remove 876
+replace 1233 535
+remove 1327
+goto calc - 8310 9
+goto 5310
+goto calc x 346 16
+replace 3413 2091
+goto 1141
+replace 9621 4819
+goto 7244
+goto calc / 138 34
+goto 1833
+goto 3605
+goto calc / 9399 26
+goto 9680
+goto calc / 2294 46
+goto 6201
+replace 5519 4227
+goto 6184
+replace 5984 4570
+goto calc / 6481 36
+goto calc - 8105 74
+goto calc / 4940 29
+replace 4352 5649
+remove 2401
+goto 3679
+goto calc / 5520 25
+goto calc / 5797 45
+goto calc / 4095 1
+remove 6476
+replace 8825 9517
+goto calc / 4499 67
+remove 4501
+goto 5978
+goto 3508
+goto 7862
+goto calc / 1431 1
+remove 2604
+replace 6413 9010
+goto 1799
+goto calc - 6462 19
+goto 1848
+goto 4208
+replace 8205 389
+goto 1781
+goto 7452
+goto 2993
+goto 7795
+goto calc / 1395 45
+goto calc + 3096 85
+remove 1244
+remove 7441
+goto 8931
+replace 8701 3712
+goto 3460
+replace 8083 5652
+goto 4027
+replace 6303 8081
+goto calc + 462 75
+replace 7726 6655
+remove 749
+replace 142 3949
+replace 1797 8864
+remove 1513
+remove 5265
+goto calc - 5643 47
+goto 1705
+remove 901
+goto 8213
+goto calc - 4952 11
+replace 5352 962
+remove 3820
+replace 5097 7068
+goto calc - 876 89
+remove 333
+replace 2993 3369
+goto calc + 6903 35
+goto 2503
+remove 5820
+goto 9471
+replace 6684 9696
+goto 6910
+replace 2733 6279
+remove 2904
+goto 8516
+replace 1919 8546
+remove 5648
+goto 2245
+replace 5711 5796
+goto 6483
+goto 5065
+remove 6019
+replace 8903 8113
+goto calc - 594 11
+replace 8901 6677
+replace 1106 2314
+replace 6135 5230
+goto calc + 3688 43
+remove 615
+goto calc / 4217 89
+remove 7090
+goto calc - 4707 15
+goto calc + 5449 77
+goto 7415
+goto 3308
+goto calc + 4405 79
+replace 1405 8516
+goto 20
+goto 5707
+goto 6754
+goto 9176
+goto calc + 5263 3
+remove 1596
+goto 8930
+goto 3449
+goto calc - 6031 84
+replace 6544 6121
+replace 3872 8058
+goto 9755
+goto calc - 2711 77
+remove 4968
+replace 3102 4172
+goto calc / 7664 97
+goto 2730
+remove 8973
+remove 8180
+goto calc + 3263 48
+goto calc + 3844 21
+goto calc / 4899 78
+goto calc - 2809 8
+replace 5103 4981
+replace 937 4832
+replace 5754 1470
+goto 1428
+remove 2797
+goto calc + 4369 73
+goto 2357
+goto 8150
+goto calc / 7304 41
+remove 6294
+goto 4967
+remove 9428
+goto 2654
+remove 4386
+goto calc - 319 38
+goto 7065
+goto calc + 7006 2
+remove 7337
+remove 909
+replace 7240 7896
+goto 1048
+remove 3987
+goto calc - 5209 92
+goto calc + 4907 35
+goto calc - 8780 92
+replace 213 6759
+goto calc / 1473 55
+goto calc - 7153 3
+goto calc - 7428 32
+remove 2343
+remove 9458
+replace 8511 6859
+goto 467
+goto calc - 1929 14
+goto 9345
+remove 9282
+remove 9614
+goto calc - 970 80
+remove 7144
+goto 8491
+replace 5873 4415
+remove 7495
+goto 2830
+remove 4138
+remove 9418
+goto 9099
+goto calc + 6884 73
+goto 7096
+goto calc + 2957 85
+remove 6074
+replace 1715 9371
+replace 8725 5128
+goto 9839
+goto 155
+goto calc + 4037 38
+remove 6476
+goto 5661
+replace 3950 3562
+goto 2623
+goto 8947
+replace 7006 2736
+goto 9587
+replace 5753 9114
+replace 5778 4436
+remove 8343
+remove 8043
+goto calc / 8705 30
+goto 7082
+remove 281
+goto 1944
+replace 1143 4442
+remove 5755
+remove 2933
+remove 8349
+goto 3283
+goto 6463
+goto 3854
+replace 7424 5238
+goto 2380
+replace 5860 4509
+goto 9309
+replace 672 5074
+remove 8885
+goto 2886
+remove 8610
+remove 9836
+replace 1662 1311
+goto 8647
+goto 1596
+goto 5262
+goto 4865
+goto calc - 9340 56
+goto calc / 9800 81
+remove 3714
+remove 4535
+replace 6033 6527
+goto calc - 8174 88
+replace 9443 5331
+goto calc + 8960 79
+goto calc - 4677 58
+goto 6397
+goto 5143
+remove 5158
+replace 4152 9053
+replace 3438 3057
+goto 719
+goto 1934
+remove 1331
+goto 1684
+goto calc + 2515 4
+goto 1532
+replace 3593 1419
+remove 2944
+goto calc - 9484 90
+goto calc + 9087 13
+goto calc - 7366 61
+remove 2655
+goto 6864
+goto calc x 608 13
+goto calc / 2833 38
+replace 8093 9573
+goto 9377
+replace 3832 8362
+goto 1001
+remove 7006
+goto calc / 7032 76
+goto 2681
+goto 1042
+replace 1251 4539
+replace 1805 8980
+goto calc + 6102 8
+goto 7566
+replace 4399 6196
+goto calc / 8771 34
+goto 9410
+goto calc - 514 68
+goto calc + 8269 34
+replace 6914 4667
+goto 8156
+goto 7695
+goto calc / 805 19
+goto calc / 5782 43
+goto calc + 8348 65
+goto calc - 9451 88
+goto 4341
+remove 9670
+goto 8890
+remove 9962
+remove 7557
+remove 3886
+remove 1499
+remove 5492
+goto calc - 8788 34
+replace 3662 423
+goto 8685
+goto 8516
+remove 1176
+goto 6674
+replace 3897 5148
+replace 6538 6167
+goto 7897
+remove 346
+remove 6944
+replace 3137 180
+goto calc / 5213 37
+goto calc / 2656 97
+goto calc / 789 75
+replace 9118 1941
+remove 7889
+replace 8023 9295
+remove 856
+replace 5089 568
+goto calc - 6909 57
+goto 5874
+goto calc / 2770 48
+goto calc - 2878 39
+replace 245 6285
+goto 8637
+goto 7755
+remove 279
+remove 7555
+replace 8628 4765
+goto 9821
+goto 532
+replace 4022 6578
+remove 4890
+goto calc - 9775 35
+goto 6163
+goto 3289
+remove 6749
+goto 6459
+goto calc + 9826 2
+remove 5529
+replace 4042 3151
+remove 499
+goto 7018
+goto calc - 9033 46
+goto calc / 7529 56
+goto 3336
+goto 8277
+goto calc + 5477 89
+remove 4058
+replace 7321 6948
+replace 5601 9033
+remove 13
+goto calc / 4245 25
+remove 2454
+remove 6603
+goto 5719
+goto 6871
+replace 1702 8327
+remove 3854
+replace 8174 7702
+remove 8725
+goto calc + 9979 10
+goto calc + 587 64
+goto 4466
+goto calc + 3968 2
+goto 2789
+replace 8325 5672
+goto 7050
+remove 1729
+replace 1961 8441
+remove 6051
+goto 3608
+goto calc / 8456 34
+replace 433 3698
+remove 3323
+goto calc + 3388 44
+replace 1740 9818
+goto calc - 7306 28
+remove 9505
+goto calc - 1085 71
+goto 5578
+goto 1374
+remove 26
+goto 7961
+replace 448 6020
+remove 4415
+remove 9447
+goto calc / 7570 81
+remove 7737
+replace 5063 9606
+goto 311
+goto 501
+goto calc + 8250 12
+goto calc + 8141 13
+replace 6553 2534
+goto calc / 6630 37
+goto 2678
+replace 4079 6401
+remove 7068
+replace 9974 8763
+goto calc + 3511 27
+remove 4077
+goto calc - 9244 27
+goto 3070
+remove 7577
+remove 1514
+remove 9809
+replace 3481 738
+goto calc + 8738 53
+goto 1614
+goto calc / 493 62
+replace 3831 1581
+replace 574 9703
+replace 5292 380
+goto calc - 7769 92
+goto calc / 8940 84
+remove 5932
+remove 8513
+goto calc - 4349 2
+replace 1316 6052
+goto calc / 3081 41
+goto calc / 6280 85
+goto calc - 7400 41
+replace 4953 6471
+replace 509 2449
+replace 9562 4237
+replace 2082 4778
+replace 6679 2577
+goto calc - 8416 75
+goto calc - 8551 14
+replace 5963 6104
+remove 2493
+replace 221 3494
+remove 5759
+replace 3925 4364
+remove 5740
+goto calc - 4791 20
+remove 8853
+goto calc - 4810 39
+goto 3080
+goto 6155
+goto 3131
+goto 9760
+replace 3817 2399
+goto calc - 1087 15
+replace 9951 5466
+replace 5175 8233
+goto 1812
+remove 8489
+remove 4909
+goto 8915
+goto 8974
+replace 4101 1014
+remove 9973
+remove 6804
+goto calc + 6039 89
+replace 9986 3922
+goto 8671
+remove 9131
+goto 6254
+remove 4291
+goto 4313
+goto calc + 8817 48
+goto 9439
+goto calc / 6715 71
+goto 3772
+remove 6242
+goto calc + 8706 56
+replace 221 7441
+goto calc / 2246 48
+goto 2578
+goto calc - 3898 23
+goto calc / 2531 70
+replace 1981 3195
+replace 776 17
+replace 9881 8440
+replace 5447 8345
+replace 8170 6380
+goto 5127
+goto calc / 9751 52
+goto 9055
+goto calc + 2554 7
+goto calc + 5389 57
+goto 833
+goto 5578
+goto calc / 2073 23
+goto 1943
+remove 7027
+goto 2793
+goto 7845
+replace 5058 6106
+replace 3987 7653
+goto 5295
+remove 870
+goto 5237
+goto calc - 3801 62
+goto calc - 8253 78
+goto calc / 4498 49
+goto 5235
+goto calc / 2005 98
+goto calc - 2475 17
+remove 7913
+remove 3996
+replace 3735 2703
+goto calc + 6482 67
+goto 3236
+remove 839
+remove 2791
+goto 6281
+goto calc + 1878 48
+goto 9743
+goto 5096
+replace 4753 9914
+replace 1306 5258
+remove 5645
+goto 5579
+goto 6387
+remove 2352
+remove 7520
+goto 3778
+remove 1678
+goto calc - 466 77
+goto 9900
+goto calc / 4778 6
+goto 4940
+goto calc - 9578 17
+replace 6830 5303
+goto calc / 9421 71
+goto calc / 4979 46
+remove 7046
+remove 1555
+remove 3421
+goto calc + 8911 67
+goto calc + 2103 19
+replace 6196 7343
+remove 9094
+goto calc - 777 33
+remove 6292
+remove 6384
+replace 9992 4428
+goto 4668
+replace 2613 358
+goto 4089
+remove 2820
+goto 756
+remove 4160
+remove 7510
+goto 3273
+remove 9253
+replace 1129 8875
+replace 9704 9922
+goto calc / 4704 72
+remove 4754
+goto calc / 9858 14
+goto 3560
+goto calc / 3553 72
+goto calc + 7642 88
+remove 5464
+replace 7684 4832
+goto calc x 1765 4
+goto 8201
+goto 6240
+remove 2203
+replace 3100 1653
+replace 8515 9290
+goto calc + 5726 96
+replace 1310 4484
+goto calc - 5954 97
+goto 8659
+replace 2210 4258
+replace 9970 4418
+goto 263
+remove 2660
+goto 7447
+goto calc + 9756 24
+remove 3829
+goto 1538
+goto calc - 1333 33
+goto calc - 30 37
+replace 5181 1041
+goto 2115
+remove 7171
+remove 9078
+remove 7246
+goto 1355
+goto 888
+replace 44 7559
+remove 5240
+replace 9892 9925
+replace 9648 7782
+remove 2823
+replace 3868 1835
+goto calc - 4293 43
+remove 9564
+remove 4683
+goto calc + 8376 33
+remove 3900
+goto 5838
+replace 821 1561
+remove 8714
+remove 5198
+goto 4492
+goto calc / 6624 38
+replace 7199 252
+goto 5047
+goto 1792
+goto 9347
+remove 6751
+remove 6087
+replace 6407 579
+replace 2473 3710
+goto 5790
+goto calc - 2800 51
+goto 9359
+goto 1561
+goto calc / 2148 67
+replace 5170 6174
+remove 6560
+goto 6222
+remove 7827
+replace 7181 5136
+replace 4878 4784
+replace 2714 3891
+goto 6929
+goto 3313
+replace 5354 4835
+goto calc / 5317 92
+remove 5325
+replace 3624 4878
+goto 113
+replace 9717 664
+remove 5234
+goto calc + 481 62
+replace 5782 8255
+goto 6912
+goto 5705
+replace 8862 3117
+goto 4171
+replace 368 896
+goto calc / 7610 28
+remove 5230
+goto calc - 7651 71
+replace 6848 7451
+remove 9117
+goto 5673
+goto 4676
+remove 1574
+goto calc + 5029 41
+replace 669 2574
+replace 6481 3795
+goto 6388
+replace 2172 2319
+goto 3036
+goto calc / 4580 17
+replace 6781 88
+goto calc - 1701 59
+goto calc / 5252 95
+goto 7675
+goto 7138
+goto 9781
+remove 3891
+replace 8666 3425
+goto 5746
+replace 900 6138
+replace 5154 9336
+remove 7504
+replace 9169 3203
+goto 4516
+goto calc + 4888 86
+goto calc / 4344 54
+remove 9477
+remove 5741
+remove 3551
+goto 2059
+remove 2662
+goto 4870
+remove 1506
+replace 9898 7967
+replace 3848 4772
+goto calc + 5852 98
+remove 3684
+replace 6849 4986
+goto calc / 5427 65
+replace 1237 5698
+goto calc + 3454 73
+goto calc + 9227 95
+goto 5316
+goto 2185
+remove 6601
+goto calc - 3173 6
+replace 2344 1792
+goto 5312
+goto calc - 6833 66
+goto calc / 2467 78
+remove 8906
+goto calc / 3267 84
+replace 458 2720
+goto 9282
+remove 1270
+replace 949 4581
+goto calc + 6110 43
+goto calc - 8659 65
+replace 7282 5579
+goto 5724
+goto calc / 6414 92
+remove 8009
+goto calc / 5948 6
+goto calc - 4076 68
+goto calc - 7043 50
+remove 3575
+remove 1703
+remove 6463
+replace 4759 4122
+remove 8316
+goto calc / 1337 6
+replace 520 9719
+replace 8041 9288
+remove 9276
+goto 619
+remove 9073
+goto calc / 8465 43
+goto calc + 5067 17
+goto 7570
+replace 5398 5470
+goto 821
+replace 9787 4792
+replace 4062 3711
+goto 2250
+remove 1283
+remove 3421
+goto calc - 8353 26
+goto 6637
+goto 8960
+remove 9670
+goto calc / 6596 89
+goto calc / 793 4
+remove 6208
+replace 9315 3175
+remove 2427
+goto calc - 9131 74
+goto 4638
+goto 2266
+goto 4555
+replace 1491 2464
+goto calc + 6283 1
+replace 9488 9655
+remove 8724
+goto 6085
+remove 1111
+goto 8383
+remove 8285
+replace 5193 5083
+goto 1826
+goto 5876
+remove 7336
+replace 6921 7159
+replace 9244 883
+goto calc - 5250 36
+replace 100 765
+replace 2466 7119
+goto 5668
+goto 6240
+goto calc - 8830 50
+goto calc + 2118 89
+goto 1593
+replace 3480 8824
+replace 7927 4654
+goto calc - 3720 80
+goto calc - 987 73
+replace 7602 7106
+replace 2480 3159
+remove 630
+replace 8640 829
+replace 2377 1060
+goto calc - 17 31
+goto calc / 6699 82
+replace 8428 9168
+replace 7294 1990
+goto 2545
+goto 8568
+replace 8356 5137
+goto 5278
+goto calc + 7601 95
+replace 3656 3731
+replace 3401 2431
+goto calc / 2587 40
+goto 5109
+goto calc / 7036 61
+remove 4087
+remove 1281
+remove 8781
+goto calc - 1680 77
+goto calc / 2380 51
+goto 6530
+replace 6707 3057
+goto 7654
+replace 3527 7958
+replace 9052 6327
+goto calc / 6164 94
+goto calc - 2477 96
+goto calc - 7925 45
+replace 431 7617
+replace 7115 5028
+replace 7085 1941
+goto 99
+goto 9264
+goto 54
+goto 3804
+replace 3840 9127
+replace 6684 4973
+replace 1772 8971
+remove 6855
+replace 1051 1065
+goto 5206
+remove 7113
+goto 1817
+replace 2388 4172
+replace 2684 850
+remove 9277
+goto 3753
+goto calc / 7828 30
+replace 1730 6240
+remove 2890
+remove 4466
+goto 1978
+replace 2735 4907
+goto 6733
+remove 4484
+goto 6709
+goto 1517
+goto calc / 7692 86
+remove 5057
+goto calc / 1018 71
+remove 9295
+remove 3015
+goto 8331
+goto 4582
+goto calc - 5846 70
+remove 1841
+goto 9115
+goto calc - 3782 72
+goto 8832
+goto 7762
+replace 4505 1643
+replace 6756 3907
+goto 1547
+replace 5522 7817
+replace 8561 7201
+goto 3762
+replace 4130 8993
+remove 2469
+replace 8640 9775
+replace 7334 302
+goto 7751
+remove 4427
+goto 6738
+goto calc / 4881 39
+goto 2857
+goto 5310
+remove 1992
+goto calc / 735 64
+replace 3214 5457
+goto 592
+goto 5658
+replace 9982 6418
+goto calc + 9412 48
+replace 1004 7062
+remove 5190
+goto 6139
+replace 8211 1962
+goto 3703
+goto calc + 9370 36
+remove 7371
+goto 8640
+goto calc + 1066 39
+goto calc - 1093 42
+remove 1714
+remove 2583
+goto calc / 7828 44
+goto calc + 2536 75
+remove 7775
+remove 5224
+replace 3625 5999
+goto calc - 7162 77
+goto calc / 6950 44
+goto 5247
+goto calc - 7448 84
+goto calc - 9220 1
+goto calc / 3401 43
+goto calc / 2207 94
+goto 8073
+remove 552
+goto 9868
+goto calc - 5569 53
+remove 3813
+replace 8710 296
+goto calc - 3207 86
+goto 6520
+goto 7707
+replace 1758 9144
+goto calc - 9715 33
+goto 8371
+replace 6758 4156
+goto 3992
+goto 5526
+goto 1412
+remove 6745
+goto calc / 3507 18
+goto 8303
+replace 9005 9911
+goto 5915
+replace 484 6781
+goto calc + 6005 82
+remove 3234
+goto calc - 6150 85
+remove 4309
+replace 2283 8961
+replace 1904 9683
+replace 51 9256
+goto 7641
+remove 6012
+goto calc - 2710 92
+remove 3571
+remove 6101
+goto 783
+replace 392 5897
+replace 5681 8053
+replace 354 3878
+remove 4410
+goto calc + 8201 94
+goto 7733
+remove 6818
+remove 6572
+goto 9026
+goto 7644
+goto calc / 4574 76
+goto 629
+goto 4478
+goto 2735
+remove 9181
+goto 5983
+replace 7153 2116
+goto 2086
+goto 4530
+replace 2320 4550
+goto 9829
+replace 3313 9593
+goto calc / 4266 29
+replace 1312 5801
+remove 7666
+goto calc + 8440 47
+goto calc + 4514 26
+remove 2071
+goto calc - 8657 45
+goto 4382
+replace 5259 814
+remove 114
+goto calc + 9639 74
+remove 2825
+remove 3386
+replace 6163 2980
+replace 4603 5186
+replace 8512 2753
+goto 3887
+goto 9466
+goto 1863
+goto calc - 9341 99
+goto 8612
+remove 6186
+remove 1107
+goto calc - 1131 32
+remove 6598
+remove 327
+goto 6506
+goto 1730
+replace 349 7987
+goto 7969
+goto 5586
+goto calc / 8780 100
+goto 9859
+goto 1119
+goto 5061
+remove 6248
+replace 8409 2735
+goto calc / 4080 12
+replace 5459 1866
+goto calc + 7882 35
+goto 8017
+remove 6827
+remove 5129
+remove 1632
+goto 9663
+remove 8518
+remove 1552
+remove 6507
+replace 227 117
+replace 5505 5576
+goto 9346
+replace 5310 912
+replace 7901 6154
+goto 2978
+remove 6817
+goto 1098
+replace 5849 7138
+goto calc + 4994 25
+replace 7760 9163
+remove 9535
+remove 3446
+goto calc - 1225 39
+replace 4480 3813
+goto 8773
+remove 1204
+replace 9740 9302
+replace 3936 4321
+goto calc / 3740 74
+remove 77
+replace 2532 8793
+goto calc + 9633 51
+goto calc - 1657 20
+goto calc / 1640 99
+goto calc - 8063 57
+replace 4481 4685
+remove 3775
+goto calc / 4332 93
+goto calc - 6937 68
+goto 8772
+goto 7988
+replace 732 3124
+remove 5975
+replace 6739 5843
+goto 1157
+goto 3579
+replace 4564 6315
+goto 143
+replace 3218 1854
+remove 2631
+goto calc + 6660 79
+remove 7640
+goto calc / 3094 87
+goto 8502
+replace 699 2553
+goto 1218
+goto 2301
+replace 461 5446
+goto 4892
+replace 8846 303
+goto calc / 8829 47
+goto calc + 4637 53
+goto calc - 8983 91
+remove 2112
+goto calc / 7371 33
+remove 1670
+goto calc - 4951 48
+goto 6039
+remove 1991
+remove 8910
+goto 2337
+replace 1125 556
+remove 2432
+replace 1072 559
+remove 9438
+replace 7720 9426
+remove 6665
+goto calc / 3712 4
+goto 2676
+goto 3199
+goto calc / 9311 1
+remove 6842
+goto 9651
+replace 1920 2936
+goto calc + 7430 86
+remove 5584
+goto calc + 110 24
+goto calc - 3731 57
+remove 7933
+goto 5661
+replace 2172 4450
+goto calc / 7386 96
+goto calc - 3138 90
+remove 5658
+goto 3448
+goto calc + 2268 34
+goto 9501
+remove 9460
+replace 6885 5509
+goto calc - 8121 88
+replace 2623 7408
+replace 4212 1283
+remove 5776
+replace 9914 4577
+remove 6828
+goto 2392
+remove 8394
+replace 7925 6871
+goto calc + 7922 16
+replace 2481 6920
+remove 4667
+goto 6459
+goto calc + 2686 40
+goto calc + 1739 30
+replace 9380 5051
+remove 454
+goto calc / 4307 62
+goto 5945
+goto calc - 4097 46
+remove 586
+goto 8892
+goto calc - 5434 36
+goto calc / 4164 33
+goto calc - 7129 23
+goto calc - 9403 23
+replace 5764 5098
+goto calc + 4704 61
+remove 8678
+goto calc - 5227 33
+remove 4152
+goto calc + 9373 11
+goto 482
+goto 3727
+replace 5468 3072
+replace 8114 9365
+goto 574
+goto calc + 1598 68
+replace 2437 9629
+remove 9967
+goto 6917
+goto 5075
+replace 246 4564
+replace 5829 4322
+goto 4848
+goto calc + 9400 74
+remove 1120
+replace 9308 5133
+goto 2951
+replace 9372 5741
+goto calc / 5872 43
+replace 8484 6628
+goto calc + 6890 10
+replace 401 5926
+goto 4262
+remove 732
+goto 1015
+goto calc / 7633 48
+remove 6358
+goto calc / 5328 77
+remove 4805
+goto 8612
+replace 1903 8749
+goto 5485
+remove 9547
+goto calc - 8772 40
+remove 3387
+goto calc / 1563 57
+remove 8480
+goto 6533
+goto calc + 9839 29
+remove 2837
+goto 3637
+remove 7049
+remove 7734
+goto calc + 2704 94
+goto 4777
+replace 2903 9554
+goto calc / 9898 85
+goto calc / 3655 36
+replace 376 5379
+goto 5151
+remove 4791
+remove 1144
+replace 7237 8986
+remove 6939
+remove 1711
+goto 9924
+replace 5610 6703
+replace 2806 765
+remove 8592
+replace 1739 1673
+remove 3458
+replace 7743 9810
+remove 1860
+goto 1826
+remove 5606
+replace 954 7724
+goto 5704
+goto calc + 8930 100
+replace 9236 1391
+remove 7830
+goto 2005
+replace 8065 5104
+remove 3043
+goto 7760
+goto calc - 2383 55
+remove 5730
+replace 6657 712
+goto 6039
+replace 568 9045
+replace 9214 4118
+replace 613 7336
+goto calc / 2301 25
+replace 5807 3173
+replace 2637 8731
+replace 5995 6124
+goto 8997
+remove 9714
+goto calc / 7308 25
+replace 5210 9424
+goto calc / 118 20
+remove 7846
+remove 2153
+goto 2179
+replace 5921 1866
+goto 7048
+goto 388
+goto 6378
+replace 7857 710
+remove 4082
+goto 9569
+goto calc - 6485 37
+goto calc / 5105 95
+goto calc / 5939 6
+goto calc / 446 89
+remove 7264
+goto 3654
+goto 9854
+remove 6085
+replace 489 6718
+remove 3077
+goto calc - 3252 11
+goto calc + 4157 46
+goto calc + 488 27
+remove 5005
+replace 5524 901
+remove 5568
+goto 506
+goto 1752
+goto 5480
+replace 6712 8001
+replace 8651 9695
+remove 8941
+goto 9974
+goto 8438
+goto calc - 2981 39
+remove 837
+remove 2324
+replace 3461 1292
+replace 156 3579
+goto calc - 9175 29
+goto 1490
+replace 4603 7045
+goto 801
+remove 6
+replace 2978 9570
+goto calc - 731 72
+goto calc - 3317 26
+goto calc - 9609 16
+goto 5578
+goto calc / 1825 71
+remove 4475
+goto calc / 9109 54
+goto 3729
+replace 22 4963
+goto 9773
+replace 133 5202
+goto 9878
+remove 1634
+goto 1682
+goto 7655
+goto calc / 7389 85
+goto calc - 8530 10
+replace 9185 8407
+replace 1300 5251
+goto 7759
+replace 6223 7525
+goto calc / 8961 70
+remove 3252
+goto 5900
+remove 7424
+replace 3553 4405
+remove 4919
+remove 3244
+goto calc - 5347 68
+replace 1658 6115
+goto 6092
+replace 6853 3661
+replace 5900 9883
+remove 4426
+remove 2205
+goto 1370
+remove 4966
+replace 932 9675
+replace 1360 9140
+replace 6269 4368
+goto calc / 1061 95
+goto calc / 8091 37
+goto calc - 1891 1
+goto 2409
+replace 1244 9383
+replace 736 9175
+goto calc - 4420 53
+goto 7807
+goto calc / 2458 13
+goto 8517
+goto 6087
+replace 3881 9877
+remove 2465
+goto 7984
+remove 1653
+remove 2958
+goto 4647
+goto calc - 7842 53
+replace 8961 4391
+remove 3002
+replace 7791 4413
+goto calc + 7931 80
+goto 923
+goto 4059
+goto calc / 4325 14
+remove 3591
+goto 9849
+goto 1196
+goto calc + 352 52
+remove 7121
+remove 600
+remove 2202
+replace 6380 2841
+replace 6485 2573
+goto 5133
+goto 9578
+goto calc + 8046 75
+goto calc + 5343 15
+goto calc - 1801 7
+remove 2613
+remove 8954
+goto calc - 9496 40
+replace 2130 6346
+replace 8396 6853
+goto calc / 561 72
+replace 4109 6971
+remove 9328
+replace 2388 1329
+goto calc / 2478 28
+goto calc + 543 41
+goto 8418
+goto calc / 2442 29
+remove 5506
+replace 963 2363
+replace 2929 5151
+remove 6691
+replace 5256 3524
+goto calc - 4271 16
+remove 5144
+remove 8930
+replace 2864 8763
+goto 3296
+goto 853
+goto 7791
+goto calc / 2468 69
+goto calc - 1630 16
+goto calc / 3680 55
+goto calc - 8461 39
+remove 3415
+goto 4368
+goto 6547
+remove 415
+goto calc / 2798 56
+goto calc - 3638 74
+goto calc / 216 62
+goto calc - 3709 18
+goto 8781
+remove 9707
+goto 5354
+replace 5632 6909
+goto calc - 7401 98
+replace 7028 7338
+replace 4853 1807
+goto 7776
+replace 5345 721
+goto calc / 2236 37
+remove 2472
+remove 6386
+goto calc / 9437 2
+remove 7580
+goto 1568
+replace 9890 1621
+goto 8647
+goto 7648
+replace 2465 6394
+remove 1056
+replace 8999 740
+goto calc + 1439 99
+goto 519
+remove 6908
+remove 3502
+goto calc / 4410 16
+goto 2319
+replace 2711 5156
+goto calc + 4815 52
+replace 6630 4357
+goto 2914
+goto 3093
+goto 9596
+goto calc + 317 93
+goto calc + 6382 43
+goto 9355
+remove 1329
+goto calc - 2864 34
+replace 2166 7370
+goto calc + 4867 62
+replace 2231 6584
+goto calc / 7277 1
+remove 2736
+goto 9200
+goto 4878
+remove 7464
+remove 3192
+goto 1090
+goto 7606
+goto calc / 9037 44
+goto calc + 5244 50
+replace 3201 738
+goto 6166
+goto 3489
+goto 1791
+remove 2124
+goto calc + 6170 86
+goto calc / 3501 66
+remove 6402
+goto 4682
+remove 1200
+goto 1079
+replace 7798 6973
+goto calc / 9173 80
+goto calc - 9581 50
+replace 9358 7286
+goto 4154
+replace 8561 5413
+goto calc - 7993 22
+replace 4228 451
+remove 6964
+remove 5476
+remove 5161
+goto calc - 3778 6
+goto calc / 3261 86
+goto 8167
+remove 6484
+goto 4873
+goto calc + 6130 13
+goto calc + 8279 74
+goto calc - 655 75
+goto 7535
+goto calc - 791 63
+goto calc / 5237 53
+replace 5086 1378
+goto 649
+goto calc - 3272 60
+goto 7599
+replace 945 3511
+remove 3885
+goto calc + 7845 6
+remove 9280
+goto calc + 6398 63
+goto 5499
+goto 7714
+goto 7483
+remove 3205
+goto 6741
+remove 1585
+goto calc / 819 9
+remove 7939
+replace 3195 4599
+remove 8585
+goto calc - 4633 38
+replace 9769 1348
+replace 1007 7663
+replace 6823 4788
+goto calc / 5274 52
+goto calc - 231 76
+goto calc / 4898 59
+remove 4339
+goto 5893
+goto calc - 7444 56
+remove 8920
+remove 5863
+goto 53
+goto 9214
+goto calc / 2333 4
+goto calc - 2888 77
+remove 4866
+goto calc + 4467 5
+replace 4597 4248
+replace 2929 3221
+goto 5082
+remove 61
+goto calc / 8000 30
+remove 381
+goto calc + 3734 42
+goto 7766
+goto calc + 622 36
+goto 1980
+goto 4434
+remove 9289
+goto calc - 9820 52
+remove 1575
+goto 2694
+goto 6837
+goto 9487
+replace 3437 1285
+remove 1406
+goto 425
+remove 8758
+goto calc + 4102 97
+replace 9201 6516
+replace 7384 5151
+replace 4599 1282
+goto calc / 235 90
+goto calc - 9279 38
+replace 296 5249
+replace 9011 6486
+replace 8758 9839
+replace 7988 6685
+remove 3900
+goto 6395
+goto 5468
+remove 2468
+goto calc - 4941 41
+goto 5415
+goto 660
+replace 23 6710
+remove 7201
+replace 8024 3654
+goto 8473
+remove 1005
+goto calc + 2832 67
+replace 8043 8096
+remove 725
+goto calc + 7208 68
+replace 6397 7005
+remove 8832
+remove 5563
+replace 3039 9234
+remove 2932
+goto calc + 9401 86
+remove 9057
+goto calc - 4143 78
+replace 8965 5005
+goto 8142
+goto calc / 5476 24
+remove 8889
+replace 3553 1244
+goto calc - 7844 25
+goto calc + 3293 28
+remove 2907
+remove 4869
+goto 9478
+remove 7126
+remove 8788
+replace 896 2023
+goto calc / 9192 45
+goto 630
+replace 1154 6876
+goto 2349
+replace 3893 898
+goto 9676
+remove 5062
+goto calc + 102 12
+replace 8037 3058
+goto calc - 4570 39
+remove 9928
+goto calc + 6973 48
+remove 7875
+remove 6700
+goto calc + 9159 51
+replace 206 147
+remove 7251
+replace 8956 2588
+goto 6670
+replace 6419 8224
+replace 7882 2394
+goto 5347
+goto 3559
+replace 830 7007
+goto 2447
+goto calc / 7704 44
+remove 1892
+goto 2635
+replace 6718 3448
+goto calc + 8629 30
+goto 2975
+remove 9689
+remove 4811
+goto calc + 2676 70
+goto 4398
+replace 6564 9579
+goto calc + 1372 97
+goto 7962
+goto 7821
+remove 3380
+goto calc + 692 6
+replace 849 3407
+remove 8886
+goto calc + 1410 70
+replace 2904 7222
+replace 9583 3677
+replace 8235 7566
+goto 1054
+goto calc + 5546 41
+goto calc / 8679 65
+remove 5958
+goto 5837
+goto calc - 3269 11
+goto 3081
+goto calc - 6052 17
+remove 1455
+remove 7988
+goto 7876
+goto 4516
+replace 6323 4055
+remove 8012
+remove 7547
+remove 2116
+remove 1561
+remove 2116
+replace 8497 8525
+goto calc / 4840 99
+remove 5096
+replace 8086 830
+replace 8062 3416
+goto 8793
+goto 6097
+goto 7074
+replace 5202 357
+goto 8937
+remove 192
+remove 1486
+goto calc / 6244 36
+remove 4530
+goto calc / 4175 84
+goto calc + 2412 14
+remove 8671
+goto calc - 3713 40
+goto calc - 1987 36
+goto 6448
+goto calc - 9506 68
+replace 2302 943
+goto 6729
+goto 8423
+goto calc - 7222 64
+goto calc - 2172 3
+goto 3187
+goto 3426
+replace 5962 3570
+replace 3008 3114
+replace 6147 9893
+goto calc + 2739 77
+goto calc + 4441 34
+goto calc + 9089 85
+replace 4150 8128
+remove 5897
+replace 200 6775
+replace 1845 9195
+goto calc + 401 27
+goto calc + 7534 43
+goto 3301
+goto calc + 7871 79
+goto 4913
+remove 4913
+replace 6708 4725
+replace 9716 6956
+replace 8231 6655
+replace 4683 4509
+goto 1595
+replace 5443 9329
+remove 6011
+goto calc + 7402 78
+remove 4707
+goto 9144
+goto calc - 5383 18
+goto 2753
+replace 7005 8778
+replace 4722 6249
+replace 4483 8749
+remove 467
+goto calc - 8312 94
+goto 6208
+replace 6079 7030
+replace 357 6658
+remove 6176
+remove 8398
+goto 4720
+goto calc + 4950 41
+goto 8336
+goto calc + 1222 73
+remove 2853
+remove 3646
+goto 2223
+goto 6912
+remove 265
+goto 8538
+replace 4264 3925
+replace 2503 2235
+replace 2362 9506
+remove 4362
+replace 3728 1123
+remove 7623
+goto 8076
+goto 9033
+goto calc / 8510 24
+goto 2253
+goto calc / 9438 25
+replace 6677 6840
+remove 3734
+replace 5806 9066
+goto calc - 6391 98
+goto 2140
+goto 5008
+goto 4959
+goto calc - 8660 60
+goto calc - 8276 74
+remove 8780
+goto calc - 8104 76
+remove 3290
+goto calc + 1710 72
+goto calc + 1064 60
+replace 6675 6926
+remove 1194
+remove 264
+replace 9683 3259
+replace 2460 7781
+goto calc / 4666 63
+replace 6285 3580
+replace 3301 361
+goto 1504
+goto 7302
+remove 8792
+remove 1890
+goto 3989
+goto 9749
+replace 598 4863
+replace 3533 9586
+goto calc + 4862 14
+remove 4425
+replace 8892 2082
+goto calc - 3214 91
+goto calc / 333 24
+goto calc / 4167 99
+remove 2320
+goto calc - 7060 83
+goto calc + 8663 17
+goto calc / 1321 84
+remove 859
+goto calc - 3474 49
+goto calc - 8941 61
+goto 107
+goto calc / 421 7
+goto 2314
+replace 9885 7901
+remove 6524
+remove 6241
+goto calc - 1067 31
+remove 3094
+replace 1613 5827
+replace 331 5833
+goto calc + 7413 33
+goto 5362
+replace 9849 3636
+replace 371 3791
+remove 5588
+goto calc - 7918 90
+goto 8209
+remove 671
+goto 2358
+remove 1357
+goto calc / 3988 100
+goto 7440
+goto 2843
+remove 4180
+goto calc - 4556 45
+replace 1878 776
+replace 6137 5599
+goto 3791
+goto calc + 5453 22
+goto 4733
+replace 7859 9455
+replace 5635 1166
+goto calc - 9705 86
+goto calc + 6067 85
+replace 3105 4862
+replace 1155 984
+goto calc - 7603 86
+replace 1003 3018
+goto 5006
+replace 8295 5007
+remove 1657
+replace 9249 6785
+replace 769 6277
+remove 5448
+goto calc + 582 30
+replace 2214 8784
+replace 6607 8225
+goto 635
+remove 7601
+replace 1859 1920
+goto 7096
+goto 1240
+goto calc / 5203 42
+goto 650
+replace 8736 6608
+goto 1961
+goto 7360
+goto calc - 1013 76
+replace 1939 3901
+goto calc + 8781 61
+goto 5332
+goto 2337
+goto 7087
+remove 5343
+goto 6146
+remove 6462
+replace 8964 5136
+goto 9968
+remove 3898
+goto 6349
+replace 929 9502
+replace 9445 6922
+goto calc - 8780 100
+replace 2276 3861
+replace 1567 1695
+goto 7917
+goto calc - 8597 70
+goto 8295
+remove 9208
+remove 4015
+goto calc + 1369 90
+goto calc / 4670 86
+replace 9226 7322
+goto calc + 6226 91
+goto 5624
+replace 4868 1183
+goto 1117
+remove 659
+remove 2394
+remove 3780
+goto calc + 4633 72
+replace 7800 8287
+remove 186
+goto 1652
+replace 4930 7322
+remove 173
+remove 9161
+replace 4135 5144
+remove 3948
+remove 8282
+goto 5105
+remove 5188
+replace 8103 4099
+replace 6325 2158
+remove 8119
+replace 1379 394
+goto 7266
+goto calc + 4187 18
+remove 9056
+goto calc / 1997 94
+goto 8284
+remove 2568
+replace 4671 3455
+remove 2470
+replace 9909 5326
+replace 5128 4897
+goto calc + 6975 36
+goto calc / 4962 81
+goto calc - 7135 81
+goto calc - 766 10
+goto calc / 5803 56
+remove 9714
+goto calc / 4366 71
+goto calc / 1868 86
+remove 1438
+remove 7106
+remove 5184
+goto 2525
+goto 5041
+goto 5825
+goto calc + 6223 98
+goto calc / 719 25
+replace 6718 1598
+goto 1808
+goto 7693
+replace 7637 8833
+remove 6802
+goto 7547
+remove 8904
+goto 9588
+goto 7240
+remove 8400
+goto calc / 687 28
+goto calc - 6792 28
+goto calc - 2118 23
+goto 4910
+replace 701 733
+replace 6776 3718
+replace 3983 4705
+remove 4341
+goto calc + 9321 83
+goto 3731
+remove 7372
+replace 8958 4179
+goto calc - 9557 41
+replace 8264 776
+goto calc / 9971 37
+remove 8697
+goto calc - 6881 38
+remove 4452
+replace 3226 5639
+remove 4994
+replace 6610 8576
+goto 7337
+goto calc x 56 47
+remove 473
+remove 798
+goto 8507
+goto calc / 1888 56
+goto 1911
+goto calc + 3935 60
+goto 9662
+goto 3807
+goto calc / 6357 41
+remove 9015
+remove 9182
+replace 1906 3044
+replace 2125 7328
+remove 296
+goto 8620
+replace 9451 4751
+replace 3900 1451
+replace 6891 7825
+remove 2682
+remove 5070
+remove 4502
+goto calc - 8990 34
+remove 8225
+goto 7450
+remove 2301
+goto calc - 7317 16
+goto calc / 359 9
+goto 6376
+remove 5104
+goto calc + 5641 99
+replace 5976 6941
+goto 4630
+remove 6291
+goto 6600
+replace 5657 6125
+goto calc + 5480 85
+replace 4042 675
+goto calc - 5064 20
+remove 6522
+remove 6882
+remove 3128
+remove 7401
+goto 4476
+replace 8287 9136
+goto calc - 3279 66
+replace 2207 7684
+goto calc - 3644 68
+replace 6287 4667
+goto 8825
+goto 8884
+replace 728 8719
+replace 7893 4706
+replace 4123 7278
+remove 1995
+goto 2587
+replace 624 5149
+goto 4139
+goto 4671
+goto calc / 6739 67
+goto calc + 5816 68
+replace 6833 9613
+goto 9780
+remove 7171
+goto 3263
+replace 8771 1046
+goto calc + 8504 29
+replace 8798 3310
+goto 1966
+replace 1128 7984
+goto calc - 647 11
+remove 7575
+goto 542
+remove 8972
+replace 554 9257
+goto 5171
+replace 9848 5090
+goto calc - 6790 4
+goto 3233
+goto calc - 3652 46
+goto calc / 7518 1
+goto calc + 816 63
+goto 7839
+goto calc + 1862 96
+replace 1229 4055
+remove 1706
+goto calc / 1893 46
+goto calc - 189 71
+goto calc / 1000 92
+remove 1586
+remove 6011
+replace 2128 4713
+goto 3331
+replace 1485 2375
+goto calc - 5663 92
+goto 7170
+goto calc / 6343 1
+goto calc + 3895 51
+remove 3749
+goto 6186
+goto calc - 6286 77
+remove 676
+remove 37
+remove 1060
+goto calc - 2842 79
+replace 1739 9281
+remove 432
+replace 6808 3927
+remove 5812
+goto 9778
+remove 2765
+remove 3474
+remove 8163
+remove 9346
+goto calc - 120 53
+replace 8481 5825
+replace 233 9856
+replace 6007 2116
+goto calc / 6614 47
+goto 9631
+goto calc / 8450 18
+goto calc + 4046 21
+goto calc - 4596 98
+replace 20 5009
+goto calc - 21 69
+remove 2026
+remove 6105
+goto 9731
+goto calc / 3666 51
+goto calc + 828 1
+replace 8599 1670
+goto calc + 9479 52
+remove 4982
+goto calc - 5880 32
+remove 9258
+remove 8307
+goto calc + 787 37
+replace 4091 1337
+replace 3893 9354
+goto calc - 9271 29
+replace 2946 3473
+remove 5081
+goto 6448
+goto 1805
+goto calc + 3255 64
+remove 2214
+remove 3692
+replace 3654 8671
+goto calc / 2205 8
+replace 3671 8814
+replace 549 6233
+goto calc / 3174 3
+goto calc - 7153 46
+replace 3 1215
+remove 2323
+remove 5905
+goto calc - 8575 21
+goto 4995
+goto calc / 1839 18
+remove 3719
+goto calc - 8293 21
+goto 1058
+goto 1263
+replace 5745 9838
+goto 6253
+remove 632
+goto calc / 660 3
+goto calc / 6034 49
+goto 7061
+replace 2861 7854
+goto 4915
+goto calc / 5396 84
+replace 6465 4248
+goto 8340
+remove 3947
+replace 5937 5699
+replace 5202 8747
+replace 1557 1970
+goto calc - 9155 29
+goto 551
+goto calc / 8755 1
+remove 5936
+remove 2699
+goto calc / 9694 87
+goto 4118
+replace 3552 4091
+goto 6408
+goto 780
+remove 9010
+goto 5086
+remove 4553
+goto calc / 6113 50
+replace 8095 5863
+remove 9432
+goto 9367
+goto calc - 5883 95
+goto 9939
+goto calc + 497 24
+goto 2541
+goto calc + 6281 7
+goto 9487
+remove 5262
+remove 8753
+goto 3596
+goto calc + 7868 99
+goto calc / 9333 83
+goto 8874
+goto 5640
+replace 7503 4679
+goto calc - 6863 90
+replace 2185 4055
+goto calc / 4871 64
+goto calc + 717 56
+goto calc - 7710 1
+goto calc / 2567 44
+remove 8692
+replace 4506 6812
+replace 1311 2770
+goto 585
+remove 3021
+remove 8220
+goto 4697
+goto 8268
+remove 5079
+remove 3168
+replace 1045 1040
+remove 2416
+replace 5109 7294
+replace 2789 2953
+remove 6829
+goto calc / 2272 90
+replace 9491 3741
+goto 8889
+remove 8084
+goto calc + 9295 33
+remove 8302
+goto calc / 2560 44
+remove 6816
+replace 9421 2926
+remove 7765
+goto calc - 4805 35
+remove 764
+replace 3770 2258
+goto 1399
+remove 9367
+goto calc + 730 75
+remove 6380
+goto 4371
+goto 8672
+replace 780 6181
+replace 5986 8774
+goto 8701
+goto calc + 5907 12
+goto 1774
+remove 6695
+remove 5836
+goto 2850
+goto 1194
+goto 5501
+remove 2622
+remove 5968
+replace 4522 1058
+goto calc - 8912 12
+goto calc + 7475 79
+replace 4379 7498
+goto calc + 4219 13
+replace 2344 1879
+goto 6860
+goto 4631
+replace 2516 2369
+remove 742
+goto 4909
+remove 9048
+replace 1498 5690
+replace 3413 7863
+replace 364 5403
+goto 5364
+goto 7281
+remove 422
+remove 9463
+goto 8517
+goto 4078
+goto 2933
+replace 3283 5906
+goto calc + 2197 55
+goto calc / 8803 75
+replace 2254 8564
+replace 3755 8415
+goto 2413
+goto 2416
+replace 3480 9405
+goto calc / 2353 11
+replace 8027 7016
+remove 5694
+goto 331
+remove 2806
+goto calc - 3107 89
+replace 4419 6378
+remove 8884
+remove 1242
+replace 3948 6051
+replace 9064 651
+replace 6490 8680
+replace 7370 1534
+goto calc + 8400 32
+replace 3607 3469
+goto 9189
+replace 3813 247
+replace 1909 8791
+goto calc / 7325 49
+goto calc - 1022 68
+replace 9678 5395
+replace 7935 3918
+remove 8332
+remove 8346
+replace 9634 226
+replace 95 7556
+goto calc + 6319 29
+goto calc + 3227 40
+goto 8752
+replace 5038 4679
+replace 5104 2607
+replace 4282 6929
+remove 4604
+replace 4531 3580
+goto calc - 3139 79
+remove 3148
+goto calc + 7232 43
+remove 5839
+remove 8916
+remove 3310
+goto 402
+remove 1926
+goto 8916
+goto 5574
+goto calc + 156 34
+goto 201
+replace 6743 1910
+goto 7819
+goto calc + 8078 54
+replace 3745 8540
+goto calc / 3019 10
+goto 9692
+goto calc - 6764 46
+goto 4646
+replace 5949 8496
+replace 5025 7974
+goto 135
+goto 2809
+remove 1270
+goto 5673
+remove 9501
+goto 9024
+goto calc - 3716 66
+replace 5711 2461
+goto 7313
+remove 8311
+goto calc / 5674 11
+goto 8683
+goto calc + 1805 66
+goto calc + 6985 94
+replace 1049 2919
+goto calc / 7609 84
+goto calc / 8759 56
+replace 738 9448
+goto calc - 1995 95
+replace 7455 7764
+remove 5817
+goto 8177
+goto calc / 2767 69
+replace 3225 1230
+goto calc - 4730 60
+goto 2675
+goto 7550
+remove 6439
+remove 2345
+goto calc / 5615 78
+replace 3920 6188
+remove 6087
+goto 1816
+goto 5850
+replace 3459 5271
+goto 5231
+goto calc - 4779 56
+replace 8558 8578
+goto calc / 7515 22
+goto calc + 1975 12
+remove 555
+goto calc + 9610 4
+replace 9490 2049
+goto 9768
+replace 1059 65
+goto 9254
+goto calc / 5679 93
+goto calc - 320 59
+goto 386
+replace 9927 8638
+goto 3926
+replace 7586 8775
+goto 9438
+goto 5742
+goto 3419
+goto 6224
+goto calc - 9782 66
+remove 4866
+replace 9675 1248
+goto calc - 8522 64
+remove 5624
+remove 6260
+goto calc / 5904 12
+remove 1588
+replace 626 2664
+goto 6326
+goto 9952
+remove 5812
+goto 1390
+remove 9083
+remove 1687
+goto 1992
+goto 4812
+goto calc - 9963 11
+replace 7807 1326
+goto calc / 5351 65
+remove 6278
+replace 9413 8247
+replace 7797 635
+goto calc - 6804 84
+replace 7347 1952
+goto 1414
+replace 2972 261
+goto 4713
+goto 3290
+remove 2460
+replace 4839 555
+remove 8266
+replace 6176 3257
+goto 3235
+remove 7369
+goto calc / 5863 18
+remove 9176
+goto 6208
+remove 711
+remove 9644
+remove 2061
+goto calc + 1993 100
+goto 820
+remove 9921
+goto calc + 5438 82
+goto 934
+goto calc + 5888 39
+remove 4641
+replace 3921 2670
+goto calc + 4119 5
+remove 2743
+goto calc + 1808 81
+goto calc + 6709 60
+goto calc + 9402 15
+replace 2864 739
+replace 1080 663
+goto 2209
+goto 3794
+replace 6414 9263
+remove 6254
+remove 4227
+goto calc - 5315 86
+goto calc / 7267 34
+remove 6177
+goto calc + 4508 87
+remove 6099
+goto 2004
+replace 9761 2955
+goto calc / 2511 6
+replace 2425 9748
+remove 5338
+remove 3951
+goto calc + 2182 24
+remove 8567
+goto calc + 6464 76
+goto 2502
+replace 9686 6795
+goto calc x 305 23
+goto 7724
+remove 9021
+remove 5894
+goto 601
+replace 8803 7427
+goto calc + 5685 7
+remove 1858
+replace 6205 3959
+goto 3214
+remove 7904
+remove 7158
+remove 8388
+goto 8536
+goto calc x 29 65
+remove 9873
+remove 5503
+remove 312
+replace 3165 5105
+goto calc - 4175 14
+goto 1690
+goto 337
+remove 4554
+replace 2966 246
+remove 1154
+remove 2893
+remove 8246
+replace 6243 1920
+remove 6679
+remove 6062
+goto calc x 4803 1
+replace 8103 462
+remove 7429
+replace 8379 3893
+replace 4593 8418
+goto 1733
+remove 5029
+remove 4984
+replace 6439 2039
+goto 7246
+remove 2659
+goto calc - 127 62
+goto 13
+goto calc / 2242 84
+goto 473
+replace 2550 1133
+remove 2717
+remove 9670
+replace 572 9178
+goto calc - 7777 29
+goto 7364
+remove 2664
+replace 7144 2422
+goto 5812
+goto calc + 3449 61
+remove 847
+replace 6009 7589
+goto 6586
+goto 6388
+goto 4252
+remove 6494
+goto 5667
+remove 5267
+goto calc / 5818 71
+remove 2635
+goto calc - 1457 92
+replace 8141 420
+goto 6992
+remove 2793
+remove 5442
+replace 4315 1936
+goto 4982
+goto calc / 3094 42
+goto 5007
+remove 2291
+goto calc - 7607 30
+goto calc / 2860 84
+goto calc + 4793 83
+goto 3878
+replace 4968 4519
+goto 364
+remove 5435
+remove 921
+replace 6885 763
+goto 1973
+replace 4341 6535
+goto calc - 3436 62
+remove 5190
+replace 1637 4734
+goto calc / 6448 28
+goto 6690
+goto calc / 6934 87
+goto 5969
+remove 8083
+remove 1318
+remove 2171
+replace 8738 6282
+replace 4568 8556
+replace 1777 4273
+goto 4886
+replace 661 1276
+goto calc / 6859 85
+goto calc - 1407 15
+remove 6760
+replace 8659 4730
+replace 3929 7990
+remove 3138
+goto calc x 13 56
+remove 9555
+remove 5513
+replace 5407 5162
+remove 1357
+goto 9492
+replace 5676 3550
+goto calc - 9726 60
+replace 592 9710
+goto calc / 4414 76
+remove 8702
+remove 1317
+replace 9358 2657
+remove 7606
+goto calc + 6213 27
+goto calc + 8197 44
+goto 2890
+goto 1583
+remove 3876
+goto calc - 5977 62
+goto 1307
+remove 3657
+goto 9155
+goto 6907
+replace 1633 7697
+goto calc - 9494 44
+goto calc + 9317 18
+goto calc + 5665 57
+goto calc + 726 76
+replace 7344 4262
+goto calc - 7760 65
+goto calc / 3892 94
+replace 2545 6900
+remove 7519
+remove 2882
+goto calc - 4736 62
+remove 7234
+remove 2115
+goto calc + 5905 59
+remove 6255
+goto calc - 1310 17
+remove 3184
+goto 1913
+goto calc - 8586 37
+remove 552
+replace 7630 7204
+remove 5040
+goto calc + 9741 71
+remove 1839
+goto 3091
+goto calc / 486 63
+remove 5032
+goto 3015
+goto 7389
+goto calc + 8565 12
+goto calc / 7564 90
+goto calc / 8266 32
+goto 3128
+remove 8240
+goto calc + 5003 40
+goto calc - 8450 7
+goto calc / 9716 15
+replace 5610 134
+replace 5033 6020
+goto calc + 9013 42
+goto calc - 8995 78
+remove 3317
+goto calc + 7496 100
+remove 263
+goto 4272
+goto 446
+goto 5926
+replace 8193 4065
+goto 1915
+goto 3093
+goto calc / 9940 57
+goto 1393
+goto 8212
+goto calc + 2315 11
+replace 1331 900
+goto calc - 3078 37
+replace 8328 4986
+goto 5110
+replace 9194 6037
+goto calc - 9846 81
+remove 8110
+remove 7542
+goto calc + 3804 1
+remove 8104
+replace 3465 5601
+replace 1757 9344
+goto calc - 3208 39
+remove 8555
+replace 3225 1598
+remove 1108
+goto calc x 547 16
+remove 8450
+remove 1369
+goto calc / 5450 12
+remove 1276
+replace 4809 8462
+goto calc - 2364 65
+replace 9612 3412
+goto 4834
+replace 5670 3573
+replace 586 5531
+remove 2046
+goto calc + 6519 25
+replace 3844 2872
+replace 5731 2997
+remove 11
+goto 275
+goto 1082
+remove 2704
+goto calc + 9167 12
+goto 7567
+replace 7591 2393
+goto calc - 9584 24
+goto calc + 7138 6
+goto 4549
+replace 9742 6737
+goto calc + 332 42
+remove 5980
+replace 5755 3944
+remove 6564
+replace 6648 937
+remove 1823
+goto calc - 6362 12
+remove 9582
+remove 9814
+replace 1750 5178
+goto calc + 132 76
+goto 178
+remove 7354
+goto calc - 746 49
+goto 6857
+goto calc - 5871 96
+replace 8709 8999
+goto calc + 2848 80
+remove 7624
+goto 4390
+goto 5864
+goto 5535
+goto 2269
+goto calc - 2812 18
+goto 932
+goto calc / 759 40
+goto 3959
+goto 8317
+remove 3897
+goto 8140
+replace 212 8448
+goto calc / 5552 12
+replace 1574 9522
+remove 1382
+replace 4310 1361
+remove 8929
+goto calc + 8969 5
+goto calc - 5829 7
+goto calc / 8071 77
+replace 7463 7660
+remove 4620
+goto 1100
+goto 7722
+goto 6863
+replace 4606 1394
+remove 6117
+goto 9472
+remove 4657
+goto calc / 6017 87
+goto calc + 9116 8
+remove 2955
+goto calc - 8148 5
+remove 8351
+replace 3497 3131
+remove 5217
+remove 6273
+goto calc + 8658 65
+goto 8074
+goto 4372
+remove 3417
+goto 4428
+goto 9182
+goto calc - 1442 56
+remove 9623
+goto calc / 1144 26
+goto calc - 4222 94
+remove 7076
+replace 5694 4865
+remove 7117
+replace 4178 1372
+remove 2989
+replace 5802 8488
+goto calc + 3431 35
+goto calc / 1714 3
+remove 4894
+replace 4446 7783
+goto calc / 7744 54
+remove 3221
+replace 701 2743
+goto calc + 3726 42
+goto 3505
+remove 4495
+replace 8795 6945
+remove 553
+goto calc - 3448 76
+remove 8944
+goto calc + 91 30
+remove 9117
+goto 2730
+remove 5324
+replace 6197 2274
+replace 6945 9964
+remove 596
+remove 9913
+replace 5067 3849
+replace 3077 4879
+goto calc / 3587 31
+goto 2717
+remove 6314
+remove 7575
+replace 5021 293
+replace 2224 2853
+goto 560
+replace 3790 7089
+replace 2607 1250
+replace 8229 2580
+goto calc / 3437 50
+goto 3065
+replace 8467 2737
+remove 1193
+goto 3372
+goto calc - 6853 83
+goto calc + 7890 84
+goto calc + 6561 67
+remove 9305
+remove 8602
+goto calc + 1884 80
+remove 6334
+remove 2771
+replace 9379 2934
+remove 9410
+goto 8366
+goto 5444
+remove 764
+goto 7492
+goto calc + 4932 12
+goto calc + 1773 14
+goto 8370
+remove 8974
+replace 9730 1097
+goto calc + 9159 57
+goto calc / 6103 59
+goto calc - 1349 15
+remove 8703
+remove 8849
+goto 2463
+goto calc + 873 79
+goto 5384
+goto 3961
+remove 8245
+remove 773
+replace 9662 6140
+remove 7253
+goto calc - 4392 76
+goto 1734
+goto calc - 592 53
+goto 9604
+goto calc / 4833 46
+goto 8330
+replace 1878 8506
+goto 7406
+replace 2754 7242
+goto calc / 5668 83
+replace 1803 8279
+replace 5581 6880
+goto calc - 2739 21
+goto 9673
+goto calc + 1805 9
+goto calc / 9997 60
+remove 9432
+replace 796 991
+remove 9706
+replace 787 8670
+goto 1180
+goto 7209
+replace 3088 5044
+goto calc - 8405 38
+replace 2760 1750
+goto 2438
+goto 5558
+remove 5421
+replace 1940 2955
+goto 4263
+replace 2016 6829
+goto calc / 2743 95
+remove 1154
+replace 2579 9403
+goto 3837
+goto calc - 4654 1
+goto calc + 2422 23
+replace 5144 3603
+replace 2837 6174
+goto calc - 7596 93
+goto calc + 5622 26
+goto 9614
+goto 7499
+remove 3751
+goto 662
+goto 7434
+replace 2284 1001
+goto calc - 1433 15
+replace 4530 1706
+remove 734
+goto calc - 3594 57
+goto 5308
+goto 4349
+remove 7843
+replace 947 530
+goto 3929
+replace 697 8987
+remove 6675
+goto calc - 3069 61
+goto 8644
+goto calc / 97 50
+replace 8690 1785
+remove 6788
+goto calc + 5155 99
+goto 335
+goto 2638
+replace 9871 7140
+goto calc / 5182 29
+replace 8798 3169
+goto 2782
+goto calc / 776 55
+remove 2746
+goto 4077
+goto calc + 7441 14
+replace 7985 7207
+replace 4036 8556
+goto calc + 3057 5
+remove 4130
+replace 6463 2281
+replace 8812 6942
+replace 3071 3457
+remove 9002
+replace 8207 400
+remove 2122
+goto calc / 6269 90
+goto calc + 8683 72
+goto calc - 6917 27
+remove 9712
+remove 3453
+replace 4322 529
+goto 3665
+remove 7717
+goto calc x 1650 5
+remove 8965
+remove 3632
+remove 748
+replace 9122 2630
+goto calc - 5322 36
+goto calc - 6068 4
+remove 4159
+remove 1629
+replace 890 4043
+remove 5961
+replace 3104 9865
+replace 1619 2389
+goto calc - 7945 65
+replace 3736 2552
+remove 179
+remove 7476
+goto 4230
+goto calc / 6163 95
+replace 3827 3345
+goto calc - 4040 37
+remove 9341
+replace 88 8774
+goto 6759
+remove 8899
+replace 5626 1499
+goto calc + 5677 8
+goto calc + 7416 66
+replace 4901 1801
+replace 567 4915
+replace 9543 1300
+goto calc + 3421 77
+goto calc / 2898 84
+replace 8552 9295
+replace 7013 6318
+replace 9883 4664
+goto calc + 7675 94
+goto 8953
+replace 6621 5704
+remove 8377
+replace 7635 8839
+goto calc / 9068 54
+goto calc + 8489 89
+replace 5304 6438
+remove 7782
+replace 2459 4919
+goto 8012
+goto calc + 8699 35
+remove 8718
+goto 2283
+goto calc - 5715 61
+remove 1345
+goto 3460
+goto 4477
+goto 4711
+replace 1158 9788
+replace 5416 9382
+remove 9437
+replace 7749 9662
+goto 6955
+replace 263 2464
+remove 1303
+goto 2424
+goto 334
+goto 4854
+remove 4922
+goto 8163
+replace 803 4429
+replace 7485 3478
+goto 3691
+goto calc / 1180 9
+goto 5328
+replace 5693 6506
+goto 4055
+goto calc - 6955 52
+replace 1852 3193
+replace 6834 8826
+goto calc - 3579 42
+replace 678 7300
+remove 13
+remove 5458
+goto calc + 9380 52
+replace 5204 5120
+remove 6022
+goto 3785
+goto calc x 969 10
+replace 477 7153
+goto calc + 7543 78
+goto 3923
+goto 435
+goto calc - 1789 85
+replace 6669 7509
+remove 8476
+goto calc / 7062 33
+goto calc / 7381 56
+replace 1185 7660
+remove 552
+replace 5415 2452
+replace 6180 3701
+goto calc + 4981 49
+goto 5532
+goto calc - 8726 67
+goto 5088
+replace 3327 5304
+goto 357
+goto calc + 1726 79
+replace 6358 6243
+replace 7277 7613
+goto 2337
+remove 1663
+goto calc + 9631 68
+replace 2631 2067
+remove 8078
+goto calc / 5243 60
+replace 3048 2852
+goto 1390
+goto 6214
+goto calc / 4301 81
+goto 6469
+remove 5624
+replace 7285 8336
+replace 9733 1514
+goto calc / 4896 63
+remove 5610
+remove 1959
+goto 2041
+goto calc + 3136 59
+remove 781
+remove 8399
+goto calc + 501 83
+goto 9307
+replace 915 4393
+goto calc - 2135 57
+replace 1255 8104
+remove 9857
+remove 9919
+goto calc - 2043 73
+goto 169
+replace 8847 2503
+goto calc - 6351 88
+remove 4832
+replace 6909 1839
+replace 2859 68
+goto 5632
+goto 5271
+remove 6084
+replace 7779 7505
+goto 3068
+remove 4328
+remove 738
+goto calc / 176 69
+goto calc / 7552 70
+goto calc / 1098 42
+replace 5476 454
+goto 7882
+remove 4641
+replace 3957 1062
+goto 3976
+goto 9330
+remove 1973
+remove 8850
+replace 5801 6069
+goto 5711
+goto calc / 6245 91
+remove 6854
+replace 161 4197
+remove 162
+goto 5950
+goto calc / 4209 33
+remove 9714
+remove 5628
+replace 1577 787
+replace 5632 2735
+goto 9083
+goto 5080
+replace 3809 1010
+remove 606
+goto calc x 150 64
+goto 4580
+goto 6766
+goto 2504
+remove 2160
+goto calc - 4862 4
+goto 8544
+goto 1251
+goto 4691
+remove 9132
+remove 2425
+goto 712
+replace 2385 8555
+replace 1568 2874
+remove 9696
+goto calc / 4520 12
+replace 4272 1647
+goto 8073
+goto calc / 5816 21
+remove 7597
+remove 9191
+goto calc + 9754 57
+remove 5872
+goto 4523
+goto 1379
+goto calc + 3671 65
+replace 7762 1133
+goto 1289
+goto 1807
+goto 5381
+remove 3182
+remove 4430
+replace 5344 3042
+goto calc + 9832 45
+replace 6108 7548
+goto 8001
+goto calc / 2255 20
+goto calc - 7758 76
+remove 9494
+goto 2618
+remove 2881
+replace 2402 1480
+remove 9340
+goto calc - 7433 86
+remove 3199
+replace 8992 3566
+goto 3322
+goto calc + 3580 25
+goto 4704
+remove 2607
+remove 3221
+goto 1446
+replace 6389 143
+goto calc - 3366 80
+replace 7664 189
+goto 595
+remove 4907
+remove 7084
+goto calc + 4530 58
+goto calc / 6368 10
+goto calc / 6947 96
+goto 9175
+goto 529
+replace 7462 7462
+goto 2973
+goto calc + 7125 56
+goto calc / 106 66
+remove 5148
+remove 8182
+goto calc / 4880 26
+goto calc - 1367 50
+goto 7345
+replace 6525 7981
+remove 3929
+goto calc + 4205 21
+remove 9649
+replace 2462 8649
+replace 1833 5153
+goto 1103
+remove 6025
+goto calc / 1506 79
+goto 3399
+goto 5145
+remove 9092
+replace 2873 6803
+replace 469 5355
+remove 6978
+goto 2246
+goto 5565
+remove 8121
+replace 7826 1795
+replace 3615 2012
+goto 269
+remove 9547
+remove 3832
+goto 6360
+replace 3 7597
+remove 9042
+replace 1662 641
+goto calc / 6429 50
+goto calc - 6979 17
+remove 7870
+goto 7159
+remove 3932
+goto 9233
+replace 3675 2037
+goto calc + 2881 12
+remove 532
+replace 8336 1991
+goto 7697
+goto 1313
+replace 8136 9804
+replace 4262 8803
+remove 1442
+goto 4750
+goto 1996
+goto 902
+remove 7807
+goto 4569
+remove 4570
+remove 7724
+goto 2572
+goto calc + 5634 9
+remove 6890
+goto 7829
+replace 4227 910
+remove 2350
+replace 9690 2262
+goto calc / 4130 41
+replace 1741 9459
+remove 6453
+goto 5887
+replace 1445 6344
+remove 2961
+goto 3231
+remove 6533
+goto calc - 2320 30
+goto calc / 6623 3
+remove 8198
+goto 3014
+remove 2401
+replace 9344 6828
+replace 5276 7568
+goto 183
+goto 1914
+goto 4908
+goto calc / 8533 32
+remove 8030
+goto calc + 9878 36
+goto 7065
+replace 2725 5717
+replace 6102 6320
+goto 5427
+goto 3847
+goto 2736
+goto 1076
+replace 3854 5458
+goto calc + 4568 100
+remove 7213
+goto 7578
+remove 642
+goto 4535
+goto calc + 7020 86
+remove 8421
+replace 8194 1073
+remove 7318
+goto 5187
+remove 1039
+goto 9028
+remove 7244
+goto calc / 4332 55
+remove 5366
+goto calc / 6923 11
+goto 3925
+replace 8746 5016
+replace 1967 2931
+goto 1590
+replace 2607 6635
+replace 9524 3489
+goto calc + 9362 71
+replace 5436 6415
+goto 9584
+replace 795 3420
+replace 5001 1181
+goto 8107
+remove 1697
+replace 3855 2280
+goto calc - 495 68
+goto 9151
+replace 6405 7926
+remove 8025
+replace 4685 3961
+remove 8873
+remove 2276
+goto 1158
+remove 7473
+goto calc + 576 22
+goto calc / 8557 74
+goto 9305
+goto 8701
+replace 9673 6189
+remove 2538
+goto 5203
+replace 9742 83
+goto 2344
+goto calc / 5295 48
+goto 5669
+replace 3680 6523
+goto calc + 2978 47
+goto 3217
+goto calc + 687 9
+remove 6296
+replace 1017 485
+goto 703
+goto calc / 4513 53
+goto 6463
+goto calc + 1048 9
+replace 2297 1577
+replace 4442 948
+replace 8168 4320
+remove 5381
+replace 7435 3916
+replace 2728 7000
+replace 1708 1065
+goto 1951
+remove 4139
+remove 3020
+goto calc - 886 39
+goto 2057
+replace 634 135
+replace 3635 6031
+goto 5604
+remove 2042
+goto calc / 3672 96
+goto 9436
+goto 1766
+remove 5067
+goto 5796
+replace 185 1734
+goto 9708
+replace 6796 5726
+goto 8498
+replace 9881 9986
+replace 681 3831
+goto calc - 9679 75
+goto 931
+replace 9523 5920
+remove 298
+replace 1550 3863
+remove 8436
+goto 7987
+goto calc - 7416 49
+goto calc + 3197 99
+goto 383
+remove 9557
+remove 1736
+goto calc / 6548 77
+remove 4501
+goto 2388
+remove 4608
+goto calc + 769 96
+replace 9782 4102
+goto calc + 1830 7
+goto calc / 9647 91
+remove 9360
+replace 5976 4335
+goto calc - 948 65
+goto calc - 9014 49
+remove 1916
+remove 88
+remove 5649
+remove 1299
+replace 8986 4040
+goto calc / 8271 41
+goto 8780
+replace 780 1530
+remove 5484
+replace 1609 7831
+goto 749
+goto 5411
+remove 9073
+goto calc / 4216 69
+goto 2776
+remove 7551
+remove 5641
+replace 7960 9831
+remove 9042
+replace 9554 5173
+goto calc - 3386 92
+replace 8732 8805
+goto calc / 4060 45
+goto 2491
+goto 1309
+goto 5776
+remove 8824
+remove 2836
+goto 5903
+goto calc - 930 80
+goto 9074
+goto 3335
+remove 4843
+remove 5824
+remove 6414
+goto 7356
+goto calc / 8042 6
+goto 3354
+goto 8764
+replace 7357 7971
+remove 3938
+remove 3369
+replace 7901 5607
+replace 4861 5094
+remove 9922
+goto 3396
+goto calc / 6287 74
+remove 4462
+remove 9200
+remove 2302
+replace 6918 8758
+replace 7990 1327
+remove 6270
+goto 1527
+goto calc x 2845 1
+goto 8597
+replace 5159 174
+goto 8579
+goto 5735
+remove 6441
+goto 6297
+goto 6166
+goto 9426
+remove 5010
+replace 7361 8601
+goto calc - 4963 39
+goto 8577
+remove 3911
+remove 132
+goto 684
+replace 4674 9522
+remove 2184
+replace 8400 7631
+replace 1960 8677
+goto calc + 4071 7
+replace 7706 7582
+goto calc / 6569 6
+goto calc - 9807 36
+remove 3114
+replace 7236 1512
+replace 2157 9419
+remove 3866
+goto calc + 1998 51
+replace 4249 5093
+goto 53
+remove 598
+goto calc - 3457 21
+replace 9993 3582
+replace 3246 1122
+remove 4482
+goto 2926
+remove 3449
+remove 9010
+replace 9813 2799
+goto 6140
+goto 6340
+goto 701
+replace 5429 4898
+goto calc - 3992 49
+goto calc - 5498 77
+goto calc + 795 51
+goto calc - 3785 33
+goto calc / 1635 72
+remove 5825
+goto calc + 8918 88
+remove 9905
+goto calc / 3376 5
+goto 9725
+replace 9351 2742
+remove 6484
+goto 5668
+remove 749
+goto 2971
+goto 4285
+goto calc - 6108 5
+goto calc - 6542 40
+replace 964 4979
+replace 6244 616
+goto 7192
+remove 8766
+remove 6371
+remove 6243
+goto 3687
+replace 6844 7659
+goto 3008
+replace 8073 3994
+remove 2501
+goto calc / 2413 77
+replace 7262 2375
+replace 246 68
+replace 4434 9721
+remove 1378
+replace 8234 7951
+goto 2813
+remove 8623
+remove 3134
+goto calc - 1185 1
+goto calc + 5075 24
+replace 1962 3890
+replace 9574 8672
+replace 1749 485
+remove 9419
+remove 9832
+goto calc + 6646 67
+remove 2864
+replace 1466 9260
+goto 4010
+goto 142
+remove 4944
+goto 7010
+goto calc + 4183 52
+remove 9061
+replace 776 4406
+goto 5294
+goto calc - 9273 95
+remove 9796
+replace 6587 3165
+replace 4568 4583
+goto 2018
+goto calc + 226 45
+goto calc + 322 37
+goto calc / 8333 33
+goto 1504
+goto 5371
+goto calc - 4534 83
+goto calc / 6077 12
+goto 2311
+goto calc - 2578 45
+replace 8534 4563
+goto calc + 139 54
+goto 7963
+remove 6016
+goto calc - 7784 52
+goto 8456
+goto calc / 7382 15
+goto 4524
+goto calc + 9903 72
+goto 1939
+remove 641
+goto 4704
+goto calc / 5711 21
+goto 5812
+replace 6908 4901
+replace 306 8918
+goto 999
+goto calc / 8696 29
+replace 3807 8416
+remove 2291
+remove 7262
+replace 6335 3933
+goto 9069
+goto calc - 1679 96
+goto 6067
+goto 5655
+goto 9679
+replace 9982 2594
+goto 8235
+remove 1504
+replace 6305 7262
+remove 1825
+goto 969
+goto calc + 3209 66
+replace 2312 1135
+remove 9332
+goto calc + 7639 42
+goto calc / 6807 21
+goto calc / 8418 22
+remove 1520
+replace 9832 4640
+replace 4381 3472
+replace 6310 9944
+replace 7141 2572
+goto 4847
+goto 8785
+goto calc - 2189 43
+replace 7083 4618
+goto calc - 4324 32
+remove 5947
+goto 7558
+goto 809
+goto 5767
+replace 1746 2545
+goto calc / 153 83
+goto 6846
+replace 319 3602
+replace 5667 8326
+replace 6771 6431
+replace 6440 7058
+remove 7957
+remove 3112
+replace 8804 5752
+goto 3405
+goto 4809
+goto calc / 7405 34
+goto 1526
+replace 1398 9053
+goto calc + 2162 92
+replace 9712 7302
+goto calc / 369 70
+replace 6123 1032
+replace 8154 2159
+replace 2247 3552
+goto 8955
+goto 7606
+replace 6105 3071
+goto calc - 7475 82
+goto calc / 2742 83
+goto calc / 4536 44
+replace 4941 4900
+remove 8892
+replace 3826 8331
+goto calc - 1141 14
+remove 921
+goto calc + 7460 43
+goto 9825
+goto 3326
+goto calc / 3806 92
+replace 4896 9448
+goto calc - 4085 51
+goto calc + 1248 40
+replace 6016 2263
+goto 9093
+goto 7097
+replace 5261 5303
+replace 8265 144
+goto 1352
+replace 7139 5438
+goto calc - 5104 75
+goto 792
+goto 7881
+goto 9359
+remove 9890
+remove 6034
+goto calc / 1336 72
+remove 459
+goto calc + 1739 77
+remove 8183
+goto 3355
+goto calc / 6468 35
+remove 762
+goto calc - 9289 25
+goto 9689
+replace 7878 2570
+remove 9361
+remove 9387
+replace 9142 4419
+replace 6472 9083
+remove 4790
+remove 5141
+remove 2082
+replace 1028 4139
+goto calc - 6248 63
+goto 1437
+remove 9821
+goto calc - 6661 35
+goto calc - 1542 74
+remove 9066
+goto 2843
+replace 6878 9301
+replace 1409 662
+remove 3982
+remove 2788
+replace 3656 3057
+goto calc / 8202 88
+goto calc / 199 17
+goto 7137
+goto calc - 8462 98
+remove 7461
+goto 7475
+replace 2186 1183
+goto 4110
+goto calc + 3675 64
+goto calc + 4070 34
+replace 3912 2479
+replace 5323 1523
+goto calc + 2078 100
+goto calc - 3497 35
+remove 6498
+goto 3161
+replace 9386 1085
+replace 2505 7406
+replace 3987 149
+goto 8586
+goto 850
+goto 9408
+goto 3745
+remove 5636
+goto 1170
+replace 786 4704
+goto 6757
+replace 7693 3192
+replace 7511 5930
+replace 6903 837
+goto calc / 7953 20
+remove 7008
+goto calc + 7976 2
+goto 7308
+goto calc / 60 40
+replace 581 509
+goto 8815
+remove 4115
+replace 8695 2789
+goto calc / 1826 58
+replace 692 8422
+goto calc / 8094 96
+replace 976 1928
+goto 1485
+remove 8387
+goto 9525
+goto calc + 5186 57
+goto calc + 11 76
+goto calc x 156 12
+goto calc + 5502 41
+goto 4034
+goto 3295
+remove 3233
+goto 6398
+replace 508 1064
+goto calc - 2233 86
+goto 5202
+replace 3373 9888
+goto 4669
+goto calc / 7018 60
+remove 437
+remove 5473
+replace 5918 5241
+goto calc - 592 36
+replace 5014 7546
+replace 2592 2683
+replace 2616 270
+goto calc / 3639 49
+goto 2346
+remove 2566
+goto calc / 8360 57
+goto 607
+goto calc / 1813 36
+goto calc / 486 36
+goto calc + 3796 13
+remove 5698
+remove 3837
+replace 9216 9844
+remove 3353
+goto 7887
+remove 557
+goto 1068
+goto 3721
+remove 9668
+replace 129 5408
+goto calc + 6198 95
+remove 5208
+remove 262
+goto 248
+goto calc - 9354 54
+goto calc - 1322 3
+remove 109
+replace 9601 6876
+goto 689
+remove 8489
+replace 2935 5820
+goto 6226
+goto calc - 808 10
+goto 9166
+goto 2547
+goto 9028
+replace 2740 2250
+goto calc - 4205 21
+goto 9813
+goto calc - 8346 42
+remove 9321
+replace 1690 1254
+goto 5374
+replace 7532 7695
+goto 7150
+remove 7060
+remove 1441
+goto calc + 4829 5
+goto calc / 9927 77
+remove 6809
+remove 4075
+goto 7669
+goto calc - 8636 6
+remove 4753
+remove 7416
+replace 8930 5995
+goto 1494
+remove 793
+remove 8102
+goto calc - 7162 19
+goto 7655
+goto 9029
+goto 6823
+goto 4607
+goto calc / 5754 89
+replace 7199 9865
+replace 6335 1742
+remove 2042
+replace 6921 758
+replace 4045 7912
+goto calc - 1117 90
+goto 5939
+replace 5334 650
+goto 7532
+remove 8503
+remove 2231
+replace 2863 2022
+goto 2288
+goto calc + 7139 39
+goto 769
+goto calc / 98 93
+goto calc + 7425 81
+goto 7548
+remove 6291
+goto calc - 1388 74
+goto calc + 1058 41
+goto calc / 9474 99
+goto 6398
+goto 8289
+replace 2252 7483
+remove 47
+goto calc + 3101 59
+remove 1590
+remove 5167
+remove 7491
+goto calc + 9018 95
+remove 1277
+replace 2200 6742
+replace 3539 9674
+goto calc + 8366 60
+goto calc - 5190 17
+remove 1321
+goto calc - 3483 41
+replace 2571 9838
+replace 7821 563
+replace 8373 4792
+goto calc - 5016 9
+replace 796 7247
+goto 7498
+replace 2474 3724
+remove 7416
+replace 909 8127
+replace 6485 6649
+replace 4797 8249
+goto calc / 8267 36
+remove 9795
+goto calc + 6286 5
+goto calc + 2840 82
+replace 7540 698
+goto 538
+goto 3780
+goto 6871
+remove 4778
+goto 3467
+remove 7081
+goto 6189
+goto calc / 2144 97
+remove 1053
+remove 7725
+goto calc - 3128 32
+replace 4443 6874
+goto calc / 8046 27
+goto calc + 2319 73
+goto 4985
+remove 415
+replace 5415 2300
+replace 4009 9724
+remove 4141
+replace 2268 8057
+goto 9540
+remove 1311
+remove 3736
+goto calc / 8208 8
+remove 3022
+remove 865
+goto calc / 5939 72
+goto calc - 9082 22
+remove 9870
+goto 3336
+remove 9131
+goto 3323
+replace 5760 6524
+replace 4632 2633
+replace 2601 7127
+goto 1302
+replace 4679 2359
+goto 3357
+goto calc - 781 45
+remove 3904
+replace 8383 7551
+remove 9082
+remove 2043
+replace 2311 574
+replace 2931 5003
+remove 1595
+replace 5153 6568
+remove 6886
+remove 7043
+goto calc + 9604 44
+goto 7677
+replace 7306 6457
+replace 8630 7974
+remove 1630
+goto 1057
+goto calc - 4228 10
+replace 6424 8633
+remove 290
+goto calc + 2981 68
+remove 8601
+goto 7653
+goto calc + 7864 91
+goto calc / 6426 18
+remove 4149
+goto calc / 5248 44
+replace 9125 6256
+goto 3452
+remove 9090
+goto 9148
+replace 2052 7470
+replace 9909 5812
+goto 5851
+remove 8058
+replace 4274 1780
+replace 8064 3766
+replace 7662 5318
+replace 6444 6982
+goto calc + 8249 88
+replace 6186 965
+goto 2516
+replace 9386 8778
+remove 8213
+replace 223 4754
+goto calc - 8900 28
+replace 7039 850
+goto calc / 8980 93
+goto 8793
+remove 3604
+goto 8322
+goto calc / 3986 56
+replace 9587 1014
+remove 4671
+goto calc + 565 14
+remove 2809
+replace 5481 7972
+goto calc + 825 70
+remove 923
+goto calc + 8061 17
+goto 3442
+goto 605
+goto 9990
+replace 5579 181
+goto 9220
+goto calc + 2979 75
+goto 6885
+goto calc / 9930 16
+goto 3853
+goto calc - 7316 24
+remove 4211
+remove 2531
+remove 1656
+remove 4471
+goto calc - 955 24
+replace 5801 6178
+remove 9419
+goto 4309
+goto calc + 673 37
+goto calc - 3495 30
+replace 7672 4396
+remove 3633
+remove 2520
+goto calc - 7972 16
+goto calc / 4490 21
+remove 4198
+goto 1084
+replace 6533 5076
+goto 6498
+goto 1053
+replace 9380 5526
+goto 9603
+replace 1230 8281
+remove 4599
+goto 8205
+remove 6717
+remove 1511
+replace 4584 8453
+replace 3118 6230
+goto 9301
+replace 3472 5094
+replace 6426 531
+goto calc + 306 2
+replace 2868 3293
+goto 4798
+replace 7577 3551
+remove 6222
+goto calc - 9203 48
+replace 1085 8955
+goto 3490
+goto calc + 891 70
+goto calc + 8005 36
+remove 7351
+goto calc / 6971 82
+replace 516 5145
+goto calc - 3948 70
+goto calc - 1916 90
+remove 4323
+goto calc / 9341 72
+remove 8045
+remove 948
+replace 5817 3247
+remove 4802
+goto 7775
+replace 9751 6081
+remove 2546
+remove 1309
+replace 6732 4791
+replace 5279 3197
+remove 8913
+goto calc / 4619 14
+remove 6499
+goto 7072
+goto 9933
+goto calc / 8803 50
+goto calc / 8892 55
+replace 3831 53
+remove 6404
+goto calc + 3826 73
+remove 838
+goto 6573
+goto calc - 9468 24
+replace 8191 3721
+replace 2247 3218
+replace 1387 481
+remove 4464
+goto calc - 3205 77
+replace 5315 2824
+remove 6503
+remove 3102
+goto calc - 8630 15
+goto calc - 5656 72
+goto 7312
+goto calc - 4652 90
+remove 4596
+goto calc - 7930 60
+goto calc - 1485 43
+replace 518 7552
+goto calc + 7007 82
+replace 3170 9351
+goto calc + 4096 66
+replace 3130 1822
+goto calc / 4344 40
+remove 1025
+remove 4061
+goto calc + 2475 29
+goto calc / 3658 49
+remove 6008
+goto 6688
+goto calc - 2846 4
+goto calc + 3573 16
+goto calc + 3101 22
+remove 2999
+goto calc - 4020 17
+remove 5065
+replace 733 4859
+goto 4517
+remove 6049
+remove 6033
+remove 3873
+goto 5259
+goto calc / 1880 95
+remove 4793
+goto 1380
+remove 2130
+replace 3438 8432
+remove 4575
+replace 7171 7932
+goto 9496
+replace 6771 5760
+goto 1035
+goto 8495
+replace 7565 2563
+goto calc - 5612 78
+replace 1004 192
+goto 3315
+goto 1566
+goto 4624
+goto calc / 4794 5
+remove 6265
+remove 1268
+goto 976
+replace 7763 7107
+replace 7427 3721
+remove 4495
+goto calc - 5927 93
+replace 4501 6631
+goto 1492
+goto calc + 1191 16
+goto 2576
+goto 6356
+remove 4774
+goto calc / 6686 100
+goto 7555
+goto 6933
+remove 3388
+remove 7946
+goto 8136
+goto 7185
+replace 6535 1331
+replace 9176 6395
+replace 8889 5110
+goto 184
+remove 2994
+replace 215 6037
+goto 8932
+goto 1491
+goto 5736
+goto calc - 6629 65
+goto calc / 3683 59
+goto 6130
+remove 3119
+remove 9559
+remove 1889
+replace 9906 9024
+goto 3256
+goto calc + 5279 4
+replace 1993 6400
+remove 110
+remove 3586
+goto 6731
+goto 5340
+goto 9055
+remove 1852
+goto 1410
+remove 9779
+replace 4446 111
+goto 9254
+replace 8216 2358
+goto calc / 104 52
+goto 8626
+goto 9774
+remove 5
+remove 8427
+goto 350
+replace 5738 1297
+goto 1805
+replace 5311 5503
+goto 782
+remove 9030
+goto calc + 6571 78
+goto calc - 4829 47
+remove 451
+goto 7539
+goto 2066
+remove 5592
+remove 2069
+remove 7011
+goto calc / 3929 60
+goto calc + 1662 30
+goto calc - 5003 2
+goto calc + 3044 81
+remove 6741
+replace 1403 1759
+goto calc + 7743 59
+goto calc + 570 28
+remove 5149
+remove 1473
+goto calc + 4322 35
+goto 6867
+replace 6159 9889
+goto calc / 3300 42
+remove 4132
+goto 1240
+remove 9966
+replace 9893 8006
+goto 6504
+goto calc + 3337 17
+replace 7410 2998
+goto calc / 940 35
+remove 3972
+replace 722 3390
+goto 1439
+remove 2189
+goto calc - 1395 98
+remove 3509
+goto 8240
+goto calc / 2788 5
+goto calc + 5824 10
+remove 8416
+remove 3282
+replace 8043 2079
+replace 7126 7582
+goto 1260
+goto 7404
+replace 7023 3695
+goto calc - 5600 35
+remove 9461
+remove 4707
+replace 343 1001
+remove 3994
+remove 995
+replace 7674 8175
+replace 769 6228
+goto calc - 3467 55
+remove 1045
+replace 1678 6716
+remove 2271
+replace 8704 7847
+replace 3896 545
+goto 2565
+replace 6708 6931
+replace 592 4664
+goto 8775
+remove 7323
+goto calc / 1859 69
+remove 352
+replace 1607 9719
+replace 1066 3469
+remove 3469
+replace 489 7061
+goto calc - 427 46
+remove 2854
+replace 3133 8009
+replace 9294 2740
+replace 7292 2142
+goto calc + 3000 6
+remove 1870
+goto calc + 9534 5
+remove 2080
+replace 2756 2995
+goto calc + 661 54
+replace 1478 7995
+replace 6505 4826
+goto calc + 1463 64
+remove 2724
+replace 5403 1813
+remove 3716
+remove 8933
+remove 3039
+replace 8660 2113
+replace 9600 7243
+goto 4442
+replace 3334 6439
+remove 3527
+goto calc / 9752 14
+replace 9474 5904
+remove 8474
+goto calc - 4898 93
+replace 9235 5632
+goto calc - 5505 46
+goto calc / 432 47
+remove 9798
+remove 7615
+goto calc + 9650 78
+goto 1166
+replace 4677 3061
+remove 9054
+goto 7383
+remove 578
+replace 7887 5106
+goto 3178
+goto 4407
+goto 8944
+replace 9591 9612
+remove 9117
+replace 767 3277
+remove 2988
+replace 2926 1547
+remove 5706
+goto calc - 1084 47
+replace 492 4748
+goto 8648
+replace 9889 1735
+goto 2310
+replace 3624 2614
+goto 1901
+goto 3815
+goto 1712
+replace 6750 9545
+goto 5563
+goto calc / 2241 60
+replace 9409 4061
+goto 7005
+goto 8991
+goto 1887
+goto calc + 8513 9
+replace 4594 3266
+goto 7197
+replace 9953 6063
+replace 1752 1260
+replace 3757 1753
+goto calc / 9236 77
+replace 1180 7189
+goto 8002
+goto 9310
+remove 4368
+replace 4743 9232
+remove 5622
+replace 5332 5363
+replace 1451 2553
+goto 2489
+goto calc / 7611 65
+remove 6708
+remove 4713
+goto calc / 3817 7
+goto 6077
+goto calc - 7556 33
+goto calc / 2961 27
+replace 1209 8019
+goto 9752
+goto calc / 1095 79
+goto 864
+replace 8692 4459
+remove 6100
+goto 5089
+replace 3890 6164
+remove 7888
+goto 874
+goto calc / 8675 96
+remove 38
+replace 9798 6363
+goto 1241
+goto 1554
+goto 6009
+goto calc + 9045 26
+goto 3857
+replace 3200 4646
+replace 5271 4649
+replace 308 5518
+remove 5526
+goto 6899
+goto 9073
+remove 7649
+goto 9340
+goto calc / 7327 53
+goto calc + 8285 84
+replace 3106 2233
+remove 5721
+goto 4911
+remove 4440
+remove 2513
+goto 1798
+goto calc / 7263 84
+replace 9317 4076
+remove 200
+goto calc - 7160 18
+goto calc - 6527 11
+replace 1961 9417
+replace 2929 6389
+replace 9523 2227
+goto 596
+remove 2369
+goto calc - 9118 11
+goto 2800
+goto 7808
+remove 6978
+remove 5055
+remove 4847
+replace 5326 4421
+goto calc + 7679 99
+remove 9923
+remove 5351
+remove 9963
+remove 4915
+remove 2931
+goto calc + 6806 51
+remove 3183
+remove 7218
+goto calc + 3657 97
+goto 9855
+goto 5350
+goto 8815
+goto 1652
+replace 8948 1432
+remove 3259
+remove 8207
+replace 1930 7877
+goto calc - 2688 15
+goto calc - 2740 86
+replace 6389 930
+goto calc / 4568 55
+goto calc - 1223 37
+remove 2848
+goto 1547
+goto 9815
+goto 8368
+replace 7137 4647
+remove 3487
+goto calc x 776 8
+goto 5557
+replace 1367 7109
+remove 7837
+goto 282
+remove 8985
+remove 7439
+replace 8255 8491
+remove 3769
+replace 2971 2655
+goto calc - 371 85
+replace 950 9963
+goto 406
+goto 7100
+goto 9139
+goto 8333
+goto 237
+replace 4468 2972
+remove 5117
+goto calc - 2700 74
+goto 5911
+replace 5388 9320
+goto 5560
+goto 1904
+goto 1102
+goto calc + 8096 85
+goto calc - 7360 36
+goto calc / 5268 79
+replace 496 7102
+goto calc + 6044 91
+remove 2714
+replace 5572 9391
+replace 6985 6617
+goto 540
+goto 6130
+goto 8538
+replace 4784 322
+replace 4080 9059
+remove 6908
+goto calc / 5125 84
+remove 4180
+remove 6310
+goto 8709
+replace 6575 92
+goto 9007
+replace 9260 1212
+remove 657
+goto 9885
+goto calc / 202 21
+replace 2149 2356
+replace 7568 5318
+goto calc / 37 49
+replace 4938 2911
+remove 130
+goto calc - 7096 21
+goto calc + 9882 52
+remove 6959
+goto 8742
+remove 5841
+goto 1126
+replace 8871 5546
+remove 9919
+goto calc / 8768 90
+remove 6402
+goto calc + 7092 89
+replace 5489 3851
+goto calc + 4783 78
+goto 3029
+goto 6331
+replace 2069 1431
+replace 2749 6096
+goto calc + 424 40
+goto 282
+remove 5886
+goto 8523
+goto 8539
+goto calc / 687 48
+remove 137
+replace 6867 1374
+goto calc - 1254 61
+remove 1703
+remove 4173
+goto calc / 1575 76
+goto 5029
+goto calc + 7371 58
+goto 3327
+goto 3655
+goto 7549
+remove 728
+goto calc - 888 45
+remove 7232
+replace 7415 9431
+goto 5628
+goto 8929
+remove 8666
+replace 9290 151
+goto calc + 4939 60
+goto 4450
+goto 9589
+goto 469
+goto 7777
+goto 4122
+replace 2865 3213
+goto calc - 9197 43
+remove 6109
+goto 4120
+goto 3099
+remove 4950
+goto 5524
+remove 4518
+replace 2152 7010
+replace 6469 985
+remove 4699
+replace 3760 5831
+remove 6297
+goto 1111
+remove 3311
+remove 4154
+goto 5664
+goto calc / 2190 28
+replace 6903 2821
+goto 6072
+remove 2021
+goto calc - 191 96
+goto 6778
+remove 5593
+remove 8786
+goto 6981
+replace 2495 8958
+goto 2942
+remove 5439
+goto calc / 3950 1
+replace 9238 4550
+goto 8514
+remove 4230
+replace 4207 1456
+remove 6840
+replace 8419 7871
+goto calc / 5070 7
+replace 9887 6879
+goto 9759
+replace 369 6999
+goto 3420
+goto 6949
+remove 2143
+goto calc + 9684 25
+goto calc - 6948 67
+goto calc + 7533 67
+replace 6290 7912
+remove 451
+replace 4710 2835
+replace 6309 1658
+goto 1096
+goto calc / 1191 56
+replace 1491 7121
+goto calc - 6980 69
+replace 4118 7635
+goto 1355
+goto calc + 1341 12
+remove 9221
+replace 9425 1472
+replace 1438 9632
+goto calc / 8108 23
+replace 9913 9988
+replace 9394 5141
+remove 2301
+goto 1338
+replace 4076 9805
+remove 3689
+replace 1923 7990
+goto calc - 313 48
+goto 9895
+goto 8350
+goto calc + 9819 41
+goto calc - 2266 83
+goto 7309
+goto 2366
+replace 3654 2450
+goto calc - 9238 8
+goto 3554
+goto calc - 3068 29
+replace 9102 8990
+goto 7849
+remove 9548
+replace 4679 1430
+goto 7638
+replace 6353 9102
+goto 3103
+goto calc - 6209 24
+goto calc / 4720 26
+replace 1511 1457
+remove 5158
+remove 8886
+remove 6001
+replace 8089 2869
+goto 2401
+replace 2561 1463
+goto calc / 5500 98
+goto 4637
+goto 2867
+goto calc / 9568 12
+goto calc - 4244 52
+remove 2625
+remove 8403
+goto calc - 8840 1
+remove 385
+replace 7692 5914
+goto 1570
+remove 192
+goto 5929
+goto calc + 2119 89
+goto calc / 5910 72
+replace 9961 9099
+replace 1772 1873
+goto calc - 1817 31
+goto 6200
+goto calc - 1683 62
+goto calc + 79 94
+goto calc / 8402 53
+goto 9435
+remove 1685
+replace 6716 3893
+goto 8401
+remove 4063
+goto calc / 4337 86
+replace 1684 2229
+remove 4023
+remove 3561
+replace 3474 5205
+goto calc - 7074 47
+goto calc + 7524 68
+goto calc - 6386 95
+goto 117
+remove 8871
+goto calc + 2573 89
+remove 5127
+remove 261
+goto calc + 8551 96
+remove 5833
+replace 2844 5869
+replace 5888 3684
+remove 5897
+replace 8420 92
+goto calc - 9307 7
+replace 1544 2917
+goto 5265
+replace 2309 6701
+goto 2738
+replace 239 2514
+replace 9776 929
+goto calc + 4290 44
+remove 3897
+goto 9880
+goto calc - 5727 10
+remove 2771
+replace 22 5516
+remove 3484
+replace 1179 4907
+goto 6156
+goto 2535
+replace 3054 9018
+replace 5942 996
+goto 148
+goto calc + 7554 21
+remove 6463
+remove 5342
+replace 9242 4164
+goto 781
+remove 5828
+replace 5909 3623
+replace 3362 9170
+remove 9589
+goto calc + 7322 63
+goto calc + 2632 34
+goto calc + 2678 27
+remove 9377
+remove 1469
+remove 9584
+remove 6967
+goto calc + 7443 15
+goto calc / 2801 56
+remove 1256
+remove 8233
+remove 6969
+remove 2594
+replace 1299 1070
+goto calc - 7989 78
+remove 5310
+remove 5039
+goto 7463
+goto 780
+replace 1262 8272
+goto calc + 8868 27
+goto calc - 6767 56
+remove 6512
+goto calc - 255 27
+goto 6689
+replace 5123 7912
+goto 8255
+replace 4844 2144
+goto calc / 410 72
+goto calc - 4981 14
+goto calc + 1459 56
+goto 601
+goto calc + 2618 57
+replace 8601 9509
+goto calc / 3151 12
+goto calc + 8321 85
+goto calc / 3176 100
+replace 2197 2801
+remove 6436
+goto calc / 7570 38
+remove 9266
+remove 6843
+goto calc + 3526 59
+goto 3042
+goto 2924
+goto calc + 9053 26
+replace 390 8739
+goto 3783
+replace 1554 5320
+replace 6237 3352
+goto 2065
+goto calc - 9572 28
+remove 1071
+goto calc / 1739 57
+remove 5882
+goto 5060
+goto calc / 8998 100
+replace 1849 7318
+goto calc - 1466 65
+replace 765 7345
+goto calc / 3221 66
+goto 4008
+goto 5335
+goto calc + 1140 86
+goto 4916
+remove 5246
+remove 5544
+goto calc + 5735 14
+remove 7724
+replace 2347 9639
+replace 8819 2187
+remove 3867
+remove 2429
+goto 573
+remove 3278
+remove 7002
+goto calc - 1941 69
+goto calc + 1062 15
+replace 6583 6673
+replace 7420 8439
+remove 5406
+goto 8669
+replace 6693 9671
+goto 7078
+remove 7150
+replace 7361 5550
+goto calc - 2159 32
+goto calc + 556 87
+remove 5943
+goto 9013
+replace 1159 6887
+replace 2781 3560
+remove 4556
+replace 1170 5620
+goto calc / 8505 96
+remove 7578
+replace 2619 5311
+goto calc / 5978 26
+replace 387 3033
+replace 5817 7861
+goto 2903
+goto 4478
+remove 1681
+goto 3744
+goto 2709
+replace 7183 4640
+replace 4154 7414
+remove 2294
+replace 1960 8635
+replace 2554 5644
+replace 4925 7053
+remove 5690
+goto 6104
+remove 3982
+replace 8621 4966
+remove 9754
+replace 186 1258
+goto 9620
+remove 7170
+goto 1235
+remove 2034
+goto calc - 9053 21
+goto calc - 3333 8
+goto calc - 1249 45
+goto 7876
+goto calc / 1119 69
+goto calc + 6106 26
+goto 7276
+goto 3885
+goto 8568
+goto 7745
+goto 7917
+replace 8873 306
+goto 98
+replace 4477 9208
+remove 2415
+remove 6161
+goto 1107
+goto 5556
+goto calc + 5023 58
+goto 5696
+goto 3660
+replace 5942 8431
+replace 4929 8667
+remove 5150
+remove 9315
+goto 2552
+goto calc / 3585 41
+goto calc + 8698 72
+goto 6646
+replace 8941 7806
+remove 9747
+replace 2897 2192
+remove 6193
+replace 147 8835
+remove 3057
+goto 3698
+remove 7218
+goto 8438
+goto 8267
+remove 8776
+goto calc / 6099 14
+goto calc / 1864 51
+goto calc - 1002 75
+remove 7415
+remove 3815
+replace 6668 6940
+replace 8651 758
+goto 2973
+remove 1764
+replace 7296 3029
+goto calc + 33 49
+goto calc - 2599 96
+remove 3290
+goto calc / 507 32
+goto calc - 2864 72
+goto calc / 6415 57
+replace 5071 9350
+replace 8563 3001
+goto 3468
+goto 5384
+goto calc + 2699 37
+remove 667
+remove 1363
+goto calc / 7580 78
+remove 3724
+goto calc + 9791 19
+remove 5638
+replace 316 6050
+goto calc + 2623 13
+replace 4933 6726
+goto calc + 9231 25
+goto 3943
+goto 3941
+goto calc - 5013 72
+replace 2016 7958
+goto calc + 4818 7
+goto calc - 8575 20
+goto 8227
+remove 8726
+replace 1732 5514
+remove 2401
+replace 8724 8155
+replace 8707 1112
+goto calc + 4448 64
+replace 1162 9045
+goto 3696
+replace 2424 2672
+goto calc / 7986 48
+goto calc / 8469 98
+remove 4834
+remove 636
+goto calc + 8655 79
+replace 9214 1961
+goto 7030
+goto calc + 1168 70
+goto 5485
+remove 6431
+goto 2278
+goto calc + 6656 35
+replace 8161 6557
+replace 6198 4260
+remove 3391
+goto 9329
+replace 5330 7903
+replace 1852 3697
+goto 9143
+goto 3835
+replace 8367 347
+remove 1853
+goto 4863
+goto calc + 8094 17
+goto calc - 7428 1
+replace 487 5250
+replace 1728 9450
+remove 3218
+goto 7681
+remove 2619
+replace 9974 6248
+goto calc + 6331 22
+goto 4589
+remove 2643
+replace 8644 6429
+remove 5261
+goto calc + 2391 8
+goto calc + 6516 51
+remove 5863
+goto calc / 9233 12
+goto 4811
+goto calc / 6071 90
+remove 2726
+goto 8190
+goto 8325
+goto 2768
+replace 6674 519
+goto 5701
+replace 1326 6877
+goto 5414
+replace 4087 9147
+remove 7035
+goto 2756
+goto calc / 795 75
+replace 3431 2867
+replace 1108 2119
+replace 1787 9719
+replace 7787 3869
+goto 7521
+replace 3014 6007
+replace 4127 5784
+replace 473 6966
+goto 2460
+replace 5782 2032
+remove 2732
+replace 3969 5586
+goto 9797
+goto 963
+goto 1791
+goto 5521
+goto 8889
+goto calc / 9316 97
+remove 9226
+replace 8153 9923
+goto 6009
+goto calc / 8400 85
+remove 8341
+goto 6952
+replace 8664 7840
+goto 9920
+remove 8393
+replace 7046 5170
+goto 4836
+remove 6353
+replace 8438 3113
+remove 4830
+goto 7091
+goto 2775
+goto 5400
+remove 722
+replace 3600 3098
+replace 7632 687
+goto calc / 7163 10
+goto 8163
+remove 2081
+goto 6460
+replace 829 2496
+replace 6928 903
+remove 1434
+goto calc + 5571 46
+goto 7025
+remove 7252
+goto calc - 4595 48
+replace 6977 6298
+goto calc / 3325 93
+replace 884 4505
+remove 3693
+remove 946
+goto calc - 727 63
+replace 5792 711
+goto 2668
+goto 7852
+goto 9331
+replace 4449 9096
+replace 208 5566
+goto 6754
+goto 7245
+goto 717
+goto calc / 4468 16
+goto 2923
+goto 1002
+replace 6155 6368
+remove 9728
+goto calc + 3854 39
+goto calc - 3309 18
+replace 9296 3028
+goto calc / 1197 100
+replace 6451 9389
+goto calc / 2948 18
+goto 4493
+remove 6539
+goto 1252
+replace 2124 5305
+goto calc + 3515 91
+remove 813
+goto calc - 1384 87
+replace 1129 6787
+goto calc + 6108 36
+remove 8895
+replace 630 5607
+replace 3806 3490
+remove 2718
+goto 3080
+goto calc + 7996 3
+goto 2022
+replace 6355 5892
+goto 7883
+goto calc / 8504 50
+goto calc + 7190 23
+remove 5221
+replace 4578 5468
+remove 725
+goto 3483
+goto calc / 2719 77
+remove 618
+remove 5827
+goto calc - 9919 60
+replace 7118 5861
+goto 9774
+replace 3176 8073
+goto calc + 156 55
+remove 7747
+goto calc - 2581 75
+remove 3473
+goto 9103
+replace 8480 330
+goto 11
+remove 5384
+goto calc - 4447 73
+goto calc + 7044 33
+goto 7592
+remove 5643
+remove 5423
+replace 4387 5255
+goto 6039
+goto calc + 1936 55
+replace 1344 1419
+remove 744
+remove 9872
+goto calc - 3737 12
+goto calc / 1445 66
+remove 9207
+goto calc - 4409 21
+replace 9094 541
+goto 4108
+goto 591
+goto calc / 5721 70
+goto 1839
+replace 9231 7978
+replace 4573 4161
+goto calc - 6837 9
+goto 2892
+goto 6313
+goto 5425
+remove 8965
+replace 3826 5077
+replace 8681 5967
+replace 679 9963
+goto 9543
+remove 4545
+goto calc + 6023 15
+goto calc / 7214 76
+remove 796
+replace 5946 2840
+remove 9835
+remove 6187
+replace 6522 3951
+goto 8057
+remove 7672
+goto 7546
+replace 7042 765
+remove 7199
+goto calc x 5 17
+replace 9898 5432
+goto calc - 2942 20
+goto 9413
+goto 9074
+remove 2995
+replace 6175 3514
+goto calc + 2947 24
+goto calc + 2753 40
+remove 8552
+goto calc - 2783 89
+replace 4823 306
+goto 4679
+goto calc - 5698 55
+replace 8041 9399
+goto calc / 4635 90
+goto 5501
+remove 4151
+goto 3898
+goto 8543
+goto 9811
+goto 7774
+goto 4606
+remove 5639
+goto 4739
+remove 4915
+goto calc - 4202 54
+remove 6085
+replace 7217 9850
+remove 8029
+replace 2974 1807
+remove 9028
+goto 990
+replace 2576 2111
+remove 3974
+goto calc / 7429 82
+replace 9878 3880
+goto calc / 305 38
+goto calc / 9443 49
+replace 6340 6978
+goto 346
+goto 7266
+remove 8639
+replace 7734 8654
+remove 7878
+remove 3775
+remove 6198
+goto calc - 8474 19
+goto calc - 4032 4
+goto calc + 721 33
+goto 8535
+goto 3835
+remove 6430
+remove 2544
+goto 3839
+remove 1465
+goto 4879
+goto 6665
+goto calc / 3472 35
+goto 3812
+remove 177
+remove 458
+remove 593
+goto calc - 4895 19
+goto 3540
+replace 5344 130
+remove 6824
+goto 6398
+replace 7974 9864
+goto 5747
+goto 8078
+remove 4570
+remove 7539
+replace 7267 5220
+replace 4720 6724
+goto 7533
+remove 5630
+goto 3743
+goto 8558
+goto 266
+goto calc / 9112 41
+replace 8881 5754
+remove 455
+remove 8442
+replace 6208 4475
+goto 1013
+replace 312 8838
+replace 6285 9053
+goto 5542
+goto calc / 5986 42
+goto 9070
+replace 9486 1484
+replace 669 4509
+goto calc + 4370 59
+remove 9930
+goto 1422
+goto calc + 7210 11
+remove 967
+remove 5018
+replace 1872 5524
+replace 7686 7947
+goto 9115
+remove 1619
+goto 2023
+remove 674
+replace 8676 6524
+remove 7161
+goto 1827
+remove 8850
+replace 4499 3983
+goto 1394
+goto calc / 5694 6
+remove 5702
+goto calc - 2253 37
+goto calc / 7990 46
+remove 6545
+goto 3253
+goto calc + 252 19
+goto calc / 2302 63
+replace 3450 8021
+replace 8699 1206
+replace 7037 1110
+remove 2988
+goto 5067
+goto calc + 5342 53
+remove 9581
+replace 7840 9587
+goto 4256
+remove 202
+goto 5408
+goto calc + 8266 53
+remove 4173
+remove 3523
+remove 6652
+goto calc - 2270 33
+goto calc / 4558 55
+goto 2744
+goto 189
+goto calc - 6361 70
+goto calc + 1548 64
+remove 7332
+replace 8534 9908
+goto 8716
+goto 4702
+remove 4191
+goto 161
+remove 6457
+remove 5967
+goto calc - 2572 24
+goto 3295
+goto 647
+goto calc / 9809 99
+replace 3221 678
+goto calc + 4352 77
+goto calc - 2672 65
+goto 5604
+goto 9331
+replace 6373 7973
+remove 4603
+goto calc + 7589 61
+goto 7287
+goto 2988
+goto calc - 7854 54
+replace 481 4415
+goto calc + 1879 4
+goto calc / 4005 28
+goto 8091
+goto calc / 1428 36
+goto calc / 6541 19
+goto 4307
+goto 9455
+remove 1563
+replace 5532 7233
+replace 8905 2369
+remove 3214
+remove 6896
+goto 9507
+remove 4931
+replace 3815 9761
+replace 2415 7145
+goto calc - 61 21
+remove 6686
+replace 8097 9819
+replace 1802 3543
+replace 7952 306
+remove 9364
+remove 9795
+remove 9932
+remove 5815
+replace 4586 8740
+remove 3975
+replace 6281 2493
+goto 5573
+remove 7427
+goto 8798
+goto 5938
+replace 5745 4367
+replace 9924 4117
+replace 5641 5235
+replace 8941 6729
+replace 2788 7833
+replace 4967 5703
+replace 4455 7659
+goto 4189
+goto 1800
+goto calc / 3904 23
+remove 3334
+goto calc + 3286 86
+replace 7618 392
+goto calc / 9679 7
+goto 1344
+goto 2778
+replace 2016 9813
+goto 9845
+remove 7381
+replace 4601 3212
+goto 2384
+replace 2475 3691
+replace 5529 4973
+goto calc + 256 88
+goto 8776
+remove 8099
+remove 4058
+remove 2516
+goto calc + 3719 29
+goto calc + 9471 69
+replace 6775 7370
+goto 3789
+remove 8369
+remove 2936
+remove 4220
+goto 6502
+goto calc - 2198 16
+replace 5898 4665
+remove 7050
+remove 2258
+replace 7469 3602
+goto calc - 2393 60
+replace 8107 2226
+remove 7880
+goto 7020
+goto 2726
+remove 8619
+goto calc + 5842 20
+remove 1896
+remove 6083
+goto 7485
+goto calc + 7628 69
+remove 4555
+goto calc / 9233 41
+remove 8549
+remove 6424
+goto calc + 9129 52
+replace 3604 1587
+goto 4879
+goto calc + 3038 75
+goto 2611
+goto 7870
+goto calc / 7017 47
+remove 6572
+goto calc - 3649 25
+remove 9068
+remove 2440
+remove 6868
+replace 3015 1394
+goto calc + 541 57
+remove 2925
+goto 2926
+remove 5094
+replace 22 8279
+replace 9614 9473
+replace 9596 748
+remove 2280
+remove 1821
+goto calc / 2037 45
+replace 9249 1773
+remove 664
+goto 3661
+goto 4670
+goto calc + 5140 46
+goto 8267
+goto 6943
+replace 7671 8444
+replace 8140 13
+goto 6965
+remove 9145
+goto 473
+goto 9058
+goto 7231
+goto 2159
+replace 2977 5084
+goto calc - 3541 49
+replace 8487 3727
+remove 3876
+goto calc - 5290 60
+goto 7385
+remove 2708
+goto 7204
+goto calc - 5235 70
+goto 9305
+replace 8070 4969
+goto 7837
+goto 9681
+remove 6079
+goto calc + 7153 30
+goto calc / 1473 36
+remove 3803
+remove 8716
+goto calc - 9857 85
+replace 3324 5396
+remove 4810
+goto calc + 9876 43
+goto calc / 8009 89
+goto 993
+replace 1544 5326
+goto 3563
+goto calc / 1935 3
+goto calc + 4800 49
+replace 4092 9209
+goto calc + 6211 12
+goto 8662
+remove 1348
+goto calc + 4333 67
+goto calc + 6271 45
+goto 7830
+remove 9287
+goto calc / 9649 19
+replace 8954 6097
+replace 3817 3105
+goto calc - 2327 91
+goto calc + 8670 13
+goto calc - 6714 19
+remove 5808
+goto 7818
+goto calc - 8651 84
+replace 2438 9272
+replace 3924 5319
+replace 5624 6507
+remove 2565
+replace 8390 1028
+remove 9857
+goto 9329
+goto calc - 453 76
+goto 334
+goto 1015
+goto 2893
+replace 9324 6056
+remove 6127
+goto 7767
+goto 5427
+remove 5248
+goto calc / 716 73
+goto calc + 5505 60
+goto calc - 5864 23
+remove 7966
+goto 531
+goto 836
+replace 659 5788
+goto 964
+replace 7467 5626
+goto calc / 3406 1
+goto calc / 9229 56
+goto calc + 186 76
+replace 6593 5709
+remove 4528
+goto 4628
+goto 6115
+goto 1723
+remove 8591
+remove 5638
+replace 2737 79
+goto 8643
+goto 9829
+replace 338 7694
+goto 2996
+replace 1986 480
+goto 9332
+goto calc - 4308 44
+remove 2107
+remove 114
+remove 9088
+goto 4975
+remove 8320
+goto calc - 8919 86
+remove 6887
+goto 8011
+remove 3265
+goto 1132
+replace 8354 6304
+replace 7266 9557
+replace 5661 3522
+remove 2963
+goto 2410
+goto 8698
+remove 3428
+replace 9150 2125
+replace 3481 3961
+goto 5491
+goto 2668
+remove 2846
+goto calc / 5104 54
+replace 8531 2154
+replace 6856 1384
+goto 305
+goto calc / 9207 46
+goto calc / 7318 89
+remove 1206
+remove 2367
+goto 1346
+goto calc - 6957 19
+goto calc / 1334 96
+remove 521
+goto calc + 8994 89
+replace 2783 3483
+goto calc / 4165 31
+replace 5757 2520
+remove 9509
+remove 8700
+goto 1816
+goto 3715
+goto calc - 5269 35
+replace 8021 3180
+goto calc + 2624 50
+replace 6032 669
+replace 3804 5847
+replace 4201 180
+goto calc - 4970 2
+replace 2690 1843
+goto calc - 2013 20
+goto calc + 3040 5
+goto 2347
+goto calc / 8519 8
+remove 4514
+goto calc / 7831 46
+replace 5372 8868
+replace 7289 6024
+replace 1456 2138
+goto 8000
+remove 2662
+replace 8321 8347
+replace 2751 8443
+goto 1698
+goto 8995
+remove 9381
+goto 5298
+replace 9731 7714
+remove 8868
+replace 5976 9697
+remove 9403
+remove 823
+goto calc / 253 81
+goto 3496
+goto calc / 2615 4
+replace 3959 5018
+replace 934 3778
+replace 297 1771
+remove 9615
+goto calc - 1122 44
+remove 9719
+goto calc + 6872 71
+remove 3426
+remove 9078
+goto calc - 1049 76
+goto calc / 7577 42
+goto calc - 8839 5
+goto calc / 8951 48
+replace 2345 6244
+goto calc - 3202 73
+goto 5857
+remove 3904
+replace 4679 4808
+goto 3023
+goto calc + 1572 69
+goto calc / 2459 13
+remove 355
+goto 1576
+goto 121
+goto calc / 7553 29
+replace 3962 1312
+goto 2450
+replace 5476 3574
+replace 8999 1658
+goto calc / 8402 66
+goto 6368
+replace 4507 414
+replace 2423 2261
+goto calc + 71 83
+goto calc - 8980 32
+goto calc - 5284 96
+replace 8911 1123
+remove 2980
+remove 9636
+goto calc + 2678 95
+goto 6848
+remove 7771
+goto 5409
+remove 9144
+replace 5805 5463
+replace 1700 7591
+goto calc / 9329 31
+replace 2784 8373
+remove 63
+goto calc + 5423 49
+goto 5668
+replace 4202 7485
+goto 886
+replace 1348 1328
+replace 2751 7413
+replace 8787 4363
+replace 787 2058
+remove 1979
+goto 4533
+goto calc + 9567 88
+replace 3047 7297
+goto 5037
+replace 7841 2589
+remove 4170
+goto 2724
+goto 9409
+replace 9590 1328
+goto calc + 215 60
+replace 818 3786
+goto calc + 6371 48
+goto 7816
+goto calc - 8068 93
+goto calc + 2693 27
+replace 9852 2568
+goto 4501
+goto calc - 3820 18
+remove 4232
+goto calc - 6823 5
+goto calc - 8439 2
+replace 2530 5651
+remove 9580
+replace 7235 8170
+goto calc - 9848 26
+replace 1928 7739
+remove 8774
+goto 8171
+replace 6920 3662
+replace 5724 1889
+remove 2317
+replace 9254 4533
+goto 2620
+goto 2041
+replace 8572 7473
+remove 3384
+replace 1294 5388
+goto calc + 4484 57
+remove 7565
+goto calc / 3179 78
+goto 5846
+remove 3263
+remove 923
+remove 2479
+remove 5514
+remove 2154
+goto 2620
+remove 388
+goto calc + 7662 28
+goto 9280
+goto 9309
+remove 6464
+remove 7110
+goto calc + 6080 78
+goto 8595
+replace 1980 426
+goto calc x 1819 4
+goto 6396
+goto 3732
+goto calc / 8737 69
+replace 7635 8315
+goto calc + 6751 20
+goto 8644
+goto 5553
+goto calc - 9415 12
+remove 8122
+remove 1136
+replace 4585 9443
+goto 7386
+goto 6782
+goto 9761
+goto calc - 7506 99
+goto calc / 7285 29
+goto 7489
+remove 5693
+remove 7851
+goto calc - 9191 98
+goto calc / 2027 39
+remove 6071
+remove 1968
+goto 3501
+goto 7664
+replace 4557 5737
+remove 8994
+replace 80 7830
+goto 8901
+replace 5035 6196
+goto calc / 6133 97
+remove 7819
+goto calc / 5250 20
+goto 9017
+remove 3145
+remove 9319
+remove 2352
+replace 8737 9980
+goto 6448
+goto calc / 2327 69
+remove 2659
+replace 5903 4179
+goto calc - 2628 7
+replace 7058 8350
+goto calc / 9676 17
+remove 9967
+replace 723 6765
+replace 1004 1601
+goto 6364
+replace 9758 7992
+goto calc - 5871 29
+goto calc - 2252 39
+replace 4934 6544
+replace 1941 1738
+remove 9645
+goto 1809
+remove 8289
+goto 5875
+goto calc + 5589 80
+replace 9723 9355
+replace 3578 4746
+replace 1838 3152
+replace 9191 8958
+remove 2990
+replace 342 9650
+remove 7520
+goto 2653
+remove 2888
+replace 2501 4250
+goto calc + 1612 99
+remove 3627
+goto calc / 1433 10
+replace 2506 4334
+replace 767 6754
+goto 2417
+replace 9589 8392
+goto calc / 1529 47
+goto calc - 9451 89
+remove 9717
+goto 2289
+remove 8809
+replace 9155 5538
+goto calc - 1638 20
+remove 9765
+replace 579 7644
+goto calc - 6471 12
+goto calc - 3395 2
+remove 7767
+goto calc - 8566 47
+goto 361
+goto calc - 6797 46
+goto 2215
+goto calc / 8979 91
+goto 5268
+remove 9858
+replace 5817 9724
+goto 8530
+replace 8956 5348
+replace 6122 2535
+goto 2653
+replace 9164 8063
+replace 1346 5554
+goto calc / 3288 12
+replace 3067 4138
+replace 925 6527
+goto 5818
+remove 9788
+goto 5007
+goto 6702
+replace 7750 7987
+goto 141
+replace 9382 8682
+goto calc + 4229 98
+goto 7906
+remove 7982
+goto 5238
+goto calc - 270 10
+replace 113 3682
+replace 2490 5340
+replace 3929 748
+goto 7258
+remove 890
+goto calc + 1874 5
+replace 9766 1852
+goto 6917
+replace 80 3211
+goto calc / 3079 15
+remove 4159
+goto 4106
+remove 1317
+replace 4165 7228
+replace 223 7458
+replace 9920 6662
+replace 3719 3217
+goto calc - 4198 30
+goto 4676
+goto calc - 4525 78
+goto 3206
+goto 9529
+goto calc / 566 67
+goto 6284
+goto 3528
+goto 6882
+remove 7096
+remove 4046
+goto calc / 6071 22
+goto calc / 3898 22
+goto calc + 2101 27
+goto calc / 2527 93
+replace 5407 4845
+replace 3243 7194
+replace 2459 5902
+replace 9100 9682
+goto calc / 7968 31
+goto 9561
+goto calc + 1498 21
+goto 5331
+goto calc - 4578 6
+goto calc + 4075 37
+remove 9904
+goto 6885
+goto calc + 8650 18
+goto calc / 7583 93
+goto 7052
+goto 4621
+replace 967 8335
+replace 6582 3774
+replace 6682 9970
+goto calc - 2472 80
+remove 7568
+replace 5383 106
+replace 6308 2762
+goto calc + 2743 77
+goto calc - 4601 35
+goto calc - 7460 85
+goto 830
+goto 3848
+goto calc / 5236 11
+replace 6642 4788
+goto 8757
+replace 3140 3199
+goto calc / 856 27
+goto calc / 8548 68
+goto calc / 5808 95
+remove 2080
+goto calc / 4722 70
+goto calc / 8177 27
+replace 4124 5345
+goto calc / 8892 34
+goto calc / 4260 69
+replace 3622 6168
+replace 8036 6788
+goto calc - 4268 11
+remove 3894
+goto calc / 677 99
+replace 4640 899
+goto calc / 5793 11
+goto calc - 1881 34
+goto 7783
+replace 8472 1691
+goto calc / 6436 14
+replace 3181 2883
+goto calc / 6522 92
+goto 8473
+goto calc - 5918 93
+goto calc - 1296 52
+goto 8843
+goto 5952
+replace 6573 6933
+goto 5656
+goto 7016
+replace 5701 2450
+replace 182 5301
+goto 6011
+remove 1244
+remove 7130
+remove 348
+replace 1401 4440
+goto calc - 256 77
+goto 5931
+remove 5841
+goto 7333
+replace 5426 7922
+goto calc / 5355 3
+remove 1628
+remove 4225
+goto calc + 413 78
+remove 7626
+goto calc - 8354 58
+remove 4742
+goto 8430
+goto 5935
+remove 8137
+replace 6372 2536
+goto calc / 5824 12
+goto 1539
+replace 4720 1944
+goto 750
+replace 4064 9380
+replace 9508 7198
+goto calc / 2485 72
+remove 9926
+goto calc + 1797 98
+remove 8755
+goto 576
+goto calc + 9110 64
+remove 919
+replace 7260 8574
+remove 9062
+remove 7986
+replace 7265 8344
+goto 5005
+replace 473 3878
+remove 1700
+remove 8607
+remove 3654
+remove 2062
+remove 4521
+remove 6185
+replace 3996 8989
+remove 9837
+goto 4247
+replace 224 2588
+replace 942 2253
+goto 5082
+goto calc - 1438 26
+remove 7017
+remove 4097
+replace 4927 4288
+remove 4001
+replace 6405 3558
+goto calc + 3504 41
+remove 5516
+remove 955
+goto 946
+remove 5563
+goto 4657
+goto 8083
+goto calc / 3432 24
+goto 5487
+replace 2410 7741
+replace 1421 2537
+replace 5825 6892
+goto calc - 814 98
+remove 2601
+replace 8005 2848
+remove 8879
+replace 6637 7456
+goto 9847
+replace 2872 1245
+remove 8556
+goto calc + 6979 61
+remove 8289
+remove 6448
+goto 4849
+replace 3041 8127
+goto calc + 8597 9
+remove 3277
+remove 3557
+goto calc / 4660 44
+goto 9675
+remove 7653
+replace 9723 1266
+remove 2726
+replace 8947 4575
+remove 5354
+replace 9613 8356
+remove 8724
+replace 4033 7879
+remove 6634
+goto calc + 5228 45
+remove 3166
+replace 1019 718
+replace 5686 8255
+goto 7428
+replace 8918 5474
+replace 3975 4971
+goto 845
+replace 9461 1498
+remove 2282
+remove 5706
+goto 3715
+remove 818
+replace 8937 8221
+goto 6013
+remove 726
+replace 4088 4683
+remove 5519
+goto calc / 5283 85
+remove 676
+goto calc + 9076 45
+goto calc - 2804 41
+replace 9001 7569
+replace 3580 2344
+goto 6352
+replace 9202 9400
+goto calc x 1776 1
+goto 6228
+replace 7514 1054
+replace 2516 8820
+replace 8287 7485
+goto 184
+goto calc / 9476 99
+goto 5867
+remove 5979
+goto 878
+goto 2831
+remove 2001
+goto calc - 3430 12
+replace 4123 9973
+replace 5885 547
+remove 9261
+goto 8821
+replace 8405 9622
+replace 1252 2364
+remove 5233
+goto 1693
+goto calc + 7535 9
+remove 421
+remove 7907
+goto calc / 3988 61
+replace 8113 4036
+replace 4149 9562
+replace 8479 8326
+goto calc / 8351 76
+goto 786
+replace 2685 2889
+goto 5910
+goto calc - 5054 44
+goto calc / 9655 92
+replace 8077 2157
+remove 9653
+goto 8237
+remove 659
+replace 3788 7830
+goto calc - 6678 34
+remove 7036
+goto 2968
+remove 4646
+remove 6709
+goto 7509
+replace 680 455
+goto calc + 1953 9
+goto 272
+replace 6666 7192
+replace 8537 1327
+replace 825 8102
+goto calc - 8117 12
+remove 7737
+goto calc - 6360 9
+goto 9634
+goto calc - 9126 75
+replace 5966 5601
+replace 4724 4421
+goto calc + 6624 20
+remove 3148
+remove 5623
+goto calc / 9131 37
+goto 1004
+remove 7060
+replace 3144 4143
+remove 6981
+replace 3233 9727
+goto 6373
+replace 4094 7348
+goto 9978
+remove 787
+goto 9729
+replace 3843 2813
+goto calc / 6032 48
+goto calc + 4663 76
+goto calc / 3508 65
+remove 8988
+replace 3084 3957
+replace 2882 3149
+remove 9852
+remove 8156
+goto 403
+goto 4423
+goto 1199
+replace 3102 6074
+goto calc + 2624 97
+goto calc - 9650 72
+goto calc + 3860 76
+remove 2337
+remove 1973
+goto 6045
+remove 7090
+replace 1854 7518
+remove 8036
+replace 9998 8161
+goto 1733
+goto 8354
+remove 8293
+goto calc + 2207 17
+goto 4405
+remove 467
+goto 7525
+goto calc + 9041 14
+remove 4463
+replace 5324 1857
+goto calc - 6572 21
+goto calc + 8009 7
+replace 9233 6630
+remove 6357
+goto 8764
+replace 1618 3229
+goto calc - 1054 55
+replace 4060 8213
+goto 9367
+goto calc - 5756 42
+replace 2732 2600
+goto calc - 7526 9
+remove 1760
+replace 7566 5052
+replace 5290 4813
+goto 1191
+remove 5304
+goto calc / 2158 56
+remove 229
+replace 3521 3925
+remove 6696
+goto calc - 5845 3
+replace 3633 6475
+goto calc / 4074 85
+goto 8279
+replace 7764 6079
+goto calc + 6074 35
+remove 3188
+goto 9878
+remove 3120
+replace 1548 2159
+goto 2115
+goto calc - 120 74
+remove 9175
+goto calc - 1215 12
+remove 9073
+goto 6966
+replace 3745 5438
+goto 5306
+goto 6297
+goto 1843
+goto 1232
+goto 1640
+goto 2897
+goto 1477
+goto calc - 4257 44
+goto 8412
+replace 3115 4525
+goto calc + 7438 12
+goto 5631
+goto 4726
+goto calc / 4610 46
+remove 6937
+goto calc - 4784 32
+remove 1912
+goto calc + 3872 48
+remove 7809
+goto 7815
+goto calc / 7331 43
+goto 4408
+replace 8951 23
+replace 1938 5382
+replace 7379 1155
+goto calc - 7592 8
+remove 9841
+remove 5452
+goto calc - 5735 25
+goto calc / 6710 12
+goto 3465
+remove 2907
+remove 4088
+goto 5974
+goto 8874
+remove 3572
+remove 9139
+replace 8070 1890
+replace 3225 5582
+goto 1962
+replace 8361 7808
+remove 2695
+replace 2094 678
+goto 9902
+remove 9347
+goto calc + 6453 44
+goto 216
+goto 6243
+goto calc - 8132 51
+replace 9809 7290
+remove 4062
+goto 2888
+goto calc + 9915 12
+goto calc - 1338 12
+goto calc / 4004 95
+remove 4223
+goto 7443
+remove 9327
+goto 7867
+replace 1899 4854
+goto 7278
+goto 6325
+goto calc + 9614 67
+replace 1854 8348
+replace 8619 7416
+goto 1021
+goto calc + 8559 83
+goto 5775
+remove 3050
+goto 318
+replace 7694 4618
+goto calc / 7569 73
+replace 9509 2720
+remove 4672
+goto 1658
+goto 6859
+goto 6934
+goto 7758
+remove 249
+replace 9751 9924
+goto calc - 3444 10
+replace 4930 3012
+replace 1465 9814
+remove 4465
+remove 7802
+replace 8539 7307
+goto 8958
+replace 7355 8100
+replace 1779 3994
+goto calc + 2613 62
+goto 6238
+remove 8000
+replace 2706 8900
+goto 9487
+replace 1178 5099
+goto calc / 4881 97
+remove 5840
+remove 4104
+remove 8073
+replace 5264 8206
+replace 7002 3334
+replace 5238 751
+goto calc - 5114 23
+replace 2877 942
+replace 3965 8825
+goto 1800
+goto 6514
+replace 624 1036
+goto 7603
+replace 5336 481
+goto 1408
+remove 5306
+goto calc / 1219 39
+remove 7341
+goto calc + 7664 35
+replace 5710 422
+goto calc + 7861 55
+goto calc / 533 9
+goto calc + 6897 89
+goto calc + 8628 56
+replace 36 2977
+goto 4490
+remove 4676
+replace 1639 4227
+goto 6114
+goto 3853
+goto calc / 4612 9
+replace 6962 917
+replace 8443 5655
+replace 8489 4848
+goto calc / 9822 41
+goto 6664
+replace 804 2008
+goto calc / 5183 42
+replace 9786 2939
+replace 4982 8782
+goto calc + 2443 27
+remove 3989
+replace 4688 8604
+goto 6048
+goto 640
+replace 4657 6718
+goto 3485
+goto 6406
+replace 9079 4301
+goto 5101
+goto calc / 5132 38
+remove 9348
+goto 1844
+goto calc / 1631 95
+goto calc - 347 34
+goto 3467
+remove 3477
+remove 1042
+goto calc + 4552 88
+goto calc - 7502 55
+goto 4897
+replace 6607 7810
+goto calc / 3859 14
+remove 2366
+goto 5243
+remove 4566
+replace 2709 4007
+remove 4174
+remove 4091
+remove 1184
+replace 3421 1787
+goto calc - 3772 85
+goto 466
+goto calc + 1229 54
+replace 6622 7066
+goto calc / 4686 63
+goto calc / 8090 19
+remove 9571
+goto 8434
+goto calc / 9725 36
+remove 9764
+goto 9865
+goto calc - 1615 14
+replace 2604 8556
+remove 4537
+goto calc - 9064 8
+replace 502 7487
+goto 6786
+remove 7625
+replace 9765 806
+replace 3348 5545
+goto 5321
+remove 6503
+remove 3345
+goto calc / 4860 61
+replace 4520 4097
+replace 4599 5953
+goto 2553
+replace 3720 1476
+remove 2723
+remove 1736
+goto calc / 3301 53
+goto calc / 1206 67
+remove 4957
+replace 6412 5888
+replace 1830 8239
+goto 2113
+goto 9930
+goto calc - 26 25
+remove 208
+goto 8259
+goto 8756
+goto calc + 565 38
+goto calc - 4894 52
+remove 5940
+remove 8142
+goto 9112
+goto 5359
+replace 3215 8570
+replace 3514 387
+goto 3305
+remove 3090
+goto calc / 6286 57
+goto calc - 1743 70
+goto calc + 9557 22
+goto calc + 4209 63
+goto calc - 9327 29
+goto 5753
+goto 8603
+remove 8168
+goto calc - 793 66
+goto 6253
+remove 2824
+remove 5553
+replace 9091 8315
+remove 8650
+goto 557
+goto calc / 3849 37
+goto calc / 1244 48
+goto calc + 1530 51
+replace 2406 5826
+goto calc x 88 23
+goto calc + 5303 43
+goto calc + 1370 84
+replace 2193 2534
+remove 5064
+replace 7116 3442
+remove 1274
+goto calc - 4972 67
+replace 1906 3367
+goto calc + 4407 95
+goto 7399
+remove 5468
+goto calc - 6811 46
+goto calc / 6212 98
+remove 2464
+replace 2198 7915
+goto 800
+remove 7228
+replace 5873 6799
+remove 9388
+goto calc - 6861 9
+goto calc - 6666 75
+goto calc - 1568 13
+goto calc - 1125 54
+remove 3768
+replace 5587 2744
+remove 15
+remove 8130
+goto 4800
+replace 2613 7961
+replace 1377 9575
+goto calc / 8884 94
+goto 5001
+goto calc x 31 39
+goto 4673
+goto 29
+goto 2238
+goto 7032
+replace 3537 1380
+remove 3969
+remove 7209
+replace 9561 2187
+replace 689 7899
+replace 1197 2563
+goto 6081
+goto calc - 3160 19
+goto calc / 1095 8
+remove 9921
+goto calc - 7482 4
+replace 2324 1094
+replace 3704 3168
+goto calc - 6327 80
+remove 6089
+replace 6836 6033
+replace 4052 4291
+remove 6890
+goto 5777
+replace 8983 4081
+replace 360 9870
+goto calc / 2927 100
+replace 1840 9978
+remove 7185
+goto calc / 2071 50
+goto 2748
+goto calc - 5926 88
+goto calc / 6637 58
+goto 7755
+goto 9920
+replace 1063 6124
+remove 7435
+goto 186
+remove 3627
+remove 3618
+goto 8448
+remove 8648
+goto calc + 2612 7
+remove 9349
+remove 351
+goto 7766
+goto 8964
+replace 6107 9222
+goto 2257
+goto calc + 6515 24
+goto calc / 3865 100
+goto calc - 4855 32
+goto calc - 4324 57
+remove 5794
+goto 4673
+goto 361
+replace 8358 377
+goto 2522
+goto 4284
+remove 4805
+remove 4372
+goto 2878
+goto calc - 4975 59
+goto 1255
+remove 7719
+remove 1385
+remove 520
+goto 1860
+replace 5664 7103
+replace 1767 8141
+goto 7991
+replace 2595 8764
+remove 3818
+replace 7999 7319
+replace 4641 7762
+replace 4111 2339
+goto calc - 5151 21
+goto 8019
+remove 8838
+replace 167 29
+replace 3233 8693
+remove 7288
+goto calc / 6247 74
+remove 101
+replace 3639 3731
+replace 9620 332
+replace 7987 7393
+goto calc / 368 21
+remove 6498
+replace 5071 7090
+replace 8471 9546
+remove 920
+replace 7984 5548
+goto calc + 6884 4
+remove 7251
+replace 51 1838
+goto calc - 5227 32
+remove 8028
+goto 2513
+remove 3088
+goto calc + 555 15
+goto calc + 6832 45
+goto calc - 7873 24
+replace 2525 9444
+goto calc - 2862 38
+goto calc + 3904 8
+remove 7273
+goto calc + 963 56
+replace 6096 7552
+goto 1495
+goto calc - 9303 59
+remove 1305
+replace 1102 9446
+goto calc / 8950 7
+goto 5015
+goto calc + 6057 89
+replace 321 3346
+remove 7459
+goto calc / 2050 94
+goto 5020
+remove 729
+goto 6651
+replace 6789 3918
+remove 8037
+goto calc - 932 71
+goto calc + 5324 63
+remove 8729
+goto calc - 4333 2
+replace 837 7164
+remove 7251
+replace 1373 1646
+goto 4328
+replace 5940 1983
+goto calc - 2811 53
+replace 6278 6330
+goto 5096
+goto calc / 2182 15
+remove 1186
+replace 8426 7734
+goto 1761
+remove 2722
+goto calc + 5333 65
+goto 623
+goto calc / 4985 24
+goto calc - 3970 32
+goto calc + 6670 96
+goto calc - 7689 72
+goto 9034
+goto calc + 5051 18
+goto 3910
+goto 856
+goto calc / 7419 43
+goto 2664
+goto 437
+goto 4109
+goto calc / 1087 54
+goto calc - 8052 97
+goto 4895
+goto calc + 4658 62
+replace 5345 9256
+goto calc / 2634 4
+goto 6973
+goto calc / 8544 21
+remove 1980
+replace 4916 4451
+replace 2604 2698
+remove 5753
+goto 1230
+goto 540
+goto calc - 7571 98
+goto 7604
+remove 3956
+goto calc - 8650 47
+goto calc + 3150 63
+goto 9575
+remove 4646
+remove 9900
+replace 7837 7039
+goto calc - 9941 29
+remove 8560
+replace 6439 2794
+remove 8352
+replace 7040 6639
+goto calc + 3144 100
+goto 7632
+replace 2301 8038
+replace 5267 1416
+goto calc - 9716 84
+goto 2004
+remove 8215
+goto calc + 6397 78
+goto 5895
+goto calc / 9212 99
+goto 3561
+goto calc / 6795 23
+replace 8309 904
+replace 9650 9297
+remove 7562
+goto calc + 9117 71
+goto calc - 3483 64
+goto 6690
+goto calc / 468 9
+goto calc + 4170 37
+goto calc + 396 11
+goto 3365
+goto calc / 6703 18
+remove 7515
+replace 3732 8359
+goto 6155
+goto calc / 601 29
+goto 8678
+goto 9561
+replace 4015 8036
+goto calc / 6385 56
+goto 8479
+remove 5756
+replace 8449 1300
+goto calc / 5779 7
+remove 1768
+replace 5034 8519
+goto 1196
+goto calc - 2665 30
+goto calc + 1211 58
+replace 6445 3362
+replace 9868 340
+remove 5814
+replace 2876 2032
+goto 5757
+replace 6202 2798
+replace 3186 7407
+goto calc / 1109 98
+goto 3470
+goto 4684
+replace 9622 3258
+replace 2183 7815
+remove 5495
+remove 7942
+goto calc + 9418 85
+replace 83 1073
+remove 6359
+remove 3307
+goto calc / 9963 80
+remove 1105
+goto calc - 2013 44
+replace 5074 308
+goto calc / 5968 74
+replace 5245 1115
+replace 8080 6136
+remove 3194
+replace 9812 911
+remove 2206
+goto 4726
+goto 8758
+goto 7010
+remove 4349
+replace 2681 4523
+goto 9248
+goto 5499
+replace 5658 2541
+goto calc - 7698 25
+replace 9878 7566
+goto 8227
+goto calc + 8035 71
+replace 3977 1911
+goto calc + 4495 6
+replace 6107 2804
+goto calc - 4024 78
+replace 833 6835
+goto calc / 2029 10
+replace 7076 3548
+goto 6018
+goto calc / 1545 40
+replace 5675 2082
+remove 8022
+remove 2321
+goto calc + 4024 93
+goto 4065
+remove 6326
+replace 4964 413
+remove 6130
+replace 1926 4837
+replace 7265 6186
+remove 962
+remove 1004
+goto calc + 9097 15
+goto 6316
+remove 1939
+remove 9257
+goto calc - 4186 10
+goto calc / 2904 96
+replace 7955 4495
+goto calc / 8068 91
+remove 9880
+goto calc + 2119 92
+goto calc - 5220 86
+goto calc / 7488 39
+goto 1315
+goto 7174
+goto 665
+replace 1049 4168
+replace 2359 4589
+remove 1822
+replace 2759 4396
+replace 4900 2249
+remove 9979
+remove 5421
+replace 3894 6346
+goto calc - 2893 41
+replace 8060 1994
+goto 5972
+remove 787
+replace 3124 8670
+goto calc + 7036 20
+goto 6066
+replace 4162 7732
+replace 6054 7600
+remove 6546
+goto 3581
+remove 1377
+replace 2228 1651
+replace 9243 9936
+replace 5643 350
+goto 9304
+goto calc - 2432 82
+goto calc - 8097 78
+remove 7197
+goto 4051
+goto calc / 6912 60
+goto calc - 3227 79
+goto calc + 7237 69
+goto 4723
+remove 6952
+goto 2310
+replace 5694 8683
+remove 1910
+replace 2247 1208
+goto calc / 8614 16
+goto calc / 2382 93
+remove 6184
+goto calc - 3939 44
+remove 6852
+goto calc / 1900 54
+goto calc / 6176 13
+goto 7776
+goto calc + 5120 50
+goto 6226
+goto calc + 5454 48
+goto calc / 7911 37
+goto 2540
+goto calc - 1378 71
+remove 1866
+goto calc / 4779 60
+goto 292
+remove 7643
+goto calc + 5678 44
+goto calc + 2052 56
+replace 1845 2541
+replace 9568 8650
+remove 3606
+goto 6514
+goto calc + 672 49
+goto 8183
+remove 1048
+replace 9123 7041
+goto calc - 1325 51
+replace 8929 7641
+goto 5507
+remove 7915
+remove 2140
+goto calc - 5824 38
+goto 5687
+replace 3371 887
+goto calc / 3927 57
